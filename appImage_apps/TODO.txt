@@ -1,0 +1,6 @@
+etcher-1.2.0-x86_64.AppImage
+FBReader-0.99.4.glibc2.14-x86_64.AppImage
+Hugin-2016.3.0+hg7535+dfsg.glibc2.14-x86_64.AppImage
+Calibre-2.58.0.glibc2.7-x86_64.AppImage
+AppImageUpdate-206.g78dc97c-x86_64.AppImage
+
