@@ -1,11 +1,11 @@
 #!/bin/bash
 
+source _setup.sh
+
 # dev & build
 sudo apt-fast -qq  -y install build-essential make autoconf automake libtool flex bison gdb libc6-dev libgcc1 cmake cmake-curses-gui pkg-config help2man checkinstall libgtk-3.0
 sudo apt-fast -qq  -y install clang g++-4.8 git git-core kiki perl gcc-multilib
 sudo apt-fast -qq  -y install build-essential debhelper devscripts libblkid-dev libmount-dev libncursesw5-dev libparted0-dev qtbase5-dev qttools5-dev-tools
-
-
 
 sudo apt-fast -qq  -y install git
 git config --global user.name Thomas White

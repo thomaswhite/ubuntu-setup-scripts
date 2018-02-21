@@ -1,5 +1,6 @@
 #!/bin/bash
 
+source _setup.sh
 
 #system utilities
 sudo apt-fast -qq  -y install udisks2 gparted libstdc++5 gksu gdebi synaptic apt aptitude cabextract preload wget uget notify-osd curl libcurl3
@@ -11,7 +12,7 @@ sudo apt-fast -qq  -y install s3cmd
 
 # linux-tools-generic
 sudo apt-fast -qq  -y install dconf-editor dconf-cli
-sudo apt-fast -qq  -y install doublecmd
+#sudo apt-fast -qq  -y install doublecmd
 sudo apt-fast -qq  -y install zip unzip p7zip-full p7zip-rar rar unrar
 
 
@@ -26,11 +27,9 @@ sudo apt-fast -qq  -y install y-ppa-manager launchpad-getkeys
 sudo apt-fast -qq  -y install ppa-purge
 
 sudo ppa-add teejee2008/ppa
-sudo apt-fast -qq  -y install libgee json-glib rsync   # requred by timeshift
-sudo apt-fast -qq  -y install ukuu   # timeshift # http://www.teejeetech.in/p/timeshift.html
-
+#sudo apt-fast -qq  -y install libgee json-glib rsync   # requred by timeshift
+sudo apt-fast -qq  -y install ukuu  timeshift # http://www.teejeetech.in/p/timeshift.html
 sudo apt-fast -qq  -y install skypeforlinux
-
 sudo apt-fast -qq  -y install insync
 
 sudo apt-fast -qq  -y install resilio-sync; sudo systemctl enable resilio-sync
@@ -41,7 +40,6 @@ sudo apt-fast -qq  -y install calibre fbreader
 sudo apt-fast -qq  -y install evince diffpdf pdfshuffler pdftk xpdf origami-pdf pdfchain pdfmod pdf-presenter-console  qpdf  poppler-utils pdfsam
 
 sudo apt-get -y -qq install  exfat-fuse exfat-utils #ntfs-3g 
-
 
 # cisco vpn client
 sudo apt-fast -qq  -y install network-manager-openconnect network-manager-openconnect-gnome

@@ -8,6 +8,6 @@ Note: To make updating of the submodules working properly remember to set in you
   
   
 **Quick install**  
-  n='quick-install_ubuntu-17-10-setup.sh'; wget -qN https://git.io/vA0n7 -O "$HOME/$n"; chmod +x "$HOME/$n"; bash "$HOME/$n"
+  n='quick-install_ubuntu-17.10-setup.sh'; wget -qN https://git.io/vA0oX -O "$HOME/$n"; chmod +x "$HOME/$n"; bash "$HOME/$n"
   
   Note: you will be asked for your github credentials

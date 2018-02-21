@@ -1,28 +1,12 @@
 #!/bin/bash
 
-source timestamp-line.sh
-sudo dpkg  -add -architecture i386
+source _setup.sh
 
+sudo apt-get -y upgrade
+sudo apt-get -y autoclean
+sudo apt-get -y autoremove
 
-[ -d deb-tmp ] || mkdir -p deb-download
-pushd deb-download
-wget -nv -i ../deb_files.txt
-
-deb_install_from_file_list ../deb_files.txt
-
-# gdebi -o APT::Install-Recommends=0 -o APT::Install-Suggests=0 .....
-for f in *.deb; do
-   is_installed=deb_check_if_installed $f
-   if [ "$is_installed" != 'yes' ]; then
-       rulem " installing $f"
-       sudo gdebi -n -o APT::Install-Recommends=1 "$f"
-       sudo apt-get install -fy
-   fi
-done
-
-sudo apt-fast -y upgrade
-sudo apt-fast -y autoclean 
-sudo apt -y autoremove
+deb_install_from_file_list deb_files.txt "$download_deb"
 
 
 #readarray files < deb-files-to-download.txt

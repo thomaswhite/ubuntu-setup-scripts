@@ -7,8 +7,7 @@
 # git clone https://github.com/erikdubois/Surfn /tmp/Surfn
 # find /tmp/Surfn -maxdepth 1 -type f -exec rm -rf '{}' \;
 
-source timestamp-line.sh
-source check_if_functions_present.sh
+source _setup.sh
 
 sudo apt-get -y -qq install etckeeper
 sudo apt-get -y -qq install git wget aria2 apt-transport-https
@@ -16,10 +15,10 @@ sudo apt-get -y -qq install git wget aria2 apt-transport-https
 if ! [[ -f /usr/bin/apt-fast ]]; then
   sudo cp 2copy/etc/apt-fast.conf /etc/apt-fast.conf
   github_get_a_file /ilikenwf/apt-fast/master/apt-fast                       /usr/local/sbin/apt-fast          x
-  github_get_a_file /ilikenwf/apt-fast/blob/master/completions/bash/apt-fast /etc/bash_completion.d/apt-fast  ''  'root:root'
+  github_get_a_file /ilikenwf/apt-fast/master/completions/bash/apt-fast /etc/bash_completion.d/apt-fast  ''  'root:root'
 fi
 
-source _upgrade-all.sh
+source 99.upgrade-all.sh
 
 sudo dpkg  --add-architecture i386
 sudo add-apt-repository -y universe
@@ -60,6 +59,8 @@ ppa-add-list-file_and_key "deb http://linux-packages.resilio.com/resilio-sync/de
 ppa-add-list-file_and_key "deb https://apt.syncthing.net/ syncthing stable"                                 syncthing.list      https://syncthing.net/release-key.txt
 ppa-add-list-file_and_key "deb [arch=amd64] https://repo.skype.com/deb stable main"                         skypeforlinux.list  https://repo.skype.com/data/SKYPE-GPG-KEY
 
+
+
 ## spotify-client
 #sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys BBEBDCB318AD50EC6865090613B00F1FD2C19886
 #echo deb http://repository.spotify.com stable non-free | sudo tee /etc/apt/sources.list.d/spotify.list
@@ -81,6 +82,7 @@ sudo ./apt-remove-duplicate-source-entries.py
 sudo apt-fast -qq  -y install ubuntu*keyring debian*keyring gnome*keyring python*keyring
 sudo launchpad-getkeys # -p  http://lotg-new.odd.blackspider.com:3128
 sudo apt-fast update
+sudo apt-fast -y dist-upgrade
 
 ## remove duplicate PPA entries
 # sudo cat /etc/apt/sources.list | perl -ne '$H{$_}++ or print' > /tmp/sources.list && sudo mv /tmp/sources.list /etc/apt/sources.list

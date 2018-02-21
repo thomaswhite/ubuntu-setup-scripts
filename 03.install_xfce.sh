@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source timestamp-line.sh
+source _setup.sh
 
 # ???  ppa-add xubuntu-dev/xfce4-gtk3		# xfce4 tools
 

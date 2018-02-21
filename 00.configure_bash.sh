@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-sudo apt-get -y -qq install git rsync etckeeper
+sudo apt-get -qq -y install etckeeper
+sudo apt-get -qq -y install git rsync wget curl
 
 # very first run
 if ! [[ -f ~/.bash_functions ]]; then
@@ -11,5 +12,3 @@ if ! [[ -f ~/.bash_functions ]]; then
 else
    rsync  -avu  --include ".*"  2copy/home/  ~/
 fi
-
-

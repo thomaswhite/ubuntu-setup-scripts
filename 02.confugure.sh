@@ -1,5 +1,7 @@
 #!/bin/bash
 
+source _setup.sh
+
 # https://ubuntuforums.org/showthread.php?t=2337567
 # https://ubuntuforums.org/showthread.php?t=2342450
 
