@@ -2,12 +2,14 @@
 
 source _setup.sh
 
+sudo apt-get -y update
 sudo apt-get -y upgrade
-sudo apt-get -y autoclean
-sudo apt-get -y autoremove
 
 deb_install_from_file_list deb_files.txt "$download_deb"
 
+sudo apt-get -y upgrade
+sudo apt-get -y autoclean
+sudo apt-get -y autoremove
 
 #readarray files < deb-files-to-download.txt
 #for f in "${files[@]}"; do wget $f; done

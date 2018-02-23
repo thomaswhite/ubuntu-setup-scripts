@@ -4,7 +4,7 @@ sudo apt-get -qq -y install etckeeper
 sudo apt-get -qq -y install git rsync wget curl
 
 # very first run
-if ! [[ -f ~/.bash_functions ]]; then
+if  [ ! -f ~/.bash_functions ]; then
    cp -fvr 2copy/home ~
    wget https://raw.githubusercontent.com/pts/pts-merge-history-bash/master/merge_history.bash -o "$HOME/merge_history.bash"
    touch ~/.merged_bash_history
