@@ -5,10 +5,11 @@
 source _setup.sh
 
 sudo apt-fast -qq  -y install python python-pip python-software-properties python-gpgme
-sudo apt-fast -qq  -y install python3 python3-pip
+sudo apt-fast -qq  -y install python3 python3-pip python3-venv python3-virtualenv
 
 pip install --allow-unverified pyPdf pyPdf
 pip install requests bottle yad speedtest-cli apt-select
+pip install git+https://github.com/dmpop/sonnenhut.git@develop
 #sudo pip install repren
 pip install --upgrade pip 
 
