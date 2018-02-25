@@ -9,5 +9,4 @@ https://hdrsoft.com/download/linux/PhotomatixLinux1.1_Ubuntu16.04.deb
 https://launchpad.net/app-thumbnailer/trunk/0.8/+download/app-thumbnailer_0.8.2_all.deb
 https://launchpad.net/ubuntu/+archive/primary/+files/mp3gain_1.5.2-r2-6_amd64.deb
 https://linux.dropbox.com/packages/ubuntu/dropbox_2015.10.28_amd64.deb
-https://repo.skype.com/deb/pool/main/s/skypeforlinux/skypeforlinux_8.15.0.4_amd64.deb
 https://zoom.us/client/latest/zoom_amd64.deb

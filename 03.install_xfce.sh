@@ -18,7 +18,7 @@ sudo apt-fast -qq  -y install xubuntu-restricted-addons xubuntu-restricted-extra
 
 ### thunar ----
 
-# cp ./thunar/uca.xml ~/.config/Thunar/uca.xml
+cp 2copy/home/.config/Thunar/uca.xml ~/.config/Thunar/uca.xml
 xfconf-query --channel thunar --property /misc-full-path-in-title 		        --create --type bool --set true
 xfconf-query --channel thunar --property /misc-exec-shell-scripts-by-default 	--create --type bool --set true
 xfconf-query --channel thunar --property /misc-image-size-in-statusbar 		    --create --type bool --set true
@@ -36,5 +36,5 @@ sudo chmod 701 -R ~/.cache/thumbnails
 
 sudo killall thunar
 sudo killall thunar
-thunar
+
 

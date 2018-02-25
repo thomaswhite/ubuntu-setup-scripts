@@ -18,14 +18,15 @@ if ! [[ -f /usr/bin/apt-fast ]]; then
   github_get_a_file /ilikenwf/apt-fast/master/completions/bash/apt-fast /etc/bash_completion.d/apt-fast  ''  'root:root'
 fi
 
+
+sudo sh -c 'echo "Acquire::Languages { \"en\"; };" > /etc/apt/apt.conf.d/99translations'
+
 source 99.upgrade-all.sh
 
-sudo dpkg  --add-architecture i386
-sudo add-apt-repository -y universe
 
 ## https://launchpad.net/~saiarcot895/+archive/ubuntu/myppa
 
-ppa-add saiarcot895/myppa		    # apt-fast
+
 ppa-add teejee2008/ppa			    # aptik, compared ukuu timeshift
 ppa-add dhor/myway			        # luminance-hdr, fotoxx, ffmpeg
 ppa-add webupd8team/y-ppa-manager   # y-ppa-manager
@@ -37,7 +38,7 @@ ppa-add graphics-drivers/ppa		# nvidia
 ppa-add pmjdebruijn/darktable-unstable # darktable pmjdebruijn/darktable-release
 #ppa-add linrunner/tlp			    #  tlp tlp-rdw ;
 
-ppa-add xubuntu-dev/xubuntu-staging   # thunar freeze fix https://launchpad.net/~xubuntu-dev/+archive/ubuntu/staging
+ppa-add xubuntu-dev/staging   # thunar freeze fix https://launchpad.net/~xubuntu-dev/+archive/ubuntu/staging
                                                              # https://bugs.launchpad.net/ubuntu/+source/thunar/+bug/1679488
 
 
@@ -47,17 +48,17 @@ ppa-add_from-previous-release http://ppa.launchpad.net/videolan/stable-daily/ubu
 ppa-add_from-previous-release http://ppa.launchpad.net/noobslab/apps/ubuntu         xenial  main	# playonlinux
 ppa-add_from-previous-release http://ppa.launchpad.net/hugin/hugin-builds/ubuntu    xenial  main     # hugin enblend-enfuse
 ppa-add_from-previous-release http://ppa.launchpad.net/nemh/systemback/ubuntu       yakkety main  	# systemback
-ppa-add_from-previous-release http://mp3splt.sourceforge.net/repository             trusty  main		# mp3splt
+# ppa-add_from-previous-release http://mp3splt.sourceforge.net/repository             trusty  main		# mp3splt
 ppa-add_from-previous-release http://ppa.launchpad.net/alexx2000/doublecmd/ubuntu   zesty   main      # Double Commander
 ppa-add_from-previous-release http://ppa.launchpad.net/amigadave/ppa/ubuntu         yakkety main    # easytag
 
 # opera developer
 ppa-add-list-file_and_key "deb http://deb.opera.com/opera-stable/ stable non-free"                          opera.list          http://deb.opera.com/archive.key
-ppa-add-list-file_and_key "deb http://apt.insynchq.com/ubuntu $(lsb_release -c -s) non-free contrib"        insync.list ""      keyserver.ubuntu.com ACCAF35C
+ppa-add-list-file_and_key "deb http://apt.insynchq.com/ubuntu $(lsb_release -c -s) non-free contrib"        insync.list          "" keyserver.ubuntu.com ACCAF35C
 ppa-add-list-file_and_key "deb https://atlassian.artifactoryonline.com/atlassian/hipchat-apt-client $(lsb_release -c -s) main" atlassian-hipchat4.list https://atlassian.artifactoryonline.com/atlassian/api/gpg/key/public
 ppa-add-list-file_and_key "deb http://linux-packages.resilio.com/resilio-sync/deb resilio-sync non-free"    resilio-sync.list   https://linux-packages.resilio.com/resilio-sync/key.asc
 ppa-add-list-file_and_key "deb https://apt.syncthing.net/ syncthing stable"                                 syncthing.list      https://syncthing.net/release-key.txt
-ppa-add-list-file_and_key "deb [arch=amd64] https://repo.skype.com/deb stable main"                         skypeforlinux.list  https://repo.skype.com/data/SKYPE-GPG-KEY
+#ppa-add-list-file_and_key "deb [arch=amd64] https://repo.skype.com/deb stable main"                         skypeforlinux.list  https://repo.skype.com/data/SKYPE-GPG-KEY
 
 
 
@@ -71,11 +72,11 @@ ppa-add-list-file_and_key "deb [arch=amd64] https://repo.skype.com/deb stable ma
 
 ## https://askubuntu.com/questions/760896/how-can-i-automatically-fix-w-target-packages-is-configured-multiple-times
 
-sudo apt-fast update
-sudo apt-fast -qq  -y install y-ppa-manager aptik
-sudo apt-fast -qq  -y install y-ppa-manager launchpad-getkeys
+sudo apt-get       -y update
+#sudo apt-get  -qq  -y install apt-fast
+sudo apt-fast -qq  -y install aptik y-ppa-manager launchpad-getkeys
 
-sudo apt-get -qq -y install python
+sudo apt-fast -qq -y install python
 sudo ./apt-remove-duplicate-source-entries.py
 
 ## Add missing keys: http://www.webupd8.org/2011/02/launchpad-getkeys-gets-proxy-support.html
