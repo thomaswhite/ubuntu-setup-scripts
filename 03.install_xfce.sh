@@ -2,7 +2,7 @@
 
 source _setup.sh
 
-# ???  ppa-add xubuntu-dev/xfce4-gtk3		# xfce4 tools
+# ???  ppa_add xubuntu-dev/xfce4-gtk3		# xfce4 tools
 
 sudo apt-fast -qq  -y install dconf-tools
 # gsettings set com.canonical.indicator.sound blacklisted-media-players

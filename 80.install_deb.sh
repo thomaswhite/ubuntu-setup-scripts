@@ -5,7 +5,7 @@ source _setup.sh
 sudo apt-get -y update
 sudo apt-get -y upgrade
 
-deb_install_from_file_list deb_files.txt "$download_deb"
+deb_install_packages_from_file_URL_list deb_files.txt "$download_deb"
 
 sudo apt-get -y upgrade
 sudo apt-get -y autoclean

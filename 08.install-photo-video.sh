@@ -18,14 +18,14 @@ sudo apt-fast -qq  -y install  autoconf pkg-config nasm libtool inotify-tools im
 # video
 #sudo apt-fast -qq  -y install   libavcodec-extra transcode transcode-doc libav-tools advancecomp youtube-viewer
 
-# ppa-add nilarimogard/webupd8
+# ppa_add nilarimogard/webupd8
 sudo apt-fast -qq  -y install youtube-dl
 
 sudo apt-fast -qq  -y install deluge  ffmpeg
 
 
 Echo TO Fix ================
-ppa-add dhor/myway
+ppa_add dhor/myway
 sudo apt-fast -qq  -y install   luminance-hdr
 # photoflow photoxx hdrmerge
 

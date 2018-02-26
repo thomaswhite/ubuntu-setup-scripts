@@ -18,17 +18,17 @@ sudo apt-fast -qq  -y install dconf-editor dconf-cli
 sudo apt-fast -qq  -y install zip unzip p7zip-full p7zip-rar rar unrar
 
 
-ppa-add webupd8team/java
+ppa_add webupd8team/java
 sudo apt-fast -qq  -y install  oracle-java8-installer #  oracle-java9-installer
 
-ppa-add teejee2008/ppa
+ppa_add teejee2008/ppa
 sudo apt-fast -qq  -y install aptik
 
-ppa-add webupd8team/y-ppa-manager
+ppa_add webupd8team/y-ppa-manager
 sudo apt-fast -qq  -y install y-ppa-manager launchpad-getkeys
 sudo apt-fast -qq  -y install ppa-purge
 
-ppa-add teejee2008/ppa
+ppa_add teejee2008/ppa
 #sudo apt-fast -qq  -y install libgee json-glib rsync   # requred by timeshift
 sudo apt-fast -qq  -y install ukuu  timeshift # http://www.teejeetech.in/p/timeshift.html
 sudo apt-fast -qq  -y install skypeforlinux
@@ -48,7 +48,7 @@ sudo apt-fast -qq  -y install network-manager-openconnect network-manager-openco
 sudo systemctl restart NetworkManager.service
 
 # remote connection
-ppa-add x2go/stable
+ppa_add x2go/stable
 sudo apt-fast -qq  -y install x2goclient x2goserver x2goserver-xsession
 
 #find dupicate files

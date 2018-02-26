@@ -27,38 +27,38 @@ source 99.upgrade-all.sh
 ## https://launchpad.net/~saiarcot895/+archive/ubuntu/myppa
 
 
-ppa-add teejee2008/ppa			    # aptik, compared ukuu timeshift
-ppa-add dhor/myway			        # luminance-hdr, fotoxx, ffmpeg
-ppa-add webupd8team/y-ppa-manager   # y-ppa-manager
-ppa-add nilarimogard/webupd8		# youtube-dl
-ppa-add webupd8team/java		    # oracle JAVA 8..9
-ppa-add mkusb/ppa 			        # mkusb
-ppa-add x2go/stable			        # remore connection
-ppa-add graphics-drivers/ppa		# nvidia
-ppa-add pmjdebruijn/darktable-unstable # darktable pmjdebruijn/darktable-release
-#ppa-add linrunner/tlp			    #  tlp tlp-rdw ;
+ppa_add teejee2008/ppa			    # aptik, compared ukuu timeshift
+ppa_add dhor/myway			        # luminance-hdr, fotoxx, ffmpeg
+ppa_add webupd8team/y-ppa-manager   # y-ppa-manager
+ppa_add nilarimogard/webupd8		# youtube-dl
+ppa_add webupd8team/java		    # oracle JAVA 8..9
+ppa_add mkusb/ppa 			        # mkusb
+ppa_add x2go/stable			        # remore connection
+ppa_add graphics-drivers/ppa		# nvidia
+ppa_add pmjdebruijn/darktable-unstable # darktable pmjdebruijn/darktable-release
+#ppa_add linrunner/tlp			    #  tlp tlp-rdw ;
 
-ppa-add xubuntu-dev/staging   # thunar freeze fix https://launchpad.net/~xubuntu-dev/+archive/ubuntu/staging
+ppa_add xubuntu-dev/staging   # thunar freeze fix https://launchpad.net/~xubuntu-dev/+archive/ubuntu/staging
                                                              # https://bugs.launchpad.net/ubuntu/+source/thunar/+bug/1679488
 
 
 # Not available above Ubuntu 16.10
-ppa-add_from-previous-release http://ppa.launchpad.net/rebuntu16/other-stuff/ubuntu yakkety main	    # # xfce-theme-manager xfwm4-composite-editor
-ppa-add_from-previous-release http://ppa.launchpad.net/videolan/stable-daily/ubuntu yakkety main        # vlc
-ppa-add_from-previous-release http://ppa.launchpad.net/noobslab/apps/ubuntu         xenial  main	# playonlinux
-ppa-add_from-previous-release http://ppa.launchpad.net/hugin/hugin-builds/ubuntu    xenial  main     # hugin enblend-enfuse
-ppa-add_from-previous-release http://ppa.launchpad.net/nemh/systemback/ubuntu       yakkety main  	# systemback
-# ppa-add_from-previous-release http://mp3splt.sourceforge.net/repository             trusty  main		# mp3splt
-ppa-add_from-previous-release http://ppa.launchpad.net/alexx2000/doublecmd/ubuntu   zesty   main      # Double Commander
-ppa-add_from-previous-release http://ppa.launchpad.net/amigadave/ppa/ubuntu         yakkety main    # easytag
+ppa_add_from_previous_release http://ppa.launchpad.net/rebuntu16/other-stuff/ubuntu yakkety main	    # # xfce-theme-manager xfwm4-composite-editor
+ppa_add_from_previous_release http://ppa.launchpad.net/videolan/stable-daily/ubuntu yakkety main        # vlc
+ppa_add_from_previous_release http://ppa.launchpad.net/noobslab/apps/ubuntu         xenial  main	# playonlinux
+ppa_add_from_previous_release http://ppa.launchpad.net/hugin/hugin-builds/ubuntu    xenial  main     # hugin enblend-enfuse
+ppa_add_from_previous_release http://ppa.launchpad.net/nemh/systemback/ubuntu       yakkety main  	# systemback
+# ppa_add_from_previous_release http://mp3splt.sourceforge.net/repository             trusty  main		# mp3splt
+ppa_add_from_previous_release http://ppa.launchpad.net/alexx2000/doublecmd/ubuntu   zesty   main      # Double Commander
+ppa_add_from_previous_release http://ppa.launchpad.net/amigadave/ppa/ubuntu         yakkety main    # easytag
 
 # opera developer
-ppa-add-list-file_and_key "deb http://deb.opera.com/opera-stable/ stable non-free"                          opera.list          http://deb.opera.com/archive.key
-ppa-add-list-file_and_key "deb http://apt.insynchq.com/ubuntu $(lsb_release -c -s) non-free contrib"        insync.list          "" keyserver.ubuntu.com ACCAF35C
-ppa-add-list-file_and_key "deb https://atlassian.artifactoryonline.com/atlassian/hipchat-apt-client $(lsb_release -c -s) main" atlassian-hipchat4.list https://atlassian.artifactoryonline.com/atlassian/api/gpg/key/public
-ppa-add-list-file_and_key "deb http://linux-packages.resilio.com/resilio-sync/deb resilio-sync non-free"    resilio-sync.list   https://linux-packages.resilio.com/resilio-sync/key.asc
-ppa-add-list-file_and_key "deb https://apt.syncthing.net/ syncthing stable"                                 syncthing.list      https://syncthing.net/release-key.txt
-#ppa-add-list-file_and_key "deb [arch=amd64] https://repo.skype.com/deb stable main"                         skypeforlinux.list  https://repo.skype.com/data/SKYPE-GPG-KEY
+ppa_add_list_file_and_key "deb http://deb.opera.com/opera-stable/ stable non-free"                          opera.list          http://deb.opera.com/archive.key
+ppa_add_list_file_and_key "deb http://apt.insynchq.com/ubuntu $(lsb_release -c -s) non-free contrib"        insync.list          "" keyserver.ubuntu.com ACCAF35C
+ppa_add_list_file_and_key "deb https://atlassian.artifactoryonline.com/atlassian/hipchat-apt-client $(lsb_release -c -s) main" atlassian-hipchat4.list https://atlassian.artifactoryonline.com/atlassian/api/gpg/key/public
+ppa_add_list_file_and_key "deb http://linux-packages.resilio.com/resilio-sync/deb resilio-sync non-free"    resilio-sync.list   https://linux-packages.resilio.com/resilio-sync/key.asc
+ppa_add_list_file_and_key "deb https://apt.syncthing.net/ syncthing stable"                                 syncthing.list      https://syncthing.net/release-key.txt
+#ppa_add_list_file_and_key "deb [arch=amd64] https://repo.skype.com/deb stable main"                         skypeforlinux.list  https://repo.skype.com/data/SKYPE-GPG-KEY
 
 
 
