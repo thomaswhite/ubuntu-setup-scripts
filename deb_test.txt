@@ -1,0 +1,2 @@
+http://download.cdn.viber.com/cdn/desktop/Linux/viber.deb
+http://packages.linuxmint.com/pool/import/p/picasa/picasa_3.0.5744-02_amd64.deb
