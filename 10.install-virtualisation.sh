@@ -1,9 +1,12 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 source _setup.sh
 
 #   qemu lzop
-sudo apt-fast -qq  -y install wine-stable wine32 wine32-tools  wine32-preloader
-sudo apt-fast -qq  -y install wine64 wine64-toolswine64-preloader
-sudo apt-fast -qq  -y install winetricks wine-fish playonlinux
+sudo apt-fast -y -qq install wine-stable wine32 wine32-tools  wine32-preloader 
+sudo apt-fast -y -qq install wine64 
+sudo apt-fast -y -qq install wine64-tools wine64-preloader 
+sudo apt-fast -y -qq install winetricks 
+#sudo apt-fast -y -qq install wine-fish 
+sudo apt-fast -y -qq install playonlinux
 
