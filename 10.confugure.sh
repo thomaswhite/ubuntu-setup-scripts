@@ -2,12 +2,17 @@
 
 source _setup.sh
 
+sudo apt-fast -qq  -y remove xserver-xorg-video-intel
+sudo apt-fast -qq  -y install preload; sudo systemctl enable preload; sudo systemctl start preload
+
+
 # https://ubuntuforums.org/showthread.php?t=2337567
 # https://ubuntuforums.org/showthread.php?t=2342450
 
 # systemd-analyze blame outputs
 # systemd-analyze critical-chain
 # systemctl list-units --type service --all
+
 
 #sudo systemctl disable apt-daily.service
 #sudo systemctl disable apt-daily-upgrade.service
@@ -29,6 +34,9 @@ sudo systemctl mask    pppd-dns.service
 
 sudo systemctl disable cups-browsed.service
 
+sudo apt-fast -qq  -y install dconf-tools
+# gsettings set com.canonical.indicator.sound blacklisted-media-players
+gsettings set com.canonical.indicator.sound interested-media-players []
 gconftool-2 -s -t string /apps/notify-osd/multihead_mode focus-follow
 
 #[HOW TO] Disable crash reports in Xubuntu
@@ -50,7 +58,6 @@ if ! grep "vm.swappiness" /etc/sysctl.d/99-sysctl.conf; then
   sudo echo 'vm.swappiness=5' >> /etc/sysctl.d/99-sysctl.conf
 fi
 
-sudo apt-fast -qq  -y install preload; sudo systemctl enable preload; sudo systemctl start preload
 
 # sudo systemctl edit apt-daily.timer 
 sudo mkdir -p /etc/systemd/system/apt-daily-upgrade.timer.d/
@@ -71,7 +78,6 @@ OnUnitActiveSec=1d
 AccuracySec=1h
 RandomizedDelaySec=33min
 EOL
-
 
 
 #http://askubuntu.com/questions/627899/nameserver-127-0-1-1-in-resolv-conf-wont-go-away

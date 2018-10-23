@@ -4,10 +4,6 @@ source _setup.sh
 
 # ???  ppa_add xubuntu-dev/xfce4-gtk3		# xfce4 tools
 
-sudo apt-fast -qq  -y install dconf-tools
-# gsettings set com.canonical.indicator.sound blacklisted-media-players
-gsettings set com.canonical.indicator.sound interested-media-players []
-
 sudo apt-fast -qq  -y install xfce-theme-manager xfce-keyboard-shortcuts xfburn xfe xterm menulibre alacarte
 sudo apt-fast -qq  -y install xfce4-*-plugin xfce4-appfinder xfce4-dict xfce4-goodies xfce4-notifyd xfce4-panel xfce4-power-* xfce4-settings xfce4-terminal
 

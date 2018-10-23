@@ -28,7 +28,7 @@ source 99.upgrade-all.sh
 
 
 ppa_add teejee2008/ppa			    # aptik, compared ukuu timeshift
-ppa_add dhor/myway			        # luminance-hdr, fotoxx, ffmpeg
+ppa_add dhor/myway			        # luminance-hdr, fotoxx, ffmpeg, hdrmerge
 ppa_add webupd8team/y-ppa-manager   # y-ppa-manager
 ppa_add nilarimogard/webupd8		# youtube-dl
 ppa_add webupd8team/java		    # oracle JAVA 8..9

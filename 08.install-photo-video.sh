@@ -26,8 +26,10 @@ sudo apt-fast -qq  -y install deluge  ffmpeg
 
 Echo TO Fix ================
 ppa_add dhor/myway
-sudo apt-fast -qq  -y install   luminance-hdr
-# photoflow photoxx hdrmerge
+sudo apt-fast -qq  -y install luminance-hdr
+sudo apt-fast -qq  -y install photoflow
+sudo apt-fast -qq  -y install hdrmerge
+#  photoxx
 
 sudo apt-fast -qq -y install  hugin
 # enblend-enfuse
