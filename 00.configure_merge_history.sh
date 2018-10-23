@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 sudo apt-get -qq -y install etckeeper
-sudo apt-get -qq -y install git rsync wget curl
+sudo apt-get -qq -y install git rsync wget curl gdebi
 
 # very first run
 if  [ ! -f ~/.bash_functions ]; then

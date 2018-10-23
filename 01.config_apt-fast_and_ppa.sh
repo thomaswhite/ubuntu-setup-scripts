@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # examples
 # echo $(printf '%s\n' zebra ant spider spider ant zebra ant | sort -u)
@@ -10,7 +10,7 @@
 source _setup.sh
 
 sudo apt-get -y -qq install etckeeper
-sudo apt-get -y -qq install git wget aria2 apt-transport-https
+sudo apt-get -y -qq install git wget aria2 apt-transport-https gdebi
 
 if ! [[ -f /usr/bin/apt-fast ]]; then
   sudo cp 2copy/etc/apt-fast.conf /etc/apt-fast.conf
@@ -41,7 +41,7 @@ ppa_add pmjdebruijn/darktable-unstable # darktable pmjdebruijn/darktable-release
 ppa_add xubuntu-dev/staging   # thunar freeze fix https://launchpad.net/~xubuntu-dev/+archive/ubuntu/staging
                                                              # https://bugs.launchpad.net/ubuntu/+source/thunar/+bug/1679488
 
-
+echo "Add repositories not available above Ubuntu 16.10"
 # Not available above Ubuntu 16.10
 ppa_add_from_previous_release http://ppa.launchpad.net/rebuntu16/other-stuff/ubuntu yakkety main	    # # xfce-theme-manager xfwm4-composite-editor
 ppa_add_from_previous_release http://ppa.launchpad.net/videolan/stable-daily/ubuntu yakkety main        # vlc
@@ -55,10 +55,11 @@ ppa_add_from_previous_release http://ppa.launchpad.net/amigadave/ppa/ubuntu     
 # opera developer
 ppa_add_list_file_and_key "deb http://deb.opera.com/opera-stable/ stable non-free"                          opera.list          http://deb.opera.com/archive.key
 ppa_add_list_file_and_key "deb http://apt.insynchq.com/ubuntu $(lsb_release -c -s) non-free contrib"        insync.list          "" keyserver.ubuntu.com ACCAF35C
-ppa_add_list_file_and_key "deb https://atlassian.artifactoryonline.com/atlassian/hipchat-apt-client $(lsb_release -c -s) main" atlassian-hipchat4.list https://atlassian.artifactoryonline.com/atlassian/api/gpg/key/public
+# $(lsb_release -c -s)
+ ppa_add_list_file_and_key "deb https://atlassian.artifactoryonline.com/atlassian/hipchat-apt-client artful main" atlassian-hipchat4.list https://atlassian.artifactoryonline.com/atlassian/api/gpg/key/public
 ppa_add_list_file_and_key "deb http://linux-packages.resilio.com/resilio-sync/deb resilio-sync non-free"    resilio-sync.list   https://linux-packages.resilio.com/resilio-sync/key.asc
 ppa_add_list_file_and_key "deb https://apt.syncthing.net/ syncthing stable"                                 syncthing.list      https://syncthing.net/release-key.txt
-#ppa_add_list_file_and_key "deb [arch=amd64] https://repo.skype.com/deb stable main"                         skypeforlinux.list  https://repo.skype.com/data/SKYPE-GPG-KEY
+#ppa_add_list_file_and_key "deb [arch=amd64] https://repo.skype.com/deb stable main"                        skypeforlinux.list  https://repo.skype.com/data/SKYPE-GPG-KEY
 
 
 
