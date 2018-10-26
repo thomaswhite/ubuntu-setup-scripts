@@ -9,7 +9,8 @@ sudo apt-fast -qq  -y install xfce4-*-plugin xfce4-appfinder xfce4-dict xfce4-go
 
 #xfce4-dev-tools 
 
-sudo apt-fast -qq  -y install xubuntu-restricted-addons xubuntu-restricted-extras
+sudo apt-fast -qq  -y install xubuntu-restricted-addons 
+sudo apt-fast -qq  -y install xubuntu-restricted-extras
 #sudo apt-fast -qq  -y install gtk3-engines-xfce #desktop-profiles
 
 ### thunar ----
