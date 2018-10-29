@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
 
-sudo apt-fast -qq  -y install snapd
+#sudo apt-fast -qq  -y install snapd
 
-sudo snap install bundler-mardy  cloudcompare cmvs-mardy colmap-mardy gifcurry line3dpp-mardy meshlab-mardy mve-mardy mvs-texturing-mardy openmvs-mardy theia-mardy visualsfm-mardy
+sudo snap install bundler-mardy  cmvs-mardy colmap-mardy  line3dpp-mardy meshlab-mardy mve-mardy mvs-texturing-mardy openmvs-mardy theia-mardy visualsfm-mardy
+sudo snap install cloudcompare gifcurry
 
 # utilites
 sudo snap install  simplescreenrecorder-mardy
