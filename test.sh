@@ -2,4 +2,14 @@
 
 source _setup.sh
 
-ppa_add_file_and_key "resilio-sync.list" "deb http://linux-packages.resilio.com/resilio-sync/deb resilio-sync non-free" "https://linux-packages.resilio.com/resilio-sync/key.asc"
+
+ppa_add teejee2008/ppa			    # aptik, compared ukuu timeshift
+ppa_add dhor/myway			        # luminance-hdr, fotoxx, ffmpeg, hdrmerge
+ppa_add webupd8team/y-ppa-manager   # y-ppa-manager
+ppa_add nilarimogard/webupd8		# youtube-dl
+ppa_add webupd8team/java		    # oracle JAVA 8..9
+ppa_add mkusb/ppa 			        # mkusb
+ppa_add x2go/stable			        # remore connection
+ppa_add graphics-drivers/ppa		# nvidia
+
+ppa_add xubuntu-dev/staging
