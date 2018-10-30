@@ -6,7 +6,8 @@ sudo snap install bundler-mardy  cmvs-mardy colmap-mardy  line3dpp-mardy meshlab
 sudo snap install cloudcompare gifcurry
 
 # utilites
-sudo snap install  simplescreenrecorder-mardy
+sudo snap install  simplescreenrecorder-mardy tpad termius-app
+snap install --classic rclone
 
 # audio
 sudo snap install gnome-easytag spotify
