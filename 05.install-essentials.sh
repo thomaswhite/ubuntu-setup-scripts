@@ -20,24 +20,24 @@ sudo apt-fast -qq -y install dconf-editor dconf-cli
 sudo apt-fast -qq -y install zip unzip p7zip-full p7zip-rar rar unrar
 
 
-ppa_add teejee2008/ppa
+#ppa_add teejee2008/ppa
 sudo apt-fast -qq -y install aptik
 
-ppa_add webupd8team/y-ppa-manager
+#ppa_add webupd8team/y-ppa-manager
 sudo apt-fast -qq -y install y-ppa-manager launchpad-getkeys
 sudo apt-fast -qq -y install ppa-purge
 
-ppa_add teejee2008/ppa
+#ppa_add teejee2008/ppa
 #sudo apt-fast -qq -y install libgee json-glib rsync   # requred by timeshift
 sudo apt-fast -qq -y install ukuu  timeshift # http://www.teejeetech.in/p/timeshift.html
 sudo apt-fast -qq -y install hipchat
 sudo apt-fast -qq -y install skypeforlinux
 sudo apt-fast -qq -y install insync
 
-
 sudo apt-fast -qq -y install resilio-sync
 sudo systemctl enable resilio-sync
 sudo sed -i "s/WantedBy=multi-user.target/WantedBy=default.target/g" '/usr/lib/systemd/user/resilio-sync.service '
+sudo systemctl --user enable resilio-sync
 sudo systemctl --user start resilio-sync
 
 sudo apt-fast -y -qq install calibre fbreader

@@ -9,22 +9,23 @@
 
 source _setup.sh
 
-sudo apt-get -y -qq install etckeeper
-sudo apt-get -y -qq install git wget aria2 apt-transport-https gdebi
-
-if ! [[ -f /usr/bin/apt-fast ]]; then
-  sudo cp 2copy/etc/apt-fast.conf /etc/apt-fast.conf
-  github_get_a_file /ilikenwf/apt-fast/master/apt-fast                       /usr/local/sbin/apt-fast          x
-  github_get_a_file /ilikenwf/apt-fast/master/completions/bash/apt-fast /etc/bash_completion.d/apt-fast  ''  'root:root'
-fi
-
-
-sudo sh -c 'echo "Acquire::Languages { \"en\"; };" > /etc/apt/apt.conf.d/99translations'
-
-source 99.upgrade-all.sh
-
-
 ## https://launchpad.net/~saiarcot895/+archive/ubuntu/myppa
+
+# releases
+# Ubuntu 18.10    Cosmic Cuttlefish
+# Ubuntu 18.04    Bionic Beaver
+# Ubuntu 17.10    Artful Aardvark
+# Ubuntu 17.04    Zesty Zapus
+# Ubuntu 16.10    Yakkety Yak
+# Ubuntu 16.04    Xenial Xerus
+# Ubuntu 15.10    Wily Werewolf
+# Ubuntu 15.04    Vivid Vervet
+# Ubuntu 14.04    Trusty Tahr
+
+# cosmic bionic artful zesty yakkety xenial
+#  curl -s --head http://ppa.launchpad.net/webupd8team/y-ppa-manager/ubuntu/dists/artful/main/ | head -n 1 | grep "HTTP/1.[01] [23].." > /dev/null
+# on success (page exists), $? will be 0; on failure (page does not exist or is unreachable), $? will be 1
+
 
 
 ppa_add teejee2008/ppa			    # aptik, compared ukuu timeshift
@@ -35,17 +36,18 @@ ppa_add webupd8team/java		    # oracle JAVA 8..9
 ppa_add mkusb/ppa 			        # mkusb
 ppa_add x2go/stable			        # remore connection
 ppa_add graphics-drivers/ppa		# nvidia
-ppa_add pmjdebruijn/darktable-unstable # darktable pmjdebruijn/darktable-release
+#ppa_add pmjdebruijn/darktable-unstable # darktable pmjdebruijn/darktable-release
 #ppa_add linrunner/tlp			    #  tlp tlp-rdw ;
 
 ppa_add xubuntu-dev/staging   # thunar freeze fix https://launchpad.net/~xubuntu-dev/+archive/ubuntu/staging
                                                              # https://bugs.launchpad.net/ubuntu/+source/thunar/+bug/1679488
 
+
 echo "Add repositories not available above Ubuntu 16.10"
 # Not available above Ubuntu 16.10
 ppa_add_from_previous_release http://ppa.launchpad.net/rebuntu16/other-stuff/ubuntu yakkety main	    # # xfce-theme-manager xfwm4-composite-editor
 ppa_add_from_previous_release http://ppa.launchpad.net/videolan/stable-daily/ubuntu yakkety main        # vlc
-ppa_add_from_previous_release http://ppa.launchpad.net/noobslab/apps/ubuntu         xenial  main	# playonlinux
+# ppa_add_from_previous_release http://ppa.launchpad.net/noobslab/apps/ubuntu         xenial  main	# playonlinux
 ppa_add_from_previous_release http://ppa.launchpad.net/hugin/hugin-builds/ubuntu    xenial  main     # hugin enblend-enfuse
 ppa_add_from_previous_release http://ppa.launchpad.net/nemh/systemback/ubuntu       yakkety main  	# systemback
 # ppa_add_from_previous_release http://mp3splt.sourceforge.net/repository             trusty  main		# mp3splt
@@ -53,10 +55,10 @@ ppa_add_from_previous_release http://ppa.launchpad.net/alexx2000/doublecmd/ubunt
 ppa_add_from_previous_release http://ppa.launchpad.net/amigadave/ppa/ubuntu         yakkety main    # easytag
 
 # opera developer
-ppa_add_list_file_and_key "deb http://deb.opera.com/opera-stable/ stable non-free"                          opera.list          http://deb.opera.com/archive.key
+# ppa_add_list_file_and_key "deb http://deb.opera.com/opera-stable/ stable non-free"                          opera.list          http://deb.opera.com/archive.key
 ppa_add_list_file_and_key "deb http://apt.insynchq.com/ubuntu $(lsb_release -c -s) non-free contrib"        insync.list          "" keyserver.ubuntu.com ACCAF35C
 # $(lsb_release -c -s)
- ppa_add_list_file_and_key "deb https://atlassian.artifactoryonline.com/atlassian/hipchat-apt-client artful main" atlassian-hipchat4.list https://atlassian.artifactoryonline.com/atlassian/api/gpg/key/public
+ppa_add_list_file_and_key "deb https://atlassian.artifactoryonline.com/atlassian/hipchat-apt-client artful main" atlassian-hipchat4.list https://atlassian.artifactoryonline.com/atlassian/api/gpg/key/public
 ppa_add_list_file_and_key "deb http://linux-packages.resilio.com/resilio-sync/deb resilio-sync non-free"    resilio-sync.list   https://linux-packages.resilio.com/resilio-sync/key.asc
 ppa_add_list_file_and_key "deb https://apt.syncthing.net/ syncthing stable"                                 syncthing.list      https://syncthing.net/release-key.txt
 #ppa_add_list_file_and_key "deb [arch=amd64] https://repo.skype.com/deb stable main"                        skypeforlinux.list  https://repo.skype.com/data/SKYPE-GPG-KEY

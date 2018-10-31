@@ -9,12 +9,13 @@ sudo apt-fast -qq  -y install xfce4-*-plugin xfce4-appfinder xfce4-dict xfce4-go
 
 #xfce4-dev-tools 
 
-sudo apt-fast -qq  -y install xubuntu-restricted-addons xubuntu-restricted-extras
+sudo apt-fast -qq  -y install xubuntu-restricted-addons 
+sudo apt-fast -qq  -y install xubuntu-restricted-extras
 #sudo apt-fast -qq  -y install gtk3-engines-xfce #desktop-profiles
 
 ### thunar ----
 
-cp 2copy/home/.config/Thunar/uca.xml ~/.config/Thunar/uca.xml
+# cp 2copy/home/.config/Thunar/uca.xml ~/.config/Thunar/uca.xml
 xfconf-query --channel thunar --property /misc-full-path-in-title 		        --create --type bool --set true
 xfconf-query --channel thunar --property /misc-exec-shell-scripts-by-default 	--create --type bool --set true
 xfconf-query --channel thunar --property /misc-image-size-in-statusbar 		    --create --type bool --set true
