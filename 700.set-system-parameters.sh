@@ -2,39 +2,7 @@
 
 source _setup.sh
 
-sudo apt-fast -qq  -y remove xserver-xorg-video-intel
-sudo apt-fast -qq  -y install preload; sudo systemctl enable preload; sudo systemctl start preload
 
-
-# https://ubuntuforums.org/showthread.php?t=2337567
-# https://ubuntuforums.org/showthread.php?t=2342450
-
-# systemd-analyze blame outputs
-# systemd-analyze critical-chain
-# systemctl list-units --type service --all
-
-
-#sudo systemctl disable apt-daily.service
-#sudo systemctl disable apt-daily-upgrade.service
-
-
-sudo systemctl disable kerneloops.service
-sudo systemctl disable ModemManager.service
-sudo systemctl disable speech-dispatcher.service 
-
-sudo systemctl disable whoopsie.service
-sudo systemctl disable bluetooth.service
-sudo systemctl mask    bluetooth.service
-
-sudo systemctl disable brltty.service
-sudo systemctl mask    brltty.service
-
-sudo systemctl disable pppd-dns.service
-sudo systemctl mask    pppd-dns.service
-
-sudo systemctl disable cups-browsed.service
-
-sudo apt-fast -qq  -y install dconf-tools
 # gsettings set com.canonical.indicator.sound blacklisted-media-players
 gsettings set com.canonical.indicator.sound interested-media-players []
 gconftool-2 -s -t string /apps/notify-osd/multihead_mode focus-follow

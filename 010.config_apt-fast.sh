@@ -9,6 +9,7 @@
 
 source _setup.sh
 
+source 061.dev-git-config.sh
 sudo apt-get -y -qq install etckeeper
 sudo apt-get -y -qq install git wget aria2 apt-transport-https gdebi
 
@@ -21,4 +22,4 @@ fi
 
 sudo sh -c 'echo "Acquire::Languages { \"en\"; };" > /etc/apt/apt.conf.d/99translations'
 
-source 99.upgrade-all.sh
+source 999.upgrade-all.sh
