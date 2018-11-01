@@ -2,8 +2,18 @@
 
 source _setup.sh
 
+# remove very old and slow video driver
+sudo apt-fast -qq  -y remove xserver-xorg-video-intel
+
 #system utilities
-sudo apt-fast -qq -y install udisks2 gparted libstdc++5 gdebi synaptic apt aptitude 
+sudo apt-fast -qq -y install dconf-tools
+sudo apt-fast -qq -y install linux-tools-common
+sudo apt-fast -qq -y install gnome-network-admin
+sudo apt-fast -qq -y install resolvconf-admin
+
+sudo apt-fast -qq  -y install preload; sudo systemctl enable preload; sudo systemctl start preload
+
+sudo apt-fast -qq -y install udisks2 gparted libstdc++5 gdebi synaptic apt aptitude
 sudo apt-fast -qq -y install cabextract preload wget uget notify-osd curl
 sudo apt-fast -qq -y install gnome-terminal 
 sudo apt-fast -qq -y install gnome-disk-utility
@@ -15,7 +25,8 @@ sudo apt-fast -qq -y install lynx
 # sudo apt-fast -qq -y install s3cmd
 
 # linux-tools-generic
-sudo apt-fast -qq -y install dconf-editor dconf-cli
+sudo apt-fast -qq -y install dconf-editor
+sudo apt-fast -qq -y install dconf-cli
 #sudo apt-fast -qq -y install doublecmd
 sudo apt-fast -qq -y install zip unzip p7zip-full p7zip-rar rar unrar
 
@@ -30,8 +41,8 @@ sudo apt-fast -qq -y install ppa-purge
 #ppa_add teejee2008/ppa
 #sudo apt-fast -qq -y install libgee json-glib rsync   # requred by timeshift
 sudo apt-fast -qq -y install ukuu  timeshift # http://www.teejeetech.in/p/timeshift.html
-sudo apt-fast -qq -y install hipchat
-sudo apt-fast -qq -y install skypeforlinux
+#sudo apt-fast -qq -y install hipchat
+#sudo apt-fast -qq -y install skypeforlinux
 sudo apt-fast -qq -y install insync
 
 sudo apt-fast -qq -y install resilio-sync
@@ -58,6 +69,7 @@ sudo apt-fast -qq -y install x2goclient x2goserver x2goserver-xsession
 #find dupicate files
 sudo apt-fast -qq -y install  fslint fdupes
 sudo apt-fast -qq -y install  xdotool ruby-full
+
 sudo ppa_add webupd8team/java
 sudo apt-fast -y -qq install  oracle-java8-installer #  oracle-java9-installer
 
