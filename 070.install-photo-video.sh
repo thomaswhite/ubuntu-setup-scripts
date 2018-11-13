@@ -3,7 +3,11 @@
 source _setup.sh
 # photo  ================================
 sudo apt-fast -qq  -y install  converseen pngnq  feh flickrfs frogr postr gpicview simple-image-reducer  viewnior xpaint jpegoptim optipng imagemagick  gimp
-sudo apt-fast -qq  -y install  libnotify-bin yad gphoto2 shutter
+sudo apt-fast -qq  -y install  libnotify-bin yad gphoto2
+sudo apt-fast -qq  -y install  shutter
+sudo apt-fast -qq  -y install gnome-raw-thumbnailer ufraw-batch
+sudo cp ./2copy/usr/share/thumbnailers/*.*  /usr/share/thumbnailers/
+rm -rf .cache/thumbnails/* .thumbnails/*
 
 #sudo apt-fast -qq  -y install  gnome-web-photo
 
