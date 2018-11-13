@@ -2,6 +2,7 @@
 
 source _setup.sh
 
+sudo sed -i 's/gksudo gdebi-gtk/pkexec gdebi-gtk/'  /usr/share/applications/gdebi.desktop
 
 # gsettings set com.canonical.indicator.sound blacklisted-media-players
 gsettings set com.canonical.indicator.sound interested-media-players []
