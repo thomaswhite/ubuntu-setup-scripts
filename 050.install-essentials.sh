@@ -10,6 +10,7 @@ sudo apt-fast -qq -y install dconf-tools
 sudo apt-fast -qq -y install linux-tools-common
 sudo apt-fast -qq -y install gnome-network-admin
 sudo apt-fast -qq -y install resolvconf-admin
+sudo apt-fast -qq -y install seahorse
 
 sudo apt-fast -qq  -y install preload; sudo systemctl enable preload; sudo systemctl start preload
 
