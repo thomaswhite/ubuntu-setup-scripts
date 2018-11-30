@@ -1,6 +1,10 @@
 #!/usr/bin/env bash
 
 source _setup.sh
+
+# Screenshot
+sudo apt install --install-recommends -shutter  # -install-suggests
+
 # photo  ================================
 sudo apt-fast -qq  -y install  converseen pngnq  feh flickrfs frogr postr gpicview simple-image-reducer  viewnior xpaint jpegoptim optipng imagemagick  gimp
 sudo apt-fast -qq  -y install  libnotify-bin yad gphoto2

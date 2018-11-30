@@ -40,8 +40,9 @@ ppa_add graphics-drivers/ppa		# nvidia
 #ppa_add pmjdebruijn/darktable-unstable # darktable pmjdebruijn/darktable-release
 #ppa_add linrunner/tlp			    #  tlp tlp-rdw ;
 
+ppa_add ubuntuhandbook1/shutter     # shutter
 ppa_add xubuntu-dev/staging   # thunar freeze fix https://launchpad.net/~xubuntu-dev/+archive/ubuntu/staging
-                                                             # https://bugs.launchpad.net/ubuntu/+source/thunar/+bug/1679488
+                              # https://bugs.launchpad.net/ubuntu/+source/thunar/+bug/1679488
 
 
 echo "Add repositories not available above Ubuntu 16.10"
