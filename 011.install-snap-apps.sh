@@ -7,7 +7,9 @@ sudo snap install cloudcompare gifcurry
 
 # utilites
 sudo snap install  simplescreenrecorder-mardy tpad
-snap install --classic rclone
+sudo snap install rclone --classic
+sudo snap install remmina --edge
+
 
 # audio
 # sudo snap install gnome-easytag
