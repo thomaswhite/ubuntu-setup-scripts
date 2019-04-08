@@ -2,6 +2,8 @@
 
 source _setup.sh
 
+sudo apt-fast -qq -y install ubuntu-restricted-extras
+
 # remove very old and slow video driver
 sudo apt-fast -qq  -y remove xserver-xorg-video-intel
 
@@ -73,6 +75,8 @@ sudo apt-fast -qq -y install  xdotool ruby-full
 
 sudo ppa_add webupd8team/java
 sudo apt-fast -y -qq install  oracle-java8-installer #  oracle-java9-installer
+
+sudo apt-fast -qq -y install   ttf-mscorefonts-installer
 
 #sudo apt-fast -y -qq install gksu
 #sudo apt-fast -y -qq install gnome-search-tool
