@@ -59,7 +59,7 @@ sudo apt-fast -y -qq install evince diffpdf pdfshuffler xpdf
 sudo apt-fast -y -qq install origami-pdf pdfmod pdf-presenter-console  
 sudo apt-fast -y -qq install qpdf  poppler-utils pdfsam
 
-sudo apt-get -y -qq install  exfat-fuse exfat-utils #ntfs-3g 
+# sudo apt-get -y -qq install  exfat-fuse exfat-utils #ntfs-3g 
 
 # cisco vpn client
 sudo apt-fast -qq -y install network-manager-openconnect network-manager-openconnect-gnome
@@ -67,14 +67,14 @@ sudo systemctl restart NetworkManager.service
 
 # remote connection
 ppa_add x2go/stable
-sudo apt-fast -qq -y install x2goclient x2goserver x2goserver-xsession
+sudo apt-fast -qq -y install x2goclient # x2goserver x2goserver-xsession
 
 #find dupicate files
 sudo apt-fast -qq -y install  fslint fdupes
 sudo apt-fast -qq -y install  xdotool ruby-full
 
-sudo ppa_add webupd8team/java
-sudo apt-fast -y -qq install  oracle-java8-installer #  oracle-java9-installer
+#sudo ppa_add webupd8team/java
+#sudo apt-fast -y -qq install  oracle-java8-installer #  oracle-java9-installer
 
 sudo apt-fast -qq -y install   ttf-mscorefonts-installer
 
