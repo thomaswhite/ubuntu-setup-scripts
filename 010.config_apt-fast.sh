@@ -22,4 +22,4 @@ fi
 
 sudo sh -c 'echo "Acquire::Languages { \"en\"; };" > /etc/apt/apt.conf.d/99translations'
 
-source 999.upgrade-all.sh
+# source 999.upgrade-all.sh

@@ -1,7 +1,6 @@
 # ubuntu_17.10_setup
 
-After checkout remember to run
-   git submodule update --init --recursive
+After checkout remember to run: *git submodule update --init --recursive*
 
 Note: To make updating of the submodules working properly remember to set in your ~/.ssh/config
   ForwardX11 no
