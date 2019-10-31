@@ -1,0 +1,23 @@
+##list all package names
+cat *.sh | grep install | grep "^[^#;]" |  tr '\n' ' '| tr ' ' '\n' | grep "^[^-#]" | sort -u
+
+## get description of a package
+desc=$(apt show fdupes 2>/dev/null | grep Description: 2>/dev/null )
+echo "${desc:12}"
+
+
+
+filename=$(basename -- "$fullfile")
+extension="${filename##*.}"
+filename="${filename%.*}"
+
+
+#!/bin/bash
+FILES=./*.sh
+for f in $FILES; do
+  echo "Processing $f "
+  names=$(cat $f | grep install 2>/dev/null  | grep "^[^#;]"  2>/dev/null  |  tr '\n' ' '| tr ' ' '\n' | grep "^[^-#]" 2>/dev/null  | sort -u)
+  for n in $names; do
+    echo $n
+  done
+done
