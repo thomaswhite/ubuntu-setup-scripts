@@ -21,3 +21,10 @@ for f in $FILES; do
     echo $n
   done
 done
+
+
+history | cut -c 8-  | grep "sudo apt-" | grep install > history.txt
+
+remove inline comments
+ | sed -e "s/#.*$//g"
+https://stackoverflow.com/questions/42855028/bash-display-effective-file-content-without-comments-and-empty-lines
