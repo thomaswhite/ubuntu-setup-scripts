@@ -1,0 +1,352 @@
+# aacplusenc
+sudo apt-fast -y -qq install abcde                     #  A Better CD Encoder
+# aclacarte
+sudo apt-fast -y -qq install advancecomp               #  collection of recompression utilities
+sudo apt-fast -y -qq install alacarte                  #  easy GNOME menu editing tool
+sudo apt-fast -y -qq install alltray                   #  Dock any program into the system tray
+# apt-add-repository
+# apt-gast
+sudo apt-fast -y -qq install aptik                     #  Aptik system migration utility
+sudo apt-fast -y -qq install apt-transport-https       #  transitional package for https support
+sudo apt-fast -y -qq install arj                       #  archiver for .arj files
+# atom
+sudo apt-fast -y -qq install atool                     #  tool for managing file archives of various types
+# audiotool
+sudo apt-fast -y -qq install audiotools                #  Collection of audio handling programs for the command line
+# auditool
+# awk
+sudo apt-fast -y -qq install balena-etcher-electron    #  balenaEtcher is a powerful OS image flasher built with web technologies to ensure flashing an SDCard or USB drive is a pleasant and safe experience. It protects you from accidentally writing to your hard-drives, ensures every byte of data was written correctly and much more.
+sudo apt-fast -y -qq install bchunk                    #  CD image format conversion from bin/cue to iso/cdr
+# bootchart
+sudo apt-fast -y -qq install bsdcpio                   #  transitional dummy package for moving bsdcpio to libarchive-tools
+sudo apt-fast -y -qq install bsdtar                    #  transitional dummy package for moving bsdtar to libarchive-tools
+sudo apt-fast -y -qq install build-essential           #  Informational list of build-essential packages
+# bum
+# bun
+sudo apt-fast -y -qq install bup                       #  highly efficient file backup system based on git
+sudo apt-fast -y -qq install byobu                     #  text window manager, shell multiplexer, integrated DevOps environment
+sudo apt-fast -y -qq install byzanz                    #  small screencast creator
+sudo apt-fast -y -qq install cabextract                #  Microsoft Cabinet file unpacker
+sudo apt-fast -y -qq install calibre                   #  powerful and easy to use e-book manager
+sudo apt-fast -y -qq install catfish                   #  File searching tool which is configurable via the command line
+sudo apt-fast -y -qq install ccd2iso                   #  Converter from CloneCD disc image format to standard ISO
+sudo apt-fast -y -qq install check                     #  unit test framework for C
+sudo apt-fast -y -qq install cheese                    #  tool to take pictures and videos from your webcam
+# clacarte
+sudo apt-fast -y -qq install colmap                    #  Structure-from-Motion and Multi-View Stereo
+sudo apt-fast -y -qq install console-common            #  basic infrastructure for text console configuration
+sudo apt-fast -y -qq install couchdb                   #  RESTful document oriented database
+sudo apt-fast -y -qq install cpanminus                 #  script to get, unpack, build and install modules from CPAN
+sudo apt-fast -y -qq install cuetools                  #  tools for manipulating CUE/TOC files
+sudo apt-fast -y -qq install curl                      #  command line tool for transferring data with URL syntax
+# cyberduck
+# dconf-tools
+sudo apt-fast -y -qq install debian-keyring            #  GnuPG keys of Debian Developers and Maintainers
+sudo apt-fast -y -qq install devscripts                #  scripts to make the life of a Debian Package maintainer easier
+# dfo
+sudo apt-fast -y -qq install dh-make                   #  tool that converts source archives into Debian package source
+sudo apt-fast -y -qq install diffuse                   #  graphical tool for merging and comparing text files
+sudo apt-fast -y -qq install digikam                   #  digital photo management application for KDE
+# dispalgui
+# displaycal
+# easymp3gain-gtk
+sudo apt-fast -y -qq install easytag                   #  GTK+ editor for audio file tags
+# enblend-enfuse
+sudo apt-fast -y -qq install enfuse                    #  image exposure blending tool
+sudo apt-fast -y -qq install etckeeper                 #  store /etc in git, mercurial, bzr or darcs
+sudo apt-fast -y -qq install exfat-fuse                #  read and write exFAT driver for FUSE
+# exfat-util
+sudo apt-fast -y -qq install exfat-utils               #  utilities to create, check, label and dump exFAT filesystem
+sudo apt-fast -y -qq install exiv2                     #  EXIF/IPTC/XMP metadata manipulation tool
+sudo apt-fast -y -qq install faac                      #  AAC audio encoder (frontend)
+sudo apt-fast -y -qq install fakeroot                  #  tool for simulating superuser privileges
+sudo apt-fast -y -qq install ffmpeg                    #  Tools for transcoding, streaming and playing of multimedia files
+sudo apt-fast -y -qq install ffmpegthumbnailer         #  fast and lightweight video thumbnailer
+sudo apt-fast -y -qq install filezilla                 #  Full-featured graphical FTP/FTPS/SFTP client
+sudo apt-fast -y -qq install firejail                  #  sandbox to restrict the application environment
+sudo apt-fast -y -qq install flac                      #  Free Lossless Audio Codec - command line tools
+# flickrfs
+# folder-thumbnailer
+sudo apt-fast -y -qq install frogr                     #  Flickr Remote Organizer for GNOME
+sudo apt-fast -y -qq install fslint                    #  Utility collection to find and fix common errors in file storage
+sudo apt-fast -y -qq install g++                       #  GNU C++ compiler
+sudo apt-fast -y -qq install g++-4.8                   #  GNU C++ compiler
+sudo apt-fast -y -qq install gamin                     #  File and directory monitoring system
+sudo apt-fast -y -qq install gcc                       #  GNU C compiler
+sudo apt-fast -y -qq install gcc-mingw-w64             #  GNU C compiler for MinGW-w64
+sudo apt-fast -y -qq install gcc-multilib              #  GNU C compiler (multilib files)
+sudo apt-fast -y -qq install gdebi                     #  simple tool to view and install deb files - GNOME GUI
+# gdk-pixbuf
+sudo apt-fast -y -qq install gedit                     #  official text editor of the GNOME desktop environment
+sudo apt-fast -y -qq install gedit-common              #  official text editor of the GNOME desktop environment (support files)
+sudo apt-fast -y -qq install gedit-latex-plugin        #  gedit plugin for composing and compiling LaTeX documents
+sudo apt-fast -y -qq install gedit-plugins             #  set of plugins for gedit
+sudo apt-fast -y -qq install genisoimage               #  Creates ISO-9660 CD-ROM filesystem images
+sudo apt-fast -y -qq install gftp                      #  X/GTK+ and console FTP client (metapackage)
+sudo apt-fast -y -qq install gimp                      #  GNU Image Manipulation Program
+sudo apt-fast -y -qq install gimp-data                 #  Data files for GIMP
+sudo apt-fast -y -qq install gimp-data-extras          #  Extra brushes and patterns for GIMP
+sudo apt-fast -y -qq install gimp-plugin-registry      #  repository of optional extensions for GIMP
+sudo apt-fast -y -qq install git                       #  fast, scalable, distributed revision control system
+# git-core
+sudo apt-fast -y -qq install git-extras                #  Extra commands for git
+# gksu
+# gnome-device-manager
+sudo apt-fast -y -qq install gnome-gmail               #  support for Gmail as the preferred email application in GNOME
+# gnome-icon-theme-full
+# gnome-network-admin
+sudo apt-fast -y -qq install gnome-screensaver         #  GNOME screen saver and locker
+sudo apt-fast -y -qq install gnome-system-monitor      #  Process viewer and system resource monitor for GNOME
+sudo apt-fast -y -qq install gnome-system-tools        #  Cross-platform configuration utilities for GNOME
+sudo apt-fast -y -qq install gparted                   #  GNOME partition editor
+sudo apt-fast -y -qq install grc                       #  generic colouriser for everything
+# grub-customizer
+sudo apt-fast -y -qq install gsmartcontrol             #  graphical user interface for smartctl
+# gsmartcontrol,
+sudo apt-fast -y -qq install gtk2-engines-pixbuf       #  pixbuf-based theme for GTK+ 2.x
+sudo apt-fast -y -qq install gtk2-engines-pixbuf/cosmic #  pixbuf-based theme for GTK+ 2.x
+sudo apt-fast -y -qq install gtk3-engines-xfce         #  GTK+-3.0 theme engine for Xfce
+sudo apt-fast -y -qq install gtk-recordmydesktop       #  Graphical frontend for recordMyDesktop screencast tool
+sudo apt-fast -y -qq install gxmessage                 #  xmessage clone based on GTK+
+sudo apt-fast -y -qq install hardinfo                  #  Displays system information
+sudo apt-fast -y -qq install hdparm                    #  tune hard disk parameters for high performance
+sudo apt-fast -y -qq install hipchat4                  #  Hipchat - persistent group chat using XMPP.
+# /home/tom/Downloads/virtualbox-6.0_6.0.8-130520_Ubuntu_bionic_amd64.deb
+sudo apt-fast -y -qq install htop                      #  interactive processes viewer
+sudo apt-fast -y -qq install hugin                     #  panorama photo stitcher - GUI tools
+sudo apt-fast -y -qq install hwinfo                    #  Hardware identification system
+# ia32-libs
+sudo apt-fast -y -qq install id3tool                   #  Command line editor for id3 tags
+sudo apt-fast -y -qq install imagemagick               #  image manipulation programs -- binaries
+sudo apt-fast -y -qq install impressive                #  PDF presentation tool with eye candies
+# input-wacom
+sudo apt-fast -y -qq install insync                    #  Sync all your Google Drive & OneDrive accounts to your local filesystem
+sudo apt-fast -y -qq install insync-thunar             #  Google Drive sync and backup with multiple account support
+sudo apt-fast -y -qq install inxi                      #  full featured system information script
+sudo apt-fast -y -qq install iotop                     #  simple top-like I/O monitor
+sudo apt-fast -y -qq install iperf                     #  Internet Protocol bandwidth measuring tool
+# istanbul
+sudo apt-fast -y -qq install jobs-admin                #  system job management utility
+sudo apt-fast -y -qq install jpegoptim                 #  utility to optimize jpeg files
+sudo apt-fast -y -qq install kdocker                   #  lets you dock any application into the system tray
+sudo apt-fast -y -qq install kiki                      #  tool for python regular expression testing
+sudo apt-fast -y -qq install kubuntu-desktop           #  Kubuntu Plasma Desktop/Netbook system
+sudo apt-fast -y -qq install kxstudio-meta-audio-plugins-lv2 #  KXStudio meta-packages - LV2 Audio plugins
+sudo apt-fast -y -qq install launchpad-getkeys         #  Import missing GPG keys automatically
+sudo apt-fast -y -qq install ldap-utils                #  OpenLDAP utilities
+sudo apt-fast -y -qq install leafpad                   #  GTK+ based simple text editor
+sudo apt-fast -y -qq install libalglib-dev             #  Development files for the alglib library
+sudo apt-fast -y -qq install libavcodec-extra          #  FFmpeg library with extra codecs (metapackage)
+# libav-tools
+# libav-tools-links
+sudo apt-fast -y -qq install libboost-all-dev          #  Boost C++ Libraries development files (ALL) (default version)
+sudo apt-fast -y -qq install libc6:i386                #  GNU C Library: Shared libraries
+sudo apt-fast -y -qq install libfontconfig1            #  generic font configuration library - runtime
+sudo apt-fast -y -qq install libglibmm-2.4-1v5         #  C++ wrapper for the GLib toolkit (shared libraries)
+sudo apt-fast -y -qq install libglu1-mesa-dev          #  Mesa OpenGL utility library -- development files
+sudo apt-fast -y -qq install libgnome2-perl            #  Perl interface to the GNOME libraries
+sudo apt-fast -y -qq install liblua5.3-0               #  Shared library for the Lua interpreter version 5.3
+sudo apt-fast -y -qq install liblua5.3-dev             #  Development files for the Lua language version 5.3
+sudo apt-fast -y -qq install libmp3splt0-flac          #  Flac plugin for mp3splt
+sudo apt-fast -y -qq install libmp3splt0-mp3           #  MP3 plugin for mp3splt
+sudo apt-fast -y -qq install libmp3splt0-ogg           #  Ogg Vorbis plugin for mp3splt
+sudo apt-fast -y -qq install libmp3splt-dev            #  development files for libmp3splt0
+# libmp3splt-doc
+sudo apt-fast -y -qq install libncurses5:i386          #  shared libraries for terminal handling (legacy version)
+# libraw
+sudo apt-fast -y -qq install libraw-dev                #  raw image decoder library (development files)
+sudo apt-fast -y -qq install libstdc++6:i386           #  GNU Standard C++ Library v3
+# libvirt-bin
+# libwacom
+sudo apt-fast -y -qq install libxfconf-0-2             #  Client library for Xfce4 configure interface
+sudo apt-fast -y -qq install libxml-parser-perl        #  Perl module for parsing XML files
+sudo apt-fast -y -qq install lightdm                   #  Display Manager
+sudo apt-fast -y -qq install lightdm-gtk-greeter-settings #  settings editor for the LightDM GTK+ Greeter
+# linkphone
+sudo apt-fast -y -qq install linux-base                #  Linux image base package
+sudo apt-fast -y -qq install linux-tools-common        #  Linux kernel version specific tools for version 4.18.0
+sudo apt-fast -y -qq install linux-tools-generic       #  Generic Linux kernel tools
+sudo apt-fast -y -qq install lives                     #  Video Editing system allowing users to edit and create video
+sudo apt-fast -y -qq install localepurge               #  reclaim disk space by removing unneeded localizations
+# locker
+sudo apt-fast -y -qq install lsyncd                    #  daemon to synchronize local directories using rsync
+# lua
+sudo apt-fast -y -qq install lua5.3                    #  Simple, extensible, embeddable programming language
+# lua5.3-doc
+sudo apt-fast -y -qq install lxde                      #  metapackage for LXDE
+sudo apt-fast -y -qq install lxtask                    #  LXDE task manager
+sudo apt-fast -y -qq install lynx                      #  classic non-graphical (text-mode) web browser
+# mac
+sudo apt-fast -y -qq install make                      #  utility for directing compilation
+sudo apt-fast -y -qq install mapivi                    #  Photo viewer and organizer with emphasis on IPTC fields
+# may
+sudo apt-fast -y -qq install mdf2iso                   #  simple utility to convert mdf to iso / cue / toc images
+sudo apt-fast -y -qq install mediainfo                 #  command-line utility for reading information from audio/video files
+sudo apt-fast -y -qq install mediainfo-gui             #  graphical utility for reading information from audio/video files
+sudo apt-fast -y -qq install meld                      #  graphical tool to diff and merge files
+# menuentry
+sudo apt-fast -y -qq install menulibre                 #  advanced FreeDesktop.org compliant menu editor
+sudo apt-fast -y -qq install mesa-common-dev           #  Developer documentation for Mesa
+sudo apt-fast -y -qq install meshlab                   #  System for processing and editing triangular meshes
+# mkisofs
+sudo apt-fast -y -qq install moreutils                 #  additional Unix utilities
+sudo apt-fast -y -qq install mp3check                  #  tool to check mp3 files for consistency
+sudo apt-fast -y -qq install mp3gain                   #  Lossless mp3 normalizer with statistical analysis
+# mp3split
+sudo apt-fast -y -qq install mp3splt                   #  Command line program that splits MP3 and Ogg Vorbis files without reencoding
+sudo apt-fast -y -qq install mp3splt-gtk               #  Gnome application for lossless linear editing of audio files
+sudo apt-fast -y -qq install mpg123                    #  MPEG layer 1/2/3 audio player
+sudo apt-fast -y -qq install mpv                       #  video player based on MPlayer/mplayer2
+sudo apt-fast -y -qq install msr-tools                 #  Utilities for modifying MSRs from userspace
+sudo apt-fast -y -qq install multiboot                 #  The Multiboot specification
+sudo apt-fast -y -qq install multimedia-audio-utilities #  packages for manipulating & cataloging music and audio
+sudo apt-fast -y -qq install multisystem               #  Avec MultiSystem Créez votre LiveUSB MultiBoot simplement,
+sudo apt-fast -y -qq install nano                      #  small, friendly text editor inspired by Pico
+sudo apt-fast -y -qq install ncftp                     #  User-friendly and well-featured FTP client
+# need
+sudo apt-fast -y -qq install nodejs                    #  Node.js event-based server-side javascript engine
+sudo apt-fast -y -qq install non-daw                   #  dummy upgrade package
+sudo apt-fast -y -qq install non-mixer                 #  powerful, reliable and fast modular Digital Audio Mixer
+# non-sequencer
+sudo apt-fast -y -qq install non-session-manager       #  graphical interface to the NSM Daemon
+sudo apt-fast -y -qq install normalize-audio           #  adjusts the volume of WAV, MP3 and OGG files to a standard volume level
+sudo apt-fast -y -qq install npm                       #  package manager for Node.js
+sudo apt-fast -y -qq install ntfs-3g                   #  read/write NTFS driver for FUSE
+sudo apt-fast -y -qq install ooo-thumbnailer           #  thumbnailer for OpenOffice.org documents
+sudo apt-fast -y -qq install openclipart-libreoffice   #  clip art for OpenOffice.org/LibreOffice gallery
+sudo apt-fast -y -qq install openssl                   #  Secure Sockets Layer toolkit - cryptographic utility
+sudo apt-fast -y -qq install openvpn                   #  virtual private network daemon
+# opera
+sudo apt-fast -y -qq install p7zip                     #  7zr file archiver with high compression ratio
+sudo apt-fast -y -qq install p7zip-full                #  7z and 7za file archivers with high compression ratio
+sudo apt-fast -y -qq install pass                      #  lightweight directory-based password manager
+sudo apt-fast -y -qq install pavucontrol               #  PulseAudio Volume Control
+sudo apt-fast -y -qq install pcmanfm/cosmic            #  extremely fast and lightweight file manager
+# `perf
+sudo apt-fast -y -qq install perl                      #  Larry Wall's Practical Extraction and Report Language
+sudo apt-fast -y -qq install perl-doc                  #  Perl documentation
+# perldoc
+sudo apt-fast -y -qq install perl-tk                   #  Perl module providing the Tk graphics library
+# pidgin-whatsapp
+# pip
+sudo apt-fast -y -qq install playonlinux               #  front-end for Wine
+sudo apt-fast -y -qq install pngnq                     #  tool for optimizing PNG (Portable Network Graphics) images
+sudo apt-fast -y -qq install polari                    #  Internet Relay Chat (IRC) client
+sudo apt-fast -y -qq install postr                     #  upload photos to Flickr
+sudo apt-fast -y -qq install ppa-purge                 #  disables a PPA and reverts to official packages
+# ppa:teejee2008/ppa
+sudo apt-fast -y -qq install pragha                    #  Lightweight Music Player
+sudo apt-fast -y -qq install preload                   #  adaptive readahead daemon
+# '{print
+# program:i386
+sudo apt-fast -y -qq install puddletag                 #  simple, powerful audio tag editor
+sudo apt-fast -y -qq install pulseaudio-module-bluetooth #  Bluetooth module for PulseAudio sound server
+# purple-instagram
+sudo apt-fast -y -qq install python-pip                #  Python package installer
+sudo apt-fast -y -qq install python-rgain              #  Replay Gain volume normalization Python tools
+# python-software-properties
+# qmake
+# qt
+sudo apt-fast -y -qq install qt4-default               #  Qt 4 development defaults package
+sudo apt-fast -y -qq install rar                       #  Archiver for .rar files
+# readahead
+sudo apt-fast -y -qq install recordmydesktop           #  Captures audio-video data of a Linux desktop session
+# resilio
+sudo apt-fast -y -qq install resilio-sync              #  Resilio Sync is a proprietary peer-to-peer file synchronisation tool.
+sudo apt-fast -y -qq install resolvconf-admin          #  setuid helper program for setting up the local DNS
+sudo apt-fast -y -qq install rev-plugins               #  reverb LADSPA plugin
+sudo apt-fast -y -qq install ripperx                   #  GTK-based audio CD ripper/encoder
+sudo apt-fast -y -qq install ruby-full                 #  Ruby full installation (default version)
+sudo apt-fast -y -qq install seahorse                  #  GNOME front end for GnuPG
+sudo apt-fast -y -qq install shiki-colors-xfwm-theme   #  Xfwm/Xfce4 theme based on the Shiki-Colors Metacity theme
+sudo apt-fast -y -qq install shntool                   #  multi-purpose tool for manipulating and analyzing WAV files
+# shorten
+sudo apt-fast -y -qq install shotwell                  #  digital photo organizer
+# Shotwell
+sudo apt-fast -y -qq install shutter                   #  feature-rich screenshot program
+sudo apt-fast -y -qq install simple-image-reducer      #  GTK application to easily reduce and rotate images
+sudo apt-fast -y -qq install slapd                     #  OpenLDAP server (slapd)
+# slapdpasswd
+# slapd-utils
+sudo apt-fast -y -qq install smartmontools             #  control and monitor storage systems using S.M.A.R.T.
+sudo apt-fast -y -qq install smart-notifier            #  graphical hard disk health status notifier
+sudo apt-fast -y -qq install snapd                     #  Daemon and tooling that enable snap packages
+sudo apt-fast -y -qq install software-properties-common #  manage the repositories that you install software from (common)
+sudo apt-fast -y -qq install soundconverter            #  GNOME application to convert audio files into other formats
+sudo apt-fast -y -qq install sox                       #  Swiss army knife of sound processing
+sudo apt-fast -y -qq install spek                      #  acoustic spectrum analyser
+sudo apt-fast -y -qq install sqlite                    #  command line interface for SQLite 2
+sudo apt-fast -y -qq install sqlitebrowser             #  GUI editor for SQLite databases
+sudo apt-fast -y -qq install sshfs                     #  filesystem client based on SSH File Transfer Protocol
+sudo apt-fast -y -qq install synaptic                  #  Graphical package manager
+sudo apt-fast -y -qq install syncthing                 #  Open Source Continuous File Synchronization
+sudo apt-fast -y -qq install systemback                #  Simple system backup and restore application with extra features
+# systemd-ui
+# tagtool
+sudo apt-fast -y -qq install tango-icon-theme          #  Tango icon library
+sudo apt-fast -y -qq install tap-plugins               #  Tom's Audio Processing LADSPA plugins
+sudo apt-fast -y -qq install tasksel                   #  tool for selecting tasks for installation on Debian systems
+sudo apt-fast -y -qq install tcpstat                   #  network interface statistics reporting tool
+sudo apt-fast -y -qq install thunar-archive-plugin     #  Archive plugin for Thunar file manager
+sudo apt-fast -y -qq install tiptop                    #  performance monitoring tool for Linux
+# to
+# transcode
+# transcode-doc
+sudo apt-fast -y -qq install trimage                   #  GUI and command-line interface to optimize image files
+# ubproxy
+sudo apt-fast -y -qq install ubuntu-restricted-extras  #  Commonly used media codecs and fonts for Ubuntu
+# udisks
+sudo apt-fast -y -qq install udisks2                   #  D-Bus service to access and manipulate storage devices
+sudo apt-fast -y -qq install ufraw-batch               #  batch importer for raw camera images
+sudo apt-fast -y -qq install uftp                      #  Encrypted multicast file transfer program
+sudo apt-fast -y -qq install uget                      #  easy-to-use download manager written in GTK+
+sudo apt-fast -y -qq install unbound                   #  validating, recursive, caching DNS resolver
+# unetbootin
+sudo apt-fast -y -qq install unp                       #  unpack (almost) everything with one command
+sudo apt-fast -y -qq install unrar                     #  Unarchiver for .rar files (non-free version)
+sudo apt-fast -y -qq install unzip                     #  De-archiver for .zip files
+# update
+# update-smart-drivedb
+sudo apt-fast -y -qq install usb-creator-gtk           #  create a startup disk using a CD or disc image (for GNOME)
+sudo apt-fast -y -qq install util-linux                #  miscellaneous system utilities
+sudo apt-fast -y -qq install variety                   #  Wallpaper changer, downloader and manager
+sudo apt-fast -y -qq install variety-slideshow         #  Variety Slideshow
+sudo apt-fast -y -qq install vbrfix                    #  corrects MP3 files that have incorrect VBR information
+sudo apt-fast -y -qq install virtualbox                #  x86 virtualization solution - base binaries
+sudo apt-fast -y -qq install vlc                       #  multimedia player and streamer
+sudo apt-fast -y -qq install vpnc                      #  Cisco-compatible VPN client
+sudo apt-fast -y -qq install wbar                      #  light and fast launch bar
+# wdar
+sudo apt-fast -y -qq install wget                      #  retrieves files from the web
+sudo apt-fast -y -qq install wmforkplop                #  monitors forking activity and displays top CPU consuming processes
+# wxlua
+sudo apt-fast -y -qq install x2goserver                #  X2Go server
+sudo apt-fast -y -qq install x2goserver-xsession       #  X2Go Server (Xsession runner)
+sudo apt-fast -y -qq install xclip                     #  command line interface to X selections
+sudo apt-fast -y -qq install xdotool                   #  simulate (generate) X11 keyboard/mouse input events
+sudo apt-fast -y -qq install xfburn                    #  CD-burner application for Xfce Desktop Environment
+sudo apt-fast -y -qq install xfce4-appfinder           #  Application finder for the Xfce4 Desktop Environment
+sudo apt-fast -y -qq install xfce4-dict                #  Dictionary plugin for Xfce4 panel
+sudo apt-fast -y -qq install xfce4-goodies             #  enhancements for the Xfce4 Desktop Environment
+sudo apt-fast -y -qq install xfce4-notifyd             #  simple, visually-appealing notification daemon for Xfce
+sudo apt-fast -y -qq install xfce4-panel               #  panel for Xfce4 desktop environment
+sudo apt-fast -y -qq install xfce4-settings            #  graphical application for managing Xfce settings
+sudo apt-fast -y -qq install xfce4-terminal            #  Xfce terminal emulator
+# xfce-keyboard-shortcuts
+sudo apt-fast -y -qq install xfce-theme-manager        #  Integrated theme manager
+sudo apt-fast -y -qq install xfe                       #  lightweight file manager for X11
+sudo apt-fast -y -qq install xfwm4-themes              #  Theme files for xfwm4
+sudo apt-fast -y -qq install xorriso                   #  command line ISO-9660 and Rock Ridge manipulation tool
+sudo apt-fast -y -qq install xrdp                      #  Remote Desktop Protocol (RDP) server
+sudo apt-fast -y -qq install xscreensaver              #  Screensaver daemon and frontend for X11
+sudo apt-fast -y -qq install xterm                     #  X terminal emulator
+sudo apt-fast -y -qq install xubuntu-restricted-addons #  Commonly used restricted packages for Ubuntu (transitional)
+# xubuntu-restricted-extras
+# 'You
+sudo apt-fast -y -qq install youtube-dl                #  downloader of videos from YouTube and other sites
+sudo apt-fast -y -qq install youtube-viewer            #  YouTube Viewer
+sudo apt-fast -y -qq install y-ppa-manager             #  Y PPA Manager
+# yumi
+sudo apt-fast -y -qq install zip                       #  Archiver for .zip files
+# zlib
+sudo apt-fast -y -qq install zlib1g-dev                #  compression library - development

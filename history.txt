@@ -1,0 +1,292 @@
+sudo apt-fast install aclacarte
+sudo apt-fast install advancecomp pngnq jpegoptim
+sudo apt-fast install alacarte
+sudo apt-fast install atom
+sudo apt-fast install audiotool
+sudo apt-fast install audiotools
+sudo apt-fast install auditool
+sudo apt-fast install bsdtar bsdcpio
+sudo apt-fast install build-essential libfontconfig1 mesa-common-dev 
+sudo apt-fast install build-essential libfontconfig1 mesa-common-dev libraw-dev  exiv2 zlib1g-dev  qt4-default libalglib-dev libboost-all-dev
+sudo apt-fast install calibre
+sudo apt-fast install clacarte
+sudo apt-fast install colmap
+sudo apt-fast install cpanminus
+sudo apt-fast install cyberduck
+sudo apt-fast install debian-keyring
+sudo apt-fast install dfo
+sudo apt-fast install diffuse
+sudo apt-fast install dispalgui displaycal
+sudo apt-fast install easymp3gain-gtk
+sudo apt-fast install  easytag
+sudo apt-fast install easytag
+sudo apt-fast install etckeeper
+sudo apt-fast install exiv2
+sudo apt-fast install filezilla
+sudo apt-fast install firejail
+sudo apt-fast install folder-thumbnailer
+sudo apt-fast install gedit*
+sudo apt-fast install gftp
+sudo apt-fast install  gimp
+sudo apt-fast install  gimp*
+sudo apt-fast install gnome-gmail
+sudo apt-fast install gnome-icon-theme-full
+sudo apt-fast install gnome-network-admin
+sudo apt-fast install gnome-screensaver
+sudo apt-fast install gnome-system-monitor
+sudo apt-fast install gnome-system-tools
+sudo apt-fast install gparted
+sudo apt-fast install grc
+sudo apt-fast install hdparm
+sudo apt-fast install hipchat4
+sudo apt-fast install /home/tom/Downloads/virtualbox-6.0_6.0.8-130520_Ubuntu_bionic_amd64.deb
+sudo apt-fast install htop
+sudo apt-fast install ia32-libs
+sudo apt-fast install  input-wacom
+sudo apt-fast install insync
+sudo apt-fast install insync --reinstall
+sudo apt-fast install insync-thunar --reinstall
+sudo apt-fast install kubuntu-desktop
+sudo apt-fast install kxstudio-meta-audio-plugins-lv2
+sudo apt-fast install  launchpad-getkeys ppa-purge  
+sudo apt-fast install  launchpad-getkeys ppa-purge  y-ppa-manager
+sudo apt-fast install libgnome2-perl
+sudo apt-fast install liblua5.3-0 liblua5.3-dev lua5.3 lua5.3-doc
+sudo apt-fast install libraw
+sudo apt-fast install libvirt-bin
+sudo apt-fast install lightdm-gtk-greeter-settings
+sudo apt-fast install locker
+sudo apt-fast install lsyncd
+sudo apt-fast install lua
+sudo apt-fast install lxde
+sudo apt-fast install lxde 
+sudo apt-fast install lynx
+sudo apt-fast install meld
+sudo apt-fast install menuentry
+sudo apt-fast install meshlab
+sudo apt-fast install mgrep
+sudo apt-fast install moreutils
+sudo apt-fast install mp3gain
+sudo apt-fast install  mp3split
+sudo apt-fast install mp3splt
+sudo apt-fast install  mpg123 
+sudo apt-fast install multiboot
+sudo apt-fast install  multimedia-audio-utilities
+sudo apt-fast install nano
+sudo apt-fast install ncftp
+sudo apt-fast install nodejs
+sudo apt-fast install  normalize-audio
+sudo apt-fast install npm
+sudo apt-fast install openvpn
+sudo apt-fast install opera
+sudo apt-fast install pcmanfm/cosmic
+sudo apt-fast install pcregrep
+sudo apt-fast install perl
+sudo apt-fast install perl-doc
+sudo apt-fast install perldoc
+sudo apt-fast install pip
+sudo apt-fast install polari
+sudo apt-fast install postr
+sudo apt-fast install postr frogr
+sudo apt-fast install postr frogr flickrfs
+sudo apt-fast install program:i386
+sudo apt-fast install puddletag
+sudo apt-fast install purple-instagram
+sudo apt-fast install qmake
+sudo apt-fast install qt
+sudo apt-fast install readahead
+sudo apt-fast install recordmydesktop gtk-recordmydesktop
+sudo apt-fast install  --reinstall  easytag
+sudo apt-fast install resilio
+sudo apt-fast install resolvconf-admin
+sudo apt-fast install seahorse
+sudo apt-fast install shotwell
+sudo apt-fast install Shotwell
+sudo apt-fast install shutter
+sudo apt-fast install snapd
+sudo apt-fast install soundconverter
+sudo apt-fast install sqlite
+sudo apt-fast install sqlitebrowser
+sudo apt-fast install sshfs
+sudo apt-fast install systemback
+sudo apt-fast install tasksel
+sudo apt-fast install tcpstat
+sudo apt-fast install tiptop iotop wmforkplop
+sudo apt-fast install tiptop iotop wmforkplop systemd-ui simple-image-reducer mapivi lxtask
+sudo apt-fast install udisks
+sudo apt-fast install udisks2
+sudo apt-fast install ufraw-batch
+sudo apt-fast install uftp
+sudo apt-fast install uget
+sudo apt-fast install unbound
+sudo apt-fast install unp
+sudo apt-fast install update-smart-drivedb
+sudo apt-fast install variety variety-slideshow
+sudo apt-fast install vpnc
+sudo apt-fast install wxlua
+sudo apt-fast install  xfce4-notifyd 
+sudo apt-fast install xfe xfwm4-themes 
+sudo apt-fast install xfe xfwm4-themes wbar 
+sudo apt-fast install xfe xfwm4-themes wbar shiki-colors-xfwm-theme kdocker gxmessage gtk3-engines-xfce gamin alltray
+sudo apt-fast install xfe xfwm4-themes wdar shiki-colors-xfwm-theme kdocker gxmessage gtk3-engines-xfce gamin alltray
+sudo apt-fast install xscreensaver
+sudo apt-fast install -y  faac
+sudo apt-fast install -y  faac cuetools shntool
+sudo apt-fast install -y  faac mp3check
+sudo apt-fast install -y  faac mp3check mac mp3gain shorten aacplusenc
+sudo apt-fast install -y libc6:i386 libncurses5:i386 libstdc++6:i386
+sudo apt-fast install youtube-viewer 
+sudo apt-fast install -y  soundconverter
+sudo apt-fast install -y  spek vlc 
+sudo apt-fast install -y spek vlc faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo flac sox nano curl sox soundconverter transcode transcode-doc mp3check install libav-tools
+sudo apt-fast install -y spek vlc faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo flac sox nano curl sox soundconverter transcode transcode-doc mp3check libav-tools ffmpeg
+sudo apt-fast install -y  spek vlc faac mp3check faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo flac sox
+sudo apt-fast install -y  spek vlc faac mp3check mac faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo
+sudo apt-fast install -y  spek vlc faac mp3check mac mp3gain shorten aacplusenc faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo
+sudo apt-fast install -y  spek vlc mp3check faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo flac sox faac mp3check  cuetools shntool soundconverter faac mediainfo-gui  mediainfo
+sudo apt-fast install -y  spek vlc mp3check faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo flac sox faac mp3check mac cuetools shntool soundconverter faac mediainfo-gui  mediainfo
+sudo apt-fast install yumi
+sudo apt-fast install zlib
+sudo apt-fast -qq  -y install aptik y-ppa-manager 
+sudo apt-fast -qq  -y install aptik y-ppa-manager launchpad-getkeys
+sudo apt-fast -qq -y install fslint
+sudo apt-fast -qq  -y install hugin 
+sudo apt-fast -qq  -y install hugin enblend-enfuse
+sudo apt-fast -qq  -y install openvpn
+sudo apt-fast -qq  -y install perl perl-tk 
+sudo apt-fast -qq -y install resilio-sync
+sudo apt-fast -qq  -y install thunar*  gthumb* gnome-*-thumbnailer tumbler*  ffmpegthumbnailer  thumbnailer* ooo-thumbnailer
+sudo apt-fast -qq  -y install xfce4-*-plugin xfce4-appfinder xfce4-dict xfce4-goodies xfce4-notifyd xfce4-panel xfce4-power-* xfce4-settings xfce4-terminal
+sudo apt-fast -qq  -y install  xfce-keyboard-shortcuts xfburn xfe xterm menulibre alacarte
+sudo apt-fast -qq  -y install xfce-theme-manager xfce-keyboard-shortcuts xfburn xfe xterm menulibre alacarte
+sudo apt-fast -qq  -y install xubuntu-restricted-addons 
+sudo apt-fast -qq  -y install xubuntu-restricted-addons xubuntu-restricted-extras
+sudo apt-fast -y install  aptik
+sudo apt-fast -y install gdk-pixbuf 
+sudo apt-fast -y install gtk2-engines-pixbuf
+sudo apt-fast -y install gtk2-engines-pixbuf/cosmic
+sudo apt-fast -y install  y-ppa-manager 
+sudo apt-gast install bchunk
+sudo apt-get -f install
+sudo apt-get install abcde flac
+sudo apt-get install apt-transport-https
+sudo apt-get install apt-transport-https software-properties-common wget
+sudo apt-get install atool
+sudo apt-get install balena-etcher-electron
+sudo apt-get install bootchart
+sudo apt-get install bum
+sudo apt-get install bun
+sudo apt-get install byobu
+sudo apt-get install byzanz
+sudo apt-get install ccd2iso
+sudo apt-get install console-common
+sudo apt-get install couchdb
+sudo apt-get install enfuse
+sudo apt-get install exiv2
+sudo apt-get install -f
+sudo apt-get install g++
+sudo apt-get install g++-4.8
+sudo apt-get install gcc g++ make
+sudo apt-get install gcc-mingw-w64
+sudo apt-get install gcc-multilib
+sudo apt-get install gedit
+sudo apt-get install genisoimage
+sudo apt-get install git-extras
+sudo apt-get install gnome-device-manager
+sudo apt-get install gnome-icon-theme-full tango-icon-theme
+sudo apt-get install grub-customizer
+sudo apt-get install gsmartcontrol smart-notifier
+sudo apt-get install gsmartcontrol, smart-notifier
+sudo apt-get install hardinfo
+sudo apt-get install hipchat4
+sudo apt-get install hwinfo
+sudo apt-get install  hwinfo kiki xfce-theme-manager xrdp xubuntu-restricted-extras  youtube-dl libavcodec-extra 
+sudo apt-get install  hwinfo kiki xfce-theme-manager xrdp xubuntu-restricted-extras  youtube-dl libavcodec-extra  libav-tools-links 
+sudo apt-get install imagemagick -y
+sudo apt-get install impressive
+sudo apt-get install iperf
+sudo apt-get install istanbul
+sudo apt-get install jobs-admin
+sudo apt-get install kiki
+sudo apt-get install ldap-utils
+sudo apt-get install libboost-all-dev
+sudo apt-get install libglibmm-2.4-1v5
+sudo apt-get install libglu1-mesa-dev -y
+sudo apt-get install libmp3splt0-mp3 libmp3splt0-ogg libmp3splt0-flac libmp3splt-doc libmp3splt-dev mp3splt mp3splt-gtk
+sudo apt-get install libraw
+sudo apt-get install libraw-dev
+sudo apt-get install libwacom
+sudo apt-get install libwacom --help
+sudo apt-get install  libxfconf-0-2 
+sudo apt-get install lightdm
+sudo apt-get install linkphone
+sudo apt-get install linux-base
+sudo apt-get install linux-tools-common
+sudo apt-get install lives
+sudo apt-get install localepurge
+sudo apt-get install mdf2iso
+sudo apt-get install mediainfo-gui  mediainfo
+sudo apt-get install mkisofs
+sudo apt-get install mp3gain
+sudo apt-get install mp3split
+sudo apt-get install mp3splt
+sudo apt-get install mpv
+sudo apt-get install msr-tools
+sudo apt-get install multisystem
+sudo apt-get install non-daw non-mixer non-sequencer non-session-manager
+sudo apt-get install openclipart-libreoffice
+sudo apt-get install oracle-java6-installer
+sudo apt-get install oracle-java8-installer
+sudo apt-get install pass
+sudo apt-get install pidgin-whatsapp
+sudo apt-get install playonlinux
+sudo apt-get install pragha
+sudo apt-get install preload
+sudo apt-get install pulseaudio-module-bluetooth
+sudo apt-get install python-pip
+sudo apt-get install python-rgain
+sudo apt-get install python-software-properties
+sudo apt-get install --reinstall gksudo
+sudo apt-get install ripperx
+sudo apt-get install ruby-full
+sudo apt-get install slapd
+sudo apt-get install slapdpasswd
+sudo apt-get install slapd-utils
+sudo apt-get install smartmontools
+sudo apt-get install smartmontools --install-suggests
+sudo apt-get install software-properties-common
+sudo apt-get install soundconverter
+sudo apt-get install synaptic dconf-tools gksu gdebi inxi leafpad catfish pavucontrol
+sudo apt-get install syncthing
+sudo apt-get install thunar-archive-plugin 
+sudo apt-get install trimage
+sudo apt-get install ttf-mscorefonts-installer
+sudo apt-get install ubproxy
+sudo apt-get install unetbootin
+sudo apt-get install unzip
+sudo apt-get install usb-creator-gtk
+sudo apt-get install util-linux
+sudo apt-get install variety variety-slideshow
+sudo apt-get install vbrfix
+sudo apt-get install virtualbox
+sudo apt-get install x2goserver x2goserver-xsession
+sudo apt-get install xclip
+sudo apt-get install xdotool
+sudo apt-get install xfce-theme-manager
+sudo apt-get install xorriso
+sudo apt-get install xrdp
+sudo apt-get install xubuntu-restricted-extras
+sudo apt-get install -y apt-fast
+sudo apt-get install -y build-essential check devscripts dh-make fakeroot p7zip-full p7zip zip unzip rar unrar cabextract arj dconf-tools linux-tools-generic  preload python-software-properties ubuntu-restricted-extras  git git-core libxml-parser-perl check htop bup  openssl openvpn filezilla vlc cheese digikam gimp gimp-data gimp-plugin-registry gimp-data-extras fakeroot ttf-mscorefonts-installer tagtool easytag id3tool gedit tap-plugins rev-plugins  playonlinux uget gedit gedit-common gedit-latex-plugin gedit-plugins
+sudo apt-get install -y nodejs
+sudo apt-get install youtube-dl libavcodec-extra  
+sudo apt-get install youtube-dl libavcodec-extra libav-tools-links mp3gain
+sudo apt-get install youtube-viewer
+sudo apt-get install -y `perf 2>&1 |  grep 'You may need to install' | awk '{print $6}'`
+sudo apt-get install zeroinstall-injector
+sudo apt-get install zlib1g-dev
+sudo apt-get reinstall gksudo
+sudo apt-get -y -qq install  exfat-fuse 
+sudo apt-get -y -qq install  exfat-fuse exfat-util
+sudo apt-get -y -qq install  exfat-fuse exfat-utils ntfs-3g 
+sudo gedit sudo apt-add-repository -y ppa:teejee2008/ppa; sudo add-apt-repository -y ppa:saiarcot895/myppa; sudo add-apt-repository -y ppa:rebuntu16/other-stuff; sudo add-apt-repository -y  ppa:webupd8team/y-ppa-manager; sudo add-apt-repository -y  ppa:videolan/stable-daily; sudo add-apt-repository -y ppa:webupd8team/java; sudo apt-get update; sudo apt-get install -y apt-fast; 
