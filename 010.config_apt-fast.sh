@@ -9,9 +9,10 @@
 
 source _setup.sh
 
-source 061.dev-git-config.sh
 sudo apt-get -y -qq install etckeeper
-sudo apt-get -y -qq install git wget aria2 apt-transport-https gdebi
+sudo apt-get -y -qq install git 
+source 061.dev-git-config.sh
+sudo apt-get -y -qq install aria2 apt-transport-https
 
 if ! [[ -f /usr/bin/apt-fast ]]; then
   sudo cp 2copy/etc/apt-fast.conf /etc/apt-fast.conf

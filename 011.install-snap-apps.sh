@@ -2,8 +2,6 @@
 
 #sudo apt-fast -qq  -y install snapd
 
-sudo snap install bundler-mardy  cmvs-mardy colmap-mardy  line3dpp-mardy meshlab-mardy mve-mardy mvs-texturing-mardy openmvs-mardy theia-mardy visualsfm-mardy
-sudo snap install cloudcompare gifcurry
 
 # utilites
 sudo snap install  simplescreenrecorder-mardy tpad
@@ -32,6 +30,8 @@ sudo snap install animationmaker
 # 3d modeling
 sudo snap install vectr
 sudo snap install blender --clasic
+#sudo snap install bundler-mardy  cmvs-mardy colmap-mardy  line3dpp-mardy meshlab-mardy mve-mardy mvs-texturing-mardy openmvs-mardy theia-mardy visualsfm-mardy
+#sudo snap install cloudcompare gifcurry
 
 # vector graphic
 sudo snap install inkscape
