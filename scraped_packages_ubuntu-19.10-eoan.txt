@@ -133,27 +133,27 @@ sudo apt-fast -y -qq install zip                            #  Archiver for .zip
 sudo apt-fast -y -qq install autoconf                       #  automatic configure script builder                          
 sudo apt-fast -y -qq install automake                       #  Tool for generating GNU Standards-compliant Makefiles       
 sudo apt-fast -y -qq install autopoint                      #  The autopoint program from GNU gettext                      
-sudo apt-fast -y -qq install bison                          #  YACC-compatible parser generator                            
+# sudo apt-fast -y -qq install bison                          #  YACC-compatible parser generator                            
 sudo apt-fast -y -qq install build-essential                #  Informational list of build-essential packages              
 sudo apt-fast -y -qq install clang                          #  C, C++ and Objective-C compiler (LLVM based)                
 # clang-4.0
 sudo apt-fast -y -qq install cmake                          #  cross-platform, open-source make system                     
-sudo apt-fast -y -qq install cmake-curses-gui               #  curses based user interface for CMake (ccmake)              
-sudo apt-fast -y -qq install debhelper                      #  helper programs for debian/rules                            
+# sudo apt-fast -y -qq install cmake-curses-gui               #  curses based user interface for CMake (ccmake)              
+# sudo apt-fast -y -qq install debhelper                      #  helper programs for debian/rules                            
 sudo apt-fast -y -qq install default-jdk                    #  Standard Java or Java compatible Development Kit            
-sudo apt-fast -y -qq install devscripts                     #  scripts to make the life of a Debian Package maintainer easier 
-sudo apt-fast -y -qq install docbook-xml                    #  standard XML documentation system for software and systems  
-sudo apt-fast -y -qq install docbook-xsl                    #  stylesheets for processing DocBook XML to various output formats 
+# sudo apt-fast -y -qq install devscripts                     #  scripts to make the life of a Debian Package maintainer easier 
+# sudo apt-fast -y -qq install docbook-xml                    #  standard XML documentation system for software and systems  
+# sudo apt-fast -y -qq install docbook-xsl                    #  stylesheets for processing DocBook XML to various output formats 
 sudo apt-fast -y -qq install flex                           #  fast lexical analyzer generator                             
 sudo apt-fast -y -qq install fop                            #  XML formatter driven by XSL Formatting Objects (XSL-FO.) - app 
 sudo apt-fast -y -qq install g++                            #  GNU C++ compiler                                            
 # g++-4.8
 sudo apt-fast -y -qq install gcc                            #  GNU C compiler                                              
 sudo apt-fast -y -qq install gcc-multilib                   #  GNU C compiler (multilib files)                             
-sudo apt-fast -y -qq install gdb                            #  GNU Debugger                                                
+# sudo apt-fast -y -qq install gdb                            #  GNU Debugger                                                
 sudo apt-fast -y -qq install gettext                        #  GNU Internationalization utilities                          
 sudo apt-fast -y -qq install gnome-doc-utils                #  deprecated documentation utilities from GNOME 2             
-sudo apt-fast -y -qq install help2man                       #  Automatic manpage generator                                 
+# sudo apt-fast -y -qq install help2man                       #  Automatic manpage generator                                 
 sudo apt-fast -y -qq install imagemagick                    #  image manipulation programs -- binaries                     
 sudo apt-fast -y -qq install intltool                       #  Utility scripts for internationalizing XML                  
 sudo apt-fast -y -qq install kiki                           #  tool for python regular expression testing                  
@@ -203,7 +203,7 @@ sudo apt-fast -y -qq install lynx                           #  classic non-graph
 sudo apt-fast -y -qq install make                           #  utility for directing compilation                           
 sudo apt-fast -y -qq install perl                           #  Larry Wall's Practical Extraction and Report Language       
 sudo apt-fast -y -qq install perl-tk                        #  Perl module providing the Tk graphics library               
-sudo apt-fast -y -qq install pkg-config                     #  manage compile and link flags for libraries                 
+# sudo apt-fast -y -qq install pkg-config                     #  manage compile and link flags for libraries                 
 sudo apt-fast -y -qq install qtbase5-dev                    #  Qt 5 base development files                                 
 sudo apt-fast -y -qq install qttools5-dev-tools             #  Qt 5 development tools                                      
 sudo apt-fast -y -qq install xsltproc                       #  XSLT 1.0 command line processor                             

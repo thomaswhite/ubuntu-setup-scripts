@@ -16,9 +16,11 @@ rm -rf .cache/thumbnails/* .thumbnails/*
 #sudo apt-fast -qq  -y install  gnome-web-photo
 
 # darktable support
-sudo apt-fast  -qq  -y install liblua5.3-0 liblua5.3-dev #lua5.3 lua5.3-doc sqlitebrowser sqlite
+sudo apt-fast  -qq  -y install liblua5.3-0 liblua5.3-dev sqlitebrowser
+sudo apt-fast  -qq  -y install  ocl-icd-libopencl1
 
-ppa_add dhor/myway
+
+#ppa_add dhor/myway
 sudo apt-get -y -qq install hdrmerge
 sudo apt-get -y -qq install luminance-hdr  
 sudo apt-get -y -qq install photoflow 
@@ -42,7 +44,7 @@ sudo apt-fast -qq  -y install deluge  ffmpeg
 
 
 echo TO Fix ================
-ppa_add dhor/myway
+#ppa_add dhor/myway
 sudo apt-fast -qq  -y install luminance-hdr
 sudo apt-fast -qq  -y install photoflow
 sudo apt-fast -qq  -y install hdrmerge

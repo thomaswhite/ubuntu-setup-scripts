@@ -1,0 +1,48 @@
+sudo apt-get dist-upgrade
+sudo apt-get upgrade
+sudo apt autoremove
+cat .merged_bash_history  | sort -u > history.txt
+sudo apt-get install solar
+sudo apt-get install x2goclient
+sudo apt-get install x2goclient  xbindkeys xautomation x11-utils
+sudo apt-get install resilio-sync
+sudo apt-fast install gedit
+sudo apt-get install gedit
+sudo apt-get install couchdb
+apt list  *couchdb*
+sudo apt-get install solar
+Upgrade
+Upgrade
+apt list thunar*
+./000.configure_merge_history.sh 
+./001.disable-services.sh 
+./010.config_apt-fast.sh 
+Upgrade
+./020.config_add_ppa.sh 
+./020.config_add_ppa.sh 
+sudo apt-get install solaar
+Upgrade
+./030.install_xfce.sh 
+sudo apt-get -f install
+./030.install_xfce.sh 
+sudo apt-fast -qq  -y install thunar*  gthumb* gnome-*-thumbnailer tumbler*  ffmpegthumbnailer  thumbnailer* ooo-thumbnailer
+sudo apt-fast -qq  -y install thunar*  gthumb* gnome-*-thumbnailer tumbler*  ffmpegthumbnailer  thumbnailer* 
+sudo apt-fast -qq  -y install thunar*  gthumb* gnome-*-thumbnailer tumbler*  ffmpegthumbnailer  
+sudo apt-fast -qq  -y install thunar*  gthumb* gnome-*-thumbnailer tumbler* 
+sudo apt-fast -qq  -y install thunar*  gthumb* gnome-*-thumbnailer
+sudo apt-fast -qq  -y install thunar*  gthumb* 
+sudo apt-fast -qq  -y install thunar* 
+sudo apt-fast   -y install thunar* 
+Upgrade
+sudo apt-fast -qq  -y install xfce4-*-plugin xfce4-appfinder xfce4-dict xfce4-goodies xfce4-notifyd xfce4-panel xfce4-power-* xfce4-settings xfce4-terminal
+sudo apt-fast -qq  -y install  gthumb* 
+sudo apt-fast -qq  -y install gthumb* gnome-*-thumbnailer tumbler*  ffmpegthumbnailer  thumbnailer* ooo-thumbnailer
+touch ~/.merged_bash_history
+history
+sudo apt-get dist-upgrade
+Upgrade
+Upgrade
+sudo killall chrome
+ls
+ll
+Upgrade

@@ -1,0 +1,554 @@
+#1555960827
+Upgrade
+#1555960947
+Upgrade
+#1555961011
+apt-get install x2goclient
+#1555961217
+apt-get install x2goclient
+#1555961221
+apt-get install x2goclient
+#1555961232
+sudo apt-fast update
+#1555961688
+apt-get install x2goclient
+#1555961705
+sudo rm  /var/lib/dpkg/lock-frontend
+#1555961706
+apt-get install x2goclient
+#1555961719
+sudo apt-get install x2goclient
+#1555961822
+sudo apt-fast install gedit
+#1555961875
+./030.install_xfce.sh 
+#1555962290
+./030.install_xfce.sh 
+#1555962323
+./040.install-python.sh 
+#1555962492
+./051.pkexec-setup.sh 
+#1555962500
+./050.install-essentials.sh 
+#1555964682
+history
+#1555964698
+cd /home/tom/2install/ubuntu-17.10-setup/#
+#1555964703
+cd /home/tom/2install/ubuntu-17.10-setup/
+#1555964722
+./061.dev-git-config.sh 
+#1555964828
+./200.fix-dropbox-start.sh 
+#1555964839
+./700.set-system-parameters.sh 
+#1555964850
+./800.disable-services.sh 
+#1555964885
+sudo systemctl unmask    bluetooth.service
+#1555964896
+sudo systemctl enable    bluetooth.service
+#1555964918
+Upgrade
+#1556093390
+curl -sL https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh -o install_nvm.sh
+#1556093434
+bash install_nvm.sh
+#1556093487
+bash install_nvm.sh
+#1556093500
+bash install_nvm.sh
+#1556093508
+nvm
+#1556093539
+nvm
+#1556093564
+nvm ls-remote
+#1556093632
+nvm i   v10.15.3
+#1556094191
+npm
+#1556094228
+npm
+#1556094237
+locate npm
+#1556094248
+which npm
+#1556097389
+ifconfig
+#1556098025
+sudo thunar
+#1556098183
+umount 192.168.1.201:/home /mnt/laptop
+#1556098217
+sudo thunar
+#1556098250
+umount 192.168.1.201:/home /mnt/laptop
+#1556098357
+umount 192.168.1.201:/home /home/laptop
+#1556098379
+mount 192.168.1.201:/home /home/laptop
+#1556098449
+mount 192.168.1.201:/home /home/laptop
+#1556098459
+mount 192.168.1.201:/home /mnt/laptop/
+#1556098574
+mount 192.168.1.201:/home /mnt/laptop/
+#1556098671
+mount 192.168.1.201:/home /mnt/laptop/
+#1556098929
+mount 192.168.1.201:/home /mnt/laptop/
+#1556099294
+mount 192.168.1.201:/home /mnt/laptop/
+#1556099309
+ping 192.168.1.201
+#1556110532
+ssh t16
+#1556110539
+ssh cfg01o
+#1556110568
+ssh-add .ssh/mailcontrol-20161110 
+#1556110576
+ssh t16
+#1556110589
+ssh mailcontrol@t16
+#1556141646
+ssh 192.168.1.82
+#1556208038
+echo "deb http://linux-packages.resilio.com/resilio-sync/deb resilio-sync non-free" | sudo tee /etc/apt/sources.list.d/resilio-sync.list
+#1556208062
+curl -LO http://linux-packages.resilio.com/resilio-sync/key.asc && sudo apt-key add ./key.asc
+#1556208115
+sudo apt-get update
+#1556208151
+sudo apt-get install resilio-sync
+#1556208411
+systemctl status resilio-sync.service
+#1556209910
+sudo apt-get remove resilio-sync
+#1556209942
+sudo apt-fast install resilio-sync
+#1556210012
+sudo apt-get update
+#1556210069
+sudo apt-get install resilio-sync
+#1556210128
+sudo apt-get remove --purge  resilio-sync
+#1556210145
+rm /var/lib/dpkg/lock-frontend 
+#1556210151
+sudo rm /var/lib/dpkg/lock-frontend 
+#1556210152
+sudo rm /var/lib/dpkg/lock-frontend 
+#1556210157
+sudo apt-get remove --purge  resilio-sync
+#1556210172
+sudo rm /var/lib/dpkg/lock 
+#1556210174
+sudo apt-get remove --purge  resilio-sync
+#1556210202
+sudo apt-get install resilio-sync
+#1556211165
+sudo dpkg --purge --force-depends  resilio-sync
+#1556211229
+sudo apt-get install resilio-sync
+#1556212905
+sudo apt-get clean -f
+#1556213022
+journalctl -xe
+#1556213071
+systemctl restart resilio-sync.service
+#1556213162
+systemctl status resilio-sync.service
+#1556213234
+mkdir .rslsync
+#1556213270
+systemctl status resilio-sync.service
+#1556213280
+systemctl resatrt resilio-sync.service
+#1556213286
+systemctl restart resilio-sync.service
+#1556213314
+systemctl enable resilio-sync.service
+#1556213326
+sudo systemctl enable resilio-sync.service
+#1556213339
+systemctl restart resilio-sync.service
+#1556213395
+sudo systemctl status resilio-sync.service
+#1556213466
+sudo systemctl stop resilio-sync.service
+#1556213485
+rm  /var/run/resilio-sync/sync.pid
+#1556213491
+sudo rm  /var/run/resilio-sync/sync.pid
+#1556213493
+sudo rm  /var/run/resilio-sync/sync.pid
+#1556213501
+sudo systemctl start resilio-sync.service
+#1556213540
+sudo systemctl stop resilio-sync.service
+#1556213551
+sudo gedit /lib/systemd/system/resilio-sync.service
+#1556213613
+sudo systemctl start resilio-sync.service
+#1556213632
+systemctl daemon-reload
+#1556213637
+sudo systemctl start resilio-sync.service
+#1556213668
+sudo systemctl status resilio-sync.service
+#1556213708
+sudo systemctl restart resilio-sync.service
+#1556213720
+sudo systemctl status resilio-sync.service
+#1556221248
+sudo systemctl enable resilio-sync
+#1556221271
+sudo usermod -aG tom rslsync
+#1556221310
+sudo chmod g+rw /mnt/4TB/ResilioSync/Snapseed
+#1556221536
+sudo gedit  /usr/lib/systemd/user/resilio-sync.service
+#1556221682
+sudo usermod -aG tom rslsync
+#1556222075
+sudo groupadd -f  rslsync
+#1556222086
+sudo usermod -aG tom rslsync
+#1556222166
+sudo groupadd -f  rslsync
+#1556222185
+sudo groupadd --h
+#1556222221
+sudo groupadd -f  -g 997  rslsync
+#1556222241
+getent
+#1556222246
+getent --help
+#1556222281
+cd /mnt/4TB/ResilioSync/
+#1556222417
+sudo groupadd -f  -gid 997  rslsync
+#1556222436
+sudo groupadd -f  -g 997  rslsync
+#1556223365
+chgrp -R rslsync *.*
+#1556223372
+chgrp -R rslsync *
+#1556223417
+sudo chgrp -R rslsync *
+#1556223496
+cd Camera/RAW/
+#1556223499
+sudo chgrp -R rslsync *
+#1556223522
+sudo thunar
+#1556472439
+sudo thunar
+#1556561162
+history | grep rsync
+#1556561333
+rsync -avh --info=progress2  --ignore-existing root@192.168.1.82/mnt/hdd/sync/huawei-jpg/* /mnt/4TB/ResilioSync/huawei-jpg/
+#1556561609
+rsync -avh --info=progress2  --ignore-existing  root@192.168.1.82//mnt/hdd/sync/huawei-jpg/* /mnt/4TB/ResilioSync/huawei-jpg/
+#1556561636
+rsync -avh --info=progress2  --ignore-existing  root@192.168.1.82://mnt/hdd/sync/huawei-jpg/* /mnt/4TB/ResilioSync/huawei-jpg/
+#1556561877
+sudo systemctl stop resilio-sync
+#1556561933
+sudo usermod -aG tom rslsync
+#1556561955
+sudo gedit  /usr/lib/systemd/user/resilio-sync.service
+#1556562018
+systemctl --user enable resilio-sync
+#1556562037
+systemctl --user start resilio-sync
+#1556562048
+loginctl
+#1556562104
+sudo chmod 777 -R *
+#1556562118
+chown
+#1556562122
+chown --help
+#1556562168
+chown -R tom:tom *
+#1556562174
+sudo chown -R tom:tom *
+#1556562270
+rsync -avh --info=progress2  --ignore-existing  root@192.168.1.82://mnt/hdd/sync/huawei-jpg/* /mnt/4TB/ResilioSync/huawei-jpg/
+#1556571192
+rsync -avh --info=progress2  --ignore-existing  /mnt/4TB/ResilioSync/Camera/*.jpg /mnt/4TB/ResilioSync/huawei-jpg/2019-04/
+#1556698118
+npm i
+#1556698143
+npm audit fix
+#1556698178
+nvm
+#1556698180
+nvm list
+#1556698199
+nvm list-remote
+#1556698268
+nvm install 12.1.0
+#1556698285
+nvm
+#1556698296
+nvm use 12.1.0
+#1556698312
+npm i
+#1556698328
+npm -v
+#1556698348
+npm audit fix`#
+#1556698352
+npm audit fix
+#1556698727
+npm install eslint --save-dev 
+#1556698800
+npm i
+#1556815071
+ifconfig
+#1556815499
+history
+#1556815521
+sudo systemctl restart resilio-sync
+#1556816007
+ssh 192.168.1.82
+#1556819209
+ssh root@192.168.1.82 lsb_release -a
+#1556819240
+ssh root@192.168.1.82 rsync -azvh  /mnt/hdd/sync/camera/RAW/*.* /mnt/hdd/sync/huawei-raw/
+#1556819265
+ssh root@192.168.1.82 'rsync -azvh  /mnt/hdd/sync/camera/RAW/*.* /mnt/hdd/sync/huawei-raw/'
+#1556819297
+ssh root@192.168.1.82 'rsync -azvh  /mnt/hdd/sync/Camera/RAW/*.* /mnt/hdd/sync/huawei-raw/'
+#1556819629
+history | grep rsync
+#1556820277
+nas82-copy-jpg-locally.sh 
+#1556820456
+nas82-copy-jpg-locally.sh 
+#1556820531
+nas82-copy-jpg-locally.sh 
+#1556820611
+nas82-copy-jpg-locally.sh 
+#1556820702
+nas82-copy-jpg-locally.sh 
+#1556820739
+nas82-copy-jpg-locally.sh 
+#1556820762
+nas82-copy-jpg-locally.sh 
+#1556820807
+nas82-copy-jpg-locally.sh 
+#1556820828
+nas82-copy-jpg-locally.sh 
+#1556820850
+nas82-copy-jpg-locally.sh 
+#1556821521
+nas82-copy-dng-locally.sh
+#1556821540
+nas82-copy-dng-locally.sh
+#1556848388
+pip
+#1556848399
+pip youtube-dl
+#1556848407
+pip install youtube-dl
+#1556848419
+youtube-dl https://youtu.be/zCWoOncVie8
+#1556848469
+youtube-dl https://www.youtube.com/watch?v=zCWoOncVie8
+#1557071613
+sudo apt-get install xautomation
+#1557071753
+sudo apt-get install compizconfig-settings-manager
+#1557071839
+xte
+#1557071912
+sudo apt-get install x11-utils
+#1557079432
+compizconfig-settings-manager
+#1557079443
+sudo apt-get install compizconfig-settings-manager
+#1557079638
+xbindkeys -k 
+#1557079665
+xbindkeys --defaults > /home/tom/.xbindkeysrc
+#1557079668
+xbindkeys -k 
+#1557081046
+sudo apt-get install imwheel
+#1557081082
+imwheel -c
+#1557081110
+sudo apt-get remove imwheel
+#1557081186
+exo-open
+#1557081194
+exo-open -?
+#1557085856
+sudo apt-get install solar
+#1557085990
+aunch
+#1557086000
+bluetoothctl
+#1557086080
+hcitool
+#1557086095
+hcitool lescan
+#1557086131
+gatttool
+#1557086148
+gatttool -i hci0
+#1557086208
+xev |grep -i button 
+#1557086384
+xbindkeys -k
+#1557086453
+xdotool
+#1557086483
+cat  .xbindkeysrc 
+#1557086783
+xte 'key Super_L'
+#1557086796
+history
+#1557086837
+sudo evtest
+#1557086874
+xev |grep -i button 
+#1557086937
+history
+#1557086952
+xev
+#1557087500
+xbindkeys -k 
+#1557087533
+xbindkeys -k 
+#1557087902
+sudo apt-get install xbindkeys xautomation x11-utils
+#1557087915
+xev
+#1557087952
+xev -event mouse | grep Button --before-context=1 --after-context=2
+#1557087991
+xbindkeys --defaults > $HOME/.xbindkeysrc  
+#1557088104
+xbindkeys --defaults > $HOME/.xbindkeysrc  
+#1557088131
+xev | grep -A2 ButtonPress
+#1557088990
+ratbag-command info /dev/input/event0
+#1557088999
+ratbag info /dev/input/event0
+#1557089009
+ratbag-command info /dev/input/event0
+#1557089104
+sudo add-apt-repository ppa:daniel.pavel/solaar
+#1557089186
+sudo apt-get install solaar
+#1557089199
+solar
+#1557300012
+youtube-dl https://www.youtube.com/watch?v=rChQ_HUJiGU
+#1557301661
+sudo apt-get install sqlite3
+#1557301901
+sqlite3 -header -csv android-devices.db "select * from devices;" > android-devices.csv
+#1557306994
+rsync -avh  /media/tom/TW-256GB/Images/Google-photos   /mnt/4TB/Images/Google\ Photos2/
+#1557319899
+sudo apt-fast install pouchdb
+#1557319908
+sudo apt-fast install couchdb
+#1557319938
+sudo apt-fast install couchdb
+#1557320120
+echo "deb https://apache.bintray.com/couchdb-deb disco main" | sudo tee -a /etc/apt/sources.list
+#1557320128
+sudo echo "deb https://apache.bintray.com/couchdb-deb disco main" | sudo tee -a /etc/apt/sources.list
+#1557320143
+curl -L https://couchdb.apache.org/repo/bintray-pubkey.asc | sudo apt-key add -
+#1557320148
+Upgrade
+#1557320324
+sudo apt-fast install couchdb
+#1557320359
+sudo thunar
+#1557320462
+Upgrade
+#1557320509
+sudo apt-fast install couchdb
+#1557320527
+sudo apt-fast update -f
+#1557320534
+sudo apt-fast 
+#1557320572
+sudo apt-get install -f
+#1557320625
+sudo apt-fast install couchdb
+#1557320630
+history
+#1557320724
+sudo apt-fast update -f
+#1557320730
+sudo apt-fast update 
+#1557320755
+sudo apt-fast install couchdb
+#1557320785
+sudo apt-get install -f
+#1557320903
+sudo apt-fast update 
+#1557320993
+sudo apt-fast update 
+#1557321064
+sudo apt-fast install couchdb
+#1557321113
+sudo apt-get install couchdb
+#1557321134
+sudo apt-get remove couchdb
+#1557321137
+sudo apt-get install couchdb
+#1557321196
+sudo apt-get install -f
+#1557321199
+sudo apt-get install couchdb
+#1557321220
+snap install couchdb
+#1557321259
+sudo apt-get remove --purge couchdb
+#1557321278
+sudo apt-fast install autoconf
+#1557321576
+snap install couchdb
+#1557321584
+sudo apt-get remove --purge couchdb
+#1557321591
+sudo apt-get install couchdb
+#1557321605
+apt list libicu60
+#1557321613
+apt list *libicu60*
+#1557321825
+cd Downloads/
+#1557321838
+sudo ./balenaEtcher-1.5.24-x64.AppImagee
+#1557321846
+sudo ./balenaEtcher-1.5.24-x64.AppImagee
+#1557321854
+sudo balenaEtcher-1.5.24-x64.AppImagee
+#1557321873
+./balenaEtcher-1.5.24-x64.AppImage 
+#1557321936
+cd ../.config/
+#1557321939
+chown
+#1557321944
+chown --help
+#1557321969
+sudo chown -R tom:tom balena-etcher-electron
+#1557321988
+../Downloads/balenaEtcher-1.5.24-x64.AppImage 
+#1557323356
+../Downloads/balenaEtcher-1.5.24-x64.AppImage 

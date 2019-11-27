@@ -5,6 +5,7 @@ source _setup.sh
 #sudo apt-fast -qq -y install gnome-network-admin
 sudo apt-fast -qq -y install moreutils
 sudo apt-fast -qq -y install wget uget curl
+sudo apt-fast -qq -y install net-tools traceroute
 
 # cisco vpn client
 sudo apt-fast -qq -y install network-manager-openconnect network-manager-openconnect-gnome

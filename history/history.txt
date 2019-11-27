@@ -1,0 +1,161 @@
+apt-get install x2goclient
+apt list *libicu60*
+apt list libicu60
+bash install_nvm.sh
+bluetoothctl
+cat  .xbindkeysrc 
+cd Camera/RAW/
+cd ../.config/
+cd Downloads/
+cd /home/tom/2install/ubuntu-17.10-setup/
+cd /home/tom/2install/ubuntu-17.10-setup/#
+cd /mnt/4TB/ResilioSync/
+chgrp -R rslsync *
+chgrp -R rslsync *.*
+chown
+chown --help
+chown -R tom:tom *
+compizconfig-settings-manager
+curl -L https://couchdb.apache.org/repo/bintray-pubkey.asc | sudo apt-key add -
+curl -LO http://linux-packages.resilio.com/resilio-sync/key.asc && sudo apt-key add ./key.asc
+curl -sL https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh -o install_nvm.sh
+../Downloads/balenaEtcher-1.5.24-x64.AppImage 
+echo "deb http://linux-packages.resilio.com/resilio-sync/deb resilio-sync non-free" | sudo tee /etc/apt/sources.list.d/resilio-sync.list
+echo "deb https://apache.bintray.com/couchdb-deb disco main" | sudo tee -a /etc/apt/sources.list
+exo-open
+exo-open -?
+gatttool
+gatttool -i hci0
+getent
+getent --help
+hcitool
+hcitool lescan
+history
+history | grep rsync
+ifconfig
+imwheel -c
+journalctl -xe
+locate npm
+loginctl
+mkdir .rslsync
+mount 192.168.1.201:/home /home/laptop
+mount 192.168.1.201:/home /mnt/laptop/
+nas82-copy-dng-locally.sh
+nas82-copy-jpg-locally.sh 
+npm
+npm audit fix
+npm audit fix`#
+npm i
+npm install eslint --save-dev 
+npm -v
+nvm
+nvm install 12.1.0
+nvm i   v10.15.3
+nvm list
+nvm list-remote
+nvm ls-remote
+nvm use 12.1.0
+ping 192.168.1.201
+pip
+pip install youtube-dl
+pip youtube-dl
+ratbag-command info /dev/input/event0
+ratbag info /dev/input/event0
+rm /var/lib/dpkg/lock-frontend 
+rm  /var/run/resilio-sync/sync.pid
+rsync -avh --info=progress2  --ignore-existing  /mnt/4TB/ResilioSync/Camera/*.jpg /mnt/4TB/ResilioSync/huawei-jpg/2019-04/
+rsync -avh --info=progress2  --ignore-existing root@192.168.1.82/mnt/hdd/sync/huawei-jpg/* /mnt/4TB/ResilioSync/huawei-jpg/
+rsync -avh --info=progress2  --ignore-existing  root@192.168.1.82//mnt/hdd/sync/huawei-jpg/* /mnt/4TB/ResilioSync/huawei-jpg/
+rsync -avh --info=progress2  --ignore-existing  root@192.168.1.82://mnt/hdd/sync/huawei-jpg/* /mnt/4TB/ResilioSync/huawei-jpg/
+rsync -avh  /media/tom/TW-256GB/Images/Google-photos   /mnt/4TB/Images/Google\ Photos2/
+snap install couchdb
+solar
+sqlite3 -header -csv android-devices.db "select * from devices;" > android-devices.csv
+ssh 192.168.1.82
+ssh-add .ssh/mailcontrol-20161110 
+ssh cfg01o
+ssh mailcontrol@t16
+ssh root@192.168.1.82 lsb_release -a
+ssh root@192.168.1.82 rsync -azvh  /mnt/hdd/sync/camera/RAW/*.* /mnt/hdd/sync/huawei-raw/
+ssh root@192.168.1.82 'rsync -azvh  /mnt/hdd/sync/camera/RAW/*.* /mnt/hdd/sync/huawei-raw/'
+ssh root@192.168.1.82 'rsync -azvh  /mnt/hdd/sync/Camera/RAW/*.* /mnt/hdd/sync/huawei-raw/'
+ssh t16
+sudo add-apt-repository ppa:daniel.pavel/solaar
+sudo apt-fast 
+sudo apt-fast install autoconf
+sudo apt-fast install couchdb
+sudo apt-fast install gedit
+sudo apt-fast install pouchdb
+sudo apt-fast install resilio-sync
+sudo apt-fast update
+sudo apt-fast update 
+sudo apt-fast update -f
+sudo apt-get clean -f
+sudo apt-get install compizconfig-settings-manager
+sudo apt-get install couchdb
+sudo apt-get install -f
+sudo apt-get install imwheel
+sudo apt-get install resilio-sync
+sudo apt-get install solaar
+sudo apt-get install solar
+sudo apt-get install sqlite3
+sudo apt-get install x11-utils
+sudo apt-get install x2goclient
+sudo apt-get install xautomation
+sudo apt-get install xbindkeys xautomation x11-utils
+sudo apt-get remove couchdb
+sudo apt-get remove imwheel
+sudo apt-get remove --purge couchdb
+sudo apt-get remove --purge  resilio-sync
+sudo apt-get remove resilio-sync
+sudo apt-get update
+sudo ./balenaEtcher-1.5.24-x64.AppImagee
+sudo balenaEtcher-1.5.24-x64.AppImagee
+sudo chgrp -R rslsync *
+sudo chmod 777 -R *
+sudo chmod g+rw /mnt/4TB/ResilioSync/Snapseed
+sudo chown -R tom:tom *
+sudo chown -R tom:tom balena-etcher-electron
+sudo dpkg --purge --force-depends  resilio-sync
+sudo echo "deb https://apache.bintray.com/couchdb-deb disco main" | sudo tee -a /etc/apt/sources.list
+sudo evtest
+sudo gedit /lib/systemd/system/resilio-sync.service
+sudo gedit  /usr/lib/systemd/user/resilio-sync.service
+sudo groupadd -f  -g 997  rslsync
+sudo groupadd -f  -gid 997  rslsync
+sudo groupadd -f  rslsync
+sudo groupadd --h
+sudo rm /var/lib/dpkg/lock 
+sudo rm  /var/lib/dpkg/lock-frontend
+sudo rm /var/lib/dpkg/lock-frontend 
+sudo rm  /var/run/resilio-sync/sync.pid
+sudo systemctl enable    bluetooth.service
+sudo systemctl enable resilio-sync
+sudo systemctl enable resilio-sync.service
+sudo systemctl restart resilio-sync
+sudo systemctl restart resilio-sync.service
+sudo systemctl start resilio-sync.service
+sudo systemctl status resilio-sync.service
+sudo systemctl stop resilio-sync
+sudo systemctl stop resilio-sync.service
+sudo systemctl unmask    bluetooth.service
+sudo thunar
+sudo usermod -aG tom rslsync
+systemctl daemon-reload
+systemctl enable resilio-sync.service
+systemctl resatrt resilio-sync.service
+systemctl restart resilio-sync.service
+systemctl status resilio-sync.service
+systemctl --user enable resilio-sync
+systemctl --user start resilio-sync
+umount 192.168.1.201:/home /home/laptop
+umount 192.168.1.201:/home /mnt/laptop
+Upgrade
+which npm
+xbindkeys --defaults > $HOME/.xbindkeysrc  
+xbindkeys --defaults > /home/tom/.xbindkeysrc
+xbindkeys -k
+xbindkeys -k 
+xdotool
+xev
+xev -event mouse | grep Button --before-context=1 --after-context=2

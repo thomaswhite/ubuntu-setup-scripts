@@ -1,0 +1,370 @@
+#1555350088
+history
+#1555350088
+sudo add-apt-repository ppa:peterlevi/ppa
+#1555350088
+sudo apt autoremove
+#1555350088
+sudo apt-fast install gnome-disk-utility 
+#1555350088
+sudo apt-gaet upgrade
+#1555350088
+sudo apt-get dist-upgrade
+#1555350088
+sudo apt-get install gnome-disk-utility 
+#1555350088
+sudo apt-get install variety variety-slideshow
+#1555350088
+sudo apt-get install xscreensaver
+#1555350088
+sudo apt-get install xscreensaver xscreensaver-data-extra xscreensaver-gl-extra
+#1555350088
+sudo apt-get remove gnome-screensaver
+#1555350088
+sudo apt-get remove xscreensaver
+#1555350088
+sudo apt-get remove xscreensaver xscreensaver-data-extra xscreensaver-gl-extra
+#1555350088
+sudo apt-get upgrade
+#1555350088
+touch ~/.merged_bash_history
+#1555350109
+history
+#1555350124
+history
+#1555350133
+history
+#1555350207
+sudo apt-get -qq  -y remove xserver-xorg-video-intel
+#1555350222
+sudo apt-get -qq -y install git rsync wget curl gdebi
+#1555350245
+sudo apt-get -qq -y install etckeeper
+#1555350284
+cd /home/tom/2install/ubuntu-17.10-setup/020.config_add_ppa.sh
+#1555350288
+cd /home/tom/2install/ubuntu-17.10-setup
+#1555350293
+./020.config_add_ppa.sh 
+#1555350873
+sudo launchpad-getkeys
+#1555350890
+./010.config_apt-fast.sh 
+#1555350986
+lsblk -D
+#1555351038
+sudo apt-fast install gedit
+#1555351068
+/sbin/fstrim  --all
+#1555351080
+trim
+#1555351087
+sudo apt-fast install trim
+#1555351162
+sudo gedit /etc/default/grub
+#1555351190
+sudo update-grub
+#1555351209
+sudo gedit /etc/fstab
+#1555351303
+sudo gedit /etc/sysctl.conf
+#1555351355
+sudo gedit /etc/xdg/autostart
+#1555351398
+sudo thunar
+#1555359523
+sudo systemctl disable NetworkManager-wait-online
+#1555359539
+sudo systemctl mask NetworkManager-wait-online
+#1555359555
+systemd-analyze time
+#1555359568
+systemd-analyze blame
+#1555359596
+sudo systemctl disable ModemManager
+#1555359609
+sudo systemctl mask ModemManager
+#1555359638
+systemd-analyze blame
+#1555359712
+systemd-analyze blame
+#1555359881
+sudo systemctl disable apparmor
+#1555359942
+systemctl list-unit-files --type=service     
+#1555360037
+sudo systemctl disable accounts-daemon.service
+#1555360052
+sudo systemctl maskaccounts-daemon.service
+#1555360059
+sudo systemctl mask accounts-daemon.service
+#1555360096
+sudo systemctl disable brltty.service
+#1555360103
+sudo systemctl mask  brltty.service
+#1555360119
+sudo systemctl disable ModemManager.service
+#1555360125
+sudo systemctl mask  ModemManager.service
+#1555360142
+sudo systemctl disable pppd-dns.service
+#1555360152
+sudo systemctl mask  pppd-dns.service
+#1555360178
+sudo systemctl disable whoopsie.service
+#1555360188
+sudo systemctl mask  whoopsie.service
+#1555360204
+journalctl -b
+#1555360229
+systemd-analyze blame
+#1555360279
+systemd-analyze blame
+#1555360342
+netstat -a --protocol=unix
+#1555360349
+sudo apt install net-tools
+#1555360362
+netstat -a --protocol=unix
+#1555360408
+history
+#1555360474
+systemd-analyze blame
+#1555360488
+systemd-analyze --help
+#1555360501
+systemd-analyze --order
+#1555361114
+sudo snap install gravit-designer
+#1555486876
+cd /home/tom/2install/ubuntu-17.10-setup/030.install_xfce.sh
+#1555486880
+cd /home/tom/2install/ubuntu-17.10-setup/
+#1555486893
+sudo apt-fast install gedit
+#1555487188
+sudo apt-get remove variety* --purge
+#1555487232
+history
+#1555487235
+sudo apt-fast -qq  -y install xfce-keyboard-shortcuts xfburn xfe xterm menulibre alacarte
+#1555487286
+sudo apt-fast -qq  -y install xfce4-settings 
+#1555487301
+sudo apt-fast -qq  -y install xubuntu-restricted-addons 
+#1555487324
+sudo apt-fast -qq  -y install xfce-theme-manager 
+#1555487337
+xfconf-query --channel thunar --property /misc-full-path-in-title         --create --type bool --set true
+#1555487344
+xfconf-query --channel thunar --property /misc-exec-shell-scripts-by-default --create --type bool --set true
+#1555487353
+xfconf-query --channel thunar --property /misc-image-size-in-statusbar     --create --type bool --set true
+#1555487364
+sudo apt-fast -qq  -y install thunar*  gthumb* gnome-*-thumbnailer tumbler*  ffmpegthumbnailer  thumbnailer* ooo-thumbnailer
+#1555487380
+sudo apt-fast -qq  -y install thunar*  gthumb* gnome-*-thumbnailer tumbler*  ffmpegthumbnailer  thumbnailer* ooo-thumbnailer
+#1555487398
+sudo apt-fast -qq  -y install  gthumb* gnome-*-thumbnailer tumbler*  ffmpegthumbnailer  thumbnailer* ooo-thumbnailer
+#1555487476
+sudo apt-fast -qq -y install network-manager-openconnect network-manager-openconnect-gnome
+#1555487486
+sudo systemctl restart NetworkManager.service
+#1555487511
+sudo apt-fast -qq -y install x2goclient 
+#1555487552
+./040.install-python.sh 
+#1555487647
+./050.install-essentials.sh 
+#1555488198
+sudo apt-fast -y -qq install  oracle-java8-installer oracle-java8-set-default
+#1555488256
+sudo apt-fast -y -qq remove  oracle-java8-installer oracle-java8-set-default
+#1555488271
+sudo apt-fast -y -qq remove  oracle-java9-installer oracle-java9-set-default
+#1555488292
+sudo apt-fast -y -qq install  oracle-java9-installer oracle-java9-set-default
+#1555488347
+sudo add-apt-repository ppa:linuxuprising/java
+#1555488567
+sudo apt-get install oracle-java11-installer
+#1555488944
+sudo apt-get install oracle-java11-set-default
+#1555488951
+Upgrade
+#1555492091
+sudo apt-get install indicator-sound
+#1555492111
+indicator-sound 
+#1555492150
+alsamixer
+#1555492407
+pulseaudio
+#1555492479
+sudo  apt-get install xfce4-indicator-plugin
+#1555492788
+sudo apt-get install indicator-sound-gtk2
+#1555492820
+sudo apt-get install xfce4-mixer 
+#1555492834
+apt list fxce4*
+#1555492846
+apt list fxce*
+#1555492859
+apt list xfce4*
+#1555492900
+sudo apt-get install xfce4-goodies
+#1555492924
+apt list xfce4*
+#1555493055
+xfce4-panel -r
+#1555493360
+apt list xfce4*plugin
+#1555493402
+sudo apt-fast install  xfce4-pulseaudio-plugin
+#1555493425
+sudo apt-fast install  xfce4-*-plugin
+#1555493742
+history | grep puls
+#1555493750
+pulseaudio
+#1555494607
+./051.pkexec-setup.sh 
+#1555494636
+./061.dev-git-config.sh 
+#1555494643
+./061.dev-git-config.sh 
+#1555496157
+curl -sL https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh -o install_nvm.sh
+#1555496355
+ls insta*
+#1555496384
+./install_nvm.sh 
+#1555496449
+./install_nvm.sh 
+#1555496505
+nvm
+#1555496517
+nvm list
+#1555496556
+cat ~/.profile
+#1555496625
+nvm ls-remote
+#1555496774
+nvm install 10.15.3
+#1555497404
+sudo killall webstorm
+#1555497412
+sudo killall WebStorm
+#1555499585
+ssh-add ./ssh/mailcontrol-20161110
+#1555499595
+ssh-add ~/.ssh/mailcontrol-20161110
+#1555499627
+ssh-add ~/.ssh/mailcontrol-20161110
+#1555499650
+ssh pmr1
+#1555499695
+ssh pmr1
+#1555501474
+ssh cfg1
+#1555504994
+ssh www1
+#1555507755
+sudo sh -c 'echo "deb https://atlassian.artifactoryonline.com/atlassian/hipchat-apt-client $(lsb_release -c -s) main" > /etc/apt/sources.list.d/atlassian-hipchat4.list'
+#1555507768
+wget -O - https://atlassian.artifactoryonline.com/atlassian/api/gpg/key/public | sudo apt-key add -
+#1555507777
+sudo apt-get update
+#1555509945
+history | grep scp
+#1555612486
+sudo apt-get install gnome-system-tools
+#1555612602
+sudo users-admin
+#1555613070
+chmod 777 -R  *.*
+#1555613076
+chmod 777 -R  .
+#1555613092
+super chmod 777 -R  .
+#1555613100
+sudo chmod 777 -R  .
+#1555667288
+ssh root@192.168.1.82
+#1555667440
+ssh 192.168.1.82
+#1555667529
+ssh 192.168.1.82
+#1555667671
+ssh-copy-id -i root@192.168.1.82
+#1555667714
+ssh-copy-id  root@192.168.1.82
+#1555667741
+ssh  root@192.168.1.82
+#1555667772
+ssh  root@192.168.1.82
+#1555667903
+cat .ssh/authorized_keys
+#1555667949
+ssh-copy-id  root@192.168.1.82
+#1555667960
+ssh  root@192.168.1.82
+#1555668075
+ssh-add -l .ssh/pi.pub 
+#1555668148
+chmod 700 ~/.ssh
+#1555668157
+chmod 600 ~/.ssh/*
+#1555668184
+ssh  root@192.168.1.82
+#1555669729
+sudo killall thunar
+#1555671065
+sudo killall thunar
+#1555671069
+sudo killall thunar
+#1555671070
+sudo killall thunar
+#1555671367
+ssh  root@192.168.1.82
+#1555794672
+ssh 192.168.1.82
+#1555796344
+history | grep rsync
+#1555796349
+rsync
+#1555869641
+ssh 192.168.1.82
+#1555869756
+sudo snap install opera-developer --edge
+#1555870062
+opera-developer
+#1555870067
+sudo opera-developer
+#1555870088
+sudo snap remove opera-developer --edge
+#1555870092
+sudo snap remove opera-developer 
+#1555873250
+sudo etcher
+#1555873302
+sudo etcher-electron 
+#1555873357
+synaptic-pkexec
+#1555873417
+apt list  xfce-polkit 
+#1555873432
+sudo apt-get install  xfce-polkit 
+#1555873526
+sudo apt-get install task-xfce-desktop
+#1555873661
+cd Downloads/
+#1555873682
+sudo ./balenaEtcher-1.5.24-x64.AppImage 
+#1555873859
+sudo apt install nfs-kernel-server
+#1555874055
+sudo apt install nfs-common
+#1555874194
+ssh 192.168.1.82

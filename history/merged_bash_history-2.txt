@@ -1,0 +1,2720 @@
+#1484224907
+
+#1484224907
+"
+#1484224907
+$ python -c 'vi = "%s.%s" % __import__("sys").version_info[:2]; print("%s %s" % (vi, vi in ("2.7", "2.6", "2.5", "2.4")))'
+#1484224907
+. /tmp/multisystem/multisystem-vte
+#1484224907
+./copy_local_custom_actions-to-Dropbox.sh 
+#1484224907
+./flickrapilogin 
+#1484224907
+./install-depot-multisystem.sh
+#1484224907
+./replace_local_custom_actions.sh 
+#1484224907
+./scss-update-force.bash 
+#1484224907
+./scss-update.bash 
+#1484224907
+./scss-watch
+#1484224907
+./scss-watch.bash
+#1484224907
+./scss-watch.bash 
+#1484224907
+./scss-watch.sh
+#1484224907
+./sync-www.pl
+#1484224907
+./thunar-hidden-options.sh 
+#1484224907
+./wps.sh
+#1484224907
+./xdm
+#1484224907
+.ssh-a
+#1484224907
+/home/thomas/app/GPicSync-master/gpicsync-GUI.py
+#1484224907
+/home/thomas/app/GPicSync-master/gpicsync.py
+#1484224907
+/home/thomas/app/GPicSync-master/gpx.py
+#1484224907
+/usr/local/bin/exiftool
+#1484224907
+/usr/local/bin/exiftool -s
+#1484224907
+/usr/local/bin/exiftool -v
+#1484224907
+/usr/local/gimphoto/gimphoto.sh
+#1484224907
+10.250.133.101
+#1484224907
+Instead of hard-coding gnome-terminal, konsole, et cetera, use the Alternatives system. The program that executes the default terminal emulator is:
+#1484224907
+Perforce/twhite-16.04/code_SaaS/head/portal/WWWDocs/portal/web_setup_wizard/step2* t16:/tmp
+#1484224907
+Perforce/twhite-16.04/code_SaaS/head/portal/WWWDocs/portal/web_setup_wizard/step2* t16:/tmp/
+#1484224907
+Perforce/twhite-16.04/code_SaaS/head/portal/WWWDocs/portal/web_setup_wizard/step2* t16:/tmp/step2_firewall_setup2.mas
+#1484224907
+Update
+#1484224907
+Upgrade
+#1484224907
+aaaaaaassh
+#1484224907
+advpng
+#1484224907
+aliases
+#1484224907
+alltry
+#1484224907
+apt --help
+#1484224907
+apt gdebi apturl xfce-theme-manager y-ppa-manager ppa-purge xfce4-goodies xfce4-indicator-plugin  thunar* synaptic xubuntu-restricted-extras xubuntu-restricted-addons gksu xfce-keyboard-shortcuts gthumb gpicview viewnior feh htop bup ncdu nmap menulibre tree uget atop wget hh build-essential check devscripts dh-make fakeroot p7zip-full p7zip zip unzip rar unrar cabextract arj dconf-tools linux-tools-generic  preload python-software-properties ubuntu-restricted-extras  git git-core libxml-parser-perl check htop bup  openssl openvpn filezilla vlc cheese digikam gimp gimp-data gimp-plugin-registry gimp-data-extras fakeroot ttf-mscorefonts-installer tagtool easytag id3tool gedit tap-plugins rev-plugins  playonlinux uget gedit gedit-common gedit-latex-plugin gedit-plugins
+#1484224907
+apt info prelink
+#1484224907
+apt install prelink
+#1484224907
+apt install smartctl
+#1484224907
+apt list  aptik
+#1484224907
+apt list *convert*
+#1484224907
+apt list *converter
+#1484224907
+apt list *convertor
+#1484224907
+apt list *image*convertor
+#1484224907
+apt list *keyring
+#1484224907
+apt list *plugins
+#1484224907
+apt list *sound
+#1484224907
+apt list *soundconverter
+#1484224907
+apt list *tag
+#1484224907
+apt list *tag*
+#1484224907
+apt list *xfce
+#1484224907
+apt list aclacarte
+#1484224907
+apt list audio*
+#1484224907
+apt list convert*
+#1484224907
+apt list gedit
+#1484224907
+apt list gedit*
+#1484224907
+apt list gnome-disk*
+#1484224907
+apt list insync
+#1484224907
+apt list insync*
+#1484224907
+apt list kindle
+#1484224907
+apt list mypaint*
+#1484224907
+apt list prelink
+#1484224907
+apt list shorten
+#1484224907
+apt list shutter*
+#1484224907
+apt list sound*
+#1484224907
+apt list sound* ./tmp/sound.txt
+#1484224907
+apt list sound* > ./tmp/sound.txt
+#1484224907
+apt list sound*converter
+#1484224907
+apt list soundconverter
+#1484224907
+apt list soundscaperenderer*
+#1484224907
+apt list tag*
+#1484224907
+apt list thunar*
+#1484224907
+apt list thunarx*
+#1484224907
+apt list ttf*
+#1484224907
+apt list tumbler*
+#1484224907
+apt list virtual*
+#1484224907
+apt list xfce*
+#1484224907
+apt list xfce*plugin
+#1484224907
+apt list xfce4*
+#1484224907
+apt list xfce4*plugin
+#1484224907
+apt list xfce4-*
+#1484224907
+apt list xfce4-*dbg
+#1484224907
+apt list xfce4-*dev
+#1484224907
+apt list xubuntu
+#1484224907
+apt list xubuntu*walpapers
+#1484224907
+apt list xubuntu-*
+#1484224907
+apt search *gedit*
+#1484224907
+apt search *tag*
+#1484224907
+apt search SoundScape
+#1484224907
+apt search gedit
+#1484224907
+apt search gedit*
+#1484224907
+apt search gedit*plugin
+#1484224907
+apt search gedit-*
+#1484224907
+apt search udisk*
+#1484224907
+apt search udisks
+#1484224907
+apt search xubuntu*walpapers
+#1484224907
+apt show  --description  aptik 
+#1484224907
+apt show  apt
+#1484224907
+apt show  aptik
+#1484224907
+apt show  aptik apturl arj atool atop build-essential bum bup byobu byzanz cabextract catfish check cheese clang cuetools curl dconf-tools debian-archive-keyring debian-keyring devscripts dh-make diffpdf digikam dspdfviewer easytag faac fakeroot feh filezilla flac flickrfs frogr g++-4.8 gdebi gedit gedit-common gedit-latex-plugin gedit-plugins gimp gimp-data gimp-data-extras gimp-plugin-registry git git-core gksu gnome-icon-theme-full gparted gpicview gthumb gthumb-data  htop hwinfo id3tool inxi kiki leafpad libavcodec-extra libxml-parser-perl lightdm-gtk-greeter-settings linux-tools-generic mediainfo mediainfo-gui menulibre mypaint mypaint-data myspell-en-gb myspell-uk nano ncdu nmap ntfs-3g openssl openvpn origami-pdf p7zip p7zip-full pavucontrol pdfchain pdfmod pdf-presenter-console pdfsam pdfshuffler pdftk perl playonlinux polari postr ppa-purge preload python-pypdf python-software-properties qemu qemu-block-extra qemu-kvm qemu-slof qemu-system qemu-system-arm qemu-system-common qemu-system-mips qemu-system-misc qemu-system-ppc qemu-system-sparc qemu-system-x86 qemu-user qemu-user-binfmt qemu-utils qpdf rar rev-plugins ruby-full s3cmd shntool shutter soundconverter sox spek synaptic tagtool tango-icon-theme tap-plugins transcode transcode-doc tree ubuntu-keyring ubuntu-restricted-extras uget unattended-upgrades unrar unzip ureadahead usbutils usbview viewnior vlc wget wine winetricks xfce4-goodies xfce4-indicator-plugin xfce-keyboard-shortcuts xfce-theme-manager xpaint xpdf xrdp xterm xubuntu-community-wallpapers xubuntu-icon-theme xubuntu-restricted-addons xubuntu-restricted-extras xubuntu-wallpapers youtube-dl y-ppa-manager zip xdotool tumbler-plugins-extra gnome-raw-thumbnailer  gnome-disk-utility deluge insync insync-thunar xdotool tumbler-plugins-extra gnome-raw-thumbnailer gnome-disk-utility deluge insync insync-thunar synaptic dconf-tools gksu gdebi inxi leafpad catfish pavucontrol xfburn debian-keyring debian-archive-keyring ubuntu-keyring easy-rsa alacarte
+#1484224907
+apt show  aptik apturl arj atool atop build-essential bum bup byobu byzanz cabextract catfish check cheese clang cuetools curl dconf-tools debian-archive-keyring debian-keyring devscripts dh-make diffpdf digikam dspdfviewer easytag faac fakeroot feh filezilla flac flickrfs frogr g++-4.8 gdebi gedit gedit-common gedit-latex-plugin gedit-plugins gimp gimp-data gimp-data-extras gimp-plugin-registry git git-core gksu gnome-icon-theme-full gparted gpicview gthumb gthumb-data  htop hwinfo id3tool inxi kiki leafpad libavcodec-extra libxml-parser-perl lightdm-gtk-greeter-settings linux-tools-generic mediainfo mediainfo-gui menulibre mypaint mypaint-data myspell-en-gb myspell-uk nano ncdu nmap ntfs-3g openssl openvpn origami-pdf p7zip p7zip-full pavucontrol pdfchain pdfmod pdf-presenter-console pdfsam pdfshuffler pdftk perl playonlinux polari postr ppa-purge preload python-pypdf python-software-properties qemu qemu-block-extra qemu-kvm qemu-slof qemu-system qemu-system-arm qemu-system-common qemu-system-mips qemu-system-misc qemu-system-ppc qemu-system-sparc qemu-system-x86 qemu-user qemu-user-binfmt qemu-utils qpdf rar rev-plugins ruby-full s3cmd shntool shutter soundconverter sox spek synaptic tagtool tango-icon-theme tap-plugins transcode transcode-doc tree ubuntu-keyring ubuntu-restricted-extras uget unattended-upgrades unrar unzip ureadahead usbutils usbview viewnior vlc wget wine winetricks xfce4-goodies xfce4-indicator-plugin xfce-keyboard-shortcuts xfce-theme-manager xpaint xpdf xrdp xterm xubuntu-community-wallpapers xubuntu-icon-theme xubuntu-restricted-addons xubuntu-restricted-extras xubuntu-wallpapers youtube-dl y-ppa-manager zip xdotool tumbler-plugins-extra gnome-raw-thumbnailer  gnome-disk-utility deluge insync insync-thunar xdotool tumbler-plugins-extra gnome-raw-thumbnailer gnome-disk-utility deluge insync insync-thunar synaptic dconf-tools gksu gdebi inxi leafpad catfish pavucontrol xfburn debian-keyring debian-archive-keyring ubuntu-keyring easy-rsa alacarte > packges-show.txt
+#1484224907
+apt show *plugins >plugins-info.txt
+#1484224907
+apt show *tag
+#1484224907
+apt show *xfce
+#1484224907
+apt show -a aacplusenc bsdcpio bsdtar console-common gcc-multilib gxmessage hdparm ia32-libs libwacom lightdm-gtk-greeter-settings mac msr-tools multisystem pip
+#1484224907
+apt show -l  apt
+#1484224907
+apt show aacplusenc aclacarte advancecomp alacarte alltray apt aptik aptitude apturl apt-xapian-index aria2 arj atom atool atop audiotool auditool bsdcpio bsdtar build-essential bum bun bup byobu byzanz cabextract calibre catfish check cheese clacarte clang console-common cuetools curl dconf-tools debian-archive-keyring debian-keyring deluge devscripts dfo dh-make diffpdf diff-pdf diffuse digikam dispalgui displaycal dspdfviewer easymp3gain-gtk easytag ebian-keyring etckeeper faac fakeroot feh ffmpeg filezilla flac flickrfs frogr g++-4.8 gamin gcc-multilib gdebi gedit gedit-common gedit-latex-plugin gedit-plugins gimp gimp* git git-core gksu gnaural gnome-disk-utility gnome-icon-theme-full gnome-raw-thumbnailer gparted gpicview grep gthumb gthumb-data gtk3-engines-xfce gxmessage hdparm hh history htop hwinfo ia32-libs id3tool input-wacom insynch insync-thunar inxi iotop jobs-admin jpegoptim kdocker kiki leafpad libavcodec-extra libav-tools libav-tools-links libc6:i386 libncurses5:i386 libstdc++6:i386 libwacom libxml-parser-perl lightdm-gtk-greeter-settings linux-tools-generic lxde lxtask mac make mapivi mediainfo mediainfo-gui mediainfospek meld menulibre mkusb mkusb-nox mp3check mp3gain mp3split mp3splt msr-tools multiboot multisystem mypaint mypaint-data myspell-en-gb myspell-uk nano ncdu nmap ntfs-3g ntp openssl openvpn opera opera-stable oracle-java6-installer oracle-java8-installer oracle-java8-set-default origami-pdf p7zip p7zip-full pavucontrol pdfchain pdfmod pdf-presenter-console pdfsam pdfshuffler pdftk perl pfdtk pip playonlinux pngnq polari postr ppa-purge prelink preload program:i386 python-pypdf python-software-properties qpdf rar readahead rev-plugins rsplib-legacy-wrappers rspserver ruby-full s3cmd shiki-colors-xfwm-theme shntool shorten shutter simple-image-reducer skype smartctl soundconverter sox spek sudo sudoa synaptic syncthing systemd-ui tagtool tango-icon-theme tap-plugins thumbnailer-service thunar* thunar-archive-plugin thunar-data thunar-media-tags-plugin thunar-volman thunarx-python tiptop transcode transcode-doc tree ttf-mscorefonts-installer tumbler tumbler-common tumbler-plugins-extra ubproxy ubuntu-extras-keyring ubuntu-keyring ubuntu-restricted-extras udisks udisks2 uget unattended-upgrades unp unrar unzip ureadahead usbutils usbview viewnior vlc wbar wdar wget wine winetricks wmforkplop xdotool xfburn xfce4-goodies xfce4-indicator-plugin xfce4-notifyd xfce-keyboard-shortcuts xfce-theme-manager xfe xfwm4-themes xnview xpaint xpdf xrdp xterm xubuntu-community-wallpapers xubuntu-icon-theme xubuntu-restricted-addons xubuntu-restricted-extras xubuntu-wallpapers youtube-dl y-ppa-manager yumi zip > history-install.txt
+#1484224907
+apt show aacplusenc aclacarte advancecomp alacarte alltray aptitude apt-xapian-index aria2 arj atom audiotool auditool bsdcpio bsdtar bun clacarte console-common dfo dispalgui displaycal gamin gcc-multilib gtk3-engines-xfce gxmessage hdparm ia32-libs iotop jobs-admin jpegoptim libav-tools libav-tools-links libc6:i386 libncurses5:i386 libstdc++6:i386 libwacom libxml-parser-perl lightdm-gtk-greeter-settings lxde lxtask mac make mapivi mediainfospek meld mkusb mkusb-nox msr-tools multiboot multisystem opera opera-stable oracle-java6-installer oracle-java8-installer oracle-java8-set-default pip pngnq program:i386 rsplib-legacy-wrappers rspserver shorten smartctl sudoa ubproxy xnview 
+#1484224907
+apt show aacplusenc aclacarte advancecomp alacarte alltray aptitude apt-xapian-index aria2 arj atom audiotool auditool bsdcpio bsdtar bun clacarte console-common dfo dispalgui displaycal gamin gcc-multilib gtk3-engines-xfce gxmessage hdparm ia32-libs iotop jobs-admin jpegoptim libav-tools libav-tools-links libc6:i386 libncurses5:i386 libstdc++6:i386 libwacom libxml-parser-perl lightdm-gtk-greeter-settings lxde lxtask mac make mapivi mediainfospek meld mkusb mkusb-nox msr-tools multiboot multisystem opera opera-stable oracle-java6-installer oracle-java8-installer oracle-java8-set-default pip pngnq program:i386 rsplib-legacy-wrappers rspserver shorten smartctl sudoa ubproxy xnview > show2.txt
+#1484224907
+apt show aacplusenc bsdcpio bsdtar console-common gcc-multilib gxmessage hdparm ia32-libs libwacom lightdm-gtk-greeter-settings mac msr-tools multisystem pip
+#1484224907
+apt show apt
+#1484224907
+apt show apt -l
+#1484224907
+apt show apt-xapian-index 
+#1484224907
+apt show aptik apturl arj atool atop build-essential bum bup byobu byzanz cabextract catfish check cheese clang cuetools curl dconf-tools debian-archive-keyring debian-keyring devscripts dh-make diffpdf digikam dspdfviewer easytag faac fakeroot feh filezilla flac flickrfs frogr g++-4.8 gdebi gedit gedit-common gedit-latex-plugin gedit-plugins gimp gimp-data gimp-data-extras gimp-plugin-registry git git-core gksu gnome-icon-theme-full gparted gpicview gthumb gthumb-data  htop hwinfo id3tool inxi kiki leafpad libavcodec-extra libxml-parser-perl lightdm-gtk-greeter-settings linux-tools-generic mediainfo mediainfo-gui menulibre mypaint mypaint-data myspell-en-gb myspell-uk nano ncdu nmap ntfs-3g openssl openvpn origami-pdf
+#1484224907
+apt show audio*
+#1484224907
+apt show audiotool
+#1484224907
+apt show dnsmasq
+#1484224907
+apt show gtk3-engines-xfce
+#1484224907
+apt show kdocker
+#1484224907
+apt show libwacom
+#1484224907
+apt show mediainfo spek
+#1484224907
+apt show mediainfospek
+#1484224907
+apt show mediainfospek mkusb mkusb-nox rspserver shorten smartctl sudoa ubproxy xnview
+#1484224907
+apt show mkusb
+#1484224907
+apt show mp3split
+#1484224907
+apt show mp3splt
+#1484224907
+apt show net-dns/host
+#1484224907
+apt show prelink
+#1484224907
+apt show readahead
+#1484224907
+apt show rspserver
+#1484224907
+apt show selene
+#1484224907
+apt show shorten
+#1484224907
+apt show smartctl
+#1484224907
+apt show sound*
+#1484224907
+apt show soundconverter
+#1484224907
+apt show soundscaperenderer*
+#1484224907
+apt show systemd-ui
+#1484224907
+apt show tagcoll tagcloud taggrepper
+#1484224907
+apt show thumbna*
+#1484224907
+apt show thumbnail*
+#1484224907
+apt show thumbnailer
+#1484224907
+apt show thunarx*
+#1484224907
+apt show thunarx-python
+#1484224907
+apt show tiptop
+#1484224907
+apt show tumbler
+#1484224907
+apt show ubproxy
+#1484224907
+apt show udisks2
+#1484224907
+apt show virtual*
+#1484224907
+apt show wbar
+#1484224907
+apt show wdab
+#1484224907
+apt show wdar
+#1484224907
+apt show wmforkplop
+#1484224907
+apt show xdotool
+#1484224907
+apt show xfburn
+#1484224907
+apt show xnview
+#1484224907
+apt- list ttf*
+#1484224907
+apt-cache policy | grep backports
+#1484224907
+apt-cache show  --description  aptik 
+#1484224907
+apt-cache show aptik
+#1484224907
+apt-cache show aptik --description
+#1484224907
+apt-cache show scons | grep --color -E "Description|$"
+#1484224907
+apt-fast install -y xpdf qpdf python-pypdf origami-pdf dspdfviewer diffpdf pdf-presenter-console pdfchain pdfmod pdfsam pdfshuffler pdftk debian-keyring debian-archive-keyring ubuntu-keyring cuetools faac flac mediainfo mediainfo-gui mediainfo spek mp3check shntool  soundconverter sox spek vlc xubuntu-community-wallpapers xubuntu-restricted-extras xubuntu-wallpapers postr frogr postr frogr flickrfs polari lightdm-gtk-greeter-settings spek vlc mp3check faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo flac sox faac mp3check  cuetools shntool soundconverter faac mediainfo-gui  mediainfo gparted bum preload ureadahead opera-stable multisystem
+#1484224907
+apt-fast install -y xpdf qpdf python-pypdf origami-pdf dspdfviewer diffpdf pdf-presenter-console pdfchain pdfmod pdfsam pdfshuffler pdftk debian-keyring debian-archive-keyring ubuntu-keyring ubuntu-extras-keyring aacplusenc cuetools faac flac mac mediainfo mediainfo-gui mediainfospek mp3check mp3gain shntool shorten soundconverter sox spek vlc xubuntu-community-wallpapers xubuntu-restricted-extras xubuntu-wallpapers audiotool dfo postr frogr postr frogr flickrfs polari lightdm-gtk-greeter-settings spek vlc mp3check faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo flac sox faac mp3check  cuetools shntool soundconverter faac mediainfo-gui  mediainfo pip gparted yumi bum preload readahead resilio opera multisystem
+#1484224907
+apt-fast install -y xpdf qpdf python-pypdf origami-pdf dspdfviewer diffpdf pdf-presenter-console pdfchain pdfmod pdfsam pdfshuffler pdftk debian-keyring debian-archive-keyring ubuntu-keyring ubuntu-extras-keyring cuetools faac flac mediainfo mediainfo-gui mediainfo spek mp3check shntool  soundconverter sox spek vlc xubuntu-community-wallpapers xubuntu-restricted-extras xubuntu-wallpapers postr frogr postr frogr flickrfs polari lightdm-gtk-greeter-settings spek vlc mp3check faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo flac sox faac mp3check  cuetools shntool soundconverter faac mediainfo-gui  mediainfo gparted bum preload readahead opera multisystem
+#1484224907
+apt-fast install -y xpdf qpdf python-pypdf origami-pdf dspdfviewer diffpdf pdf-presenter-console pdfchain pdfmod pdfsam pdfshuffler pdftk debian-keyring debian-archive-keyring ubuntu-keyring ubuntu-extras-keyring cuetools faac flac mediainfo mediainfo-gui mediainfo spek mp3check shntool  soundconverter sox spek vlc xubuntu-community-wallpapers xubuntu-restricted-extras xubuntu-wallpapers postr frogr postr frogr flickrfs polari lightdm-gtk-greeter-settings spek vlc mp3check faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo flac sox faac mp3check  cuetools shntool soundconverter faac mediainfo-gui  mediainfo gparted bum preload ureadahead opera-stable multisystem
+#1484224907
+apt-get --help
+#1484224907
+apt-get -f install
+#1484224907
+apt-get install debian-keyring debian-archive-keyring ubuntu-keyring ubuntu-extras-keyring
+#1484224907
+apt-get install libmp3splt0-mp3 libmp3splt0-ogg libmp3splt0-flac libmp3splt-doc libmp3splt-dev mp3splt mp3splt-gtk
+#1484224907
+apt-get install mediainfo-gui  mediainfo
+#1484224907
+apt-get install zeroinstall-injector
+#1484224907
+aptik --help
+#1484224907
+atool
+#1484224907
+atool --help
+#1484224907
+atop
+#1484224907
+bash -x ./replace_local_custom_actions.sh 
+#1484224907
+bash ./install-depot-multisystem.sh
+#1484224907
+bash ./scss-watch.bash 
+#1484224907
+bash ./ts.bash 
+#1484224907
+build-essential check devscripts dh-make fakeroot p7zip-full p7zip zip unzip rar unrar cabextract arj dconf-tools linux-tools-generic  preload python-software-properties ubuntu-restricted-extras  git git-core libxml-parser-perl check htop bup  openssl openvpn filezilla vlc cheese digikam gimp gimp-data gimp-plugin-registry gimp-data-extras fakeroot ttf-mscorefonts-installer tagtool easytag id3tool gedit tap-plugins rev-plugins  playonlinux uget gedit gedit-common gedit-latex-plugin gedit-plugins  
+#1484224907
+bum
+#1484224907
+bun
+#1484224907
+byobu
+#1484224907
+cat ./.bash_aliases 
+#1484224907
+cat ./.merged_bash_history 
+#1484224907
+cat /etc/X11/default-display-manager
+#1484224907
+cat /etc/default/keyboard
+#1484224907
+cat /etc/environment
+#1484224907
+cat /etc/sysctl.conf
+#1484224907
+cat /etc/xdg/xfce4/kiosk/kioskrc
+#1484224907
+cat /proc/cpuinfo | grep sse2
+#1484224907
+cat /proc/meminfo
+#1484224907
+cat /proc/sys/vm/swappiness
+#1484224907
+cat /sys/block/sda/queue/scheduler
+#1484224907
+cat /usr/local/bin/exiftool
+#1484224907
+cat /var/log/openvpn.log   
+#1484224907
+cat /var/log/openvpn/openvpn-status.log
+#1484224907
+cat README 
+#1484224907
+cat hist-1-line.txt |tr " " "\n"  | sort | uniq | tr "\n" " "
+#1484224907
+cat history-install.txt |tr " " "\n"  | sort | uniq 
+#1484224907
+cat history-install.txt |tr " " "\n"  | sort | uniq > hist-1-line.txt
+#1484224907
+cat l1.txt  |tr " " "\n"  | sort | uniq | tr "\n" " "
+#1484224907
+cat merge_history.bash 
+#1484224907
+cat merged_bash_history | sort | uniq 
+#1484224907
+cat selected.txt |tr " " "\n"  | sort | uniq 
+#1484224907
+cat selected.txt |tr " " "\n"  | sort | uniq | tr "\n" " "
+#1484224907
+cat selected2.txt |tr " " "\n"  | sort | uniq 
+#1484224907
+cat selected2.txt |tr " " "\n"  | sort | uniq > ./Dropbox/1.install_me_first/ws-installed.txt
+#1484224907
+cat ~/.bashrc  | grep exi
+#1484224907
+catfish
+#1484224907
+cd
+#1484224907
+cd 
+#1484224907
+cd ..
+#1484224907
+cd ../2016/
+#1484224907
+cd ../Image-ExifTool-10.20/
+#1484224907
+cd ../Image-ExifTool-10.32/
+#1484224907
+cd ../thomas_2016-11-21/
+#1484224907
+cd .//Perforce/twhite__16-04/code_SaaS/head/portal/WWWDocs/lib
+#1484224907
+cd ./1.install_me_first/
+#1484224907
+cd ./Downloads/
+#1484224907
+cd ./Perforce/a
+#1484224907
+cd ./Perforce/twhite-16.04/code_SaaS/head/portal/WWWDocs/lib/
+#1484224907
+cd ./Perforce/twhite__16-04/code_SaaS/head/portal/WWWDocs/lib/
+#1484224907
+cd /etc/apt/sources.list.d
+#1484224907
+cd /etc/openvpn
+#1484224907
+cd /etc/xdg/autostart/
+#1484224907
+cd /etc/xdg/xfce4/kiosk/kioskrc
+#1484224907
+cd /home/thomas/eclipse-workspace_old
+#1484224907
+cd /media/thomas/0846cfe2-baa1-455b-b84f-4e1ce877b1f1/tom
+#1484224907
+cd /tmp/flac/
+#1484224907
+cd /var/lib/dpkg/info
+#1484224907
+cd 1.install_me_first/
+#1484224907
+cd Image-ExifTool-10.20/
+#1484224907
+cd Image-ExifTool-10.32/
+#1484224907
+cd Perforce
+#1484224907
+cd Perforce/twhite-16.04/code_SaaS/head/
+#1484224907
+cd Perforce/twhite-16.04/code_SaaS/head/portal/WWWDocs/lib
+#1484224907
+cd Perforce/twhite-16.04/code_SaaS/head/portal/WWWDocs/lib/
+#1484224907
+cd Perforce/twhite/
+#1484224907
+cd Perforce/twhite_16.04/code_SaaS/head/portal/
+#1484224907
+cd Perforce/twhite__16-04/code_SaaS/head/portal/WWWDocs/lib/
+#1484224907
+cd app
+#1484224907
+cd portal/WWWDocs/lib/
+#1484224907
+cd t16
+#1484224907
+cd tmp
+#1484224907
+cd tmp/Image-ExifTool-10.32/
+#1484224907
+cd twhite-16.04/code_SaaS/head/portal/WWWDocs/lib/
+#1484224907
+cd xdm
+#1484224907
+cd ~
+#1484224907
+cd ~/Perforce/twhite_16.04/code_SaaS/head/portal/
+#1484224907
+cd ~/Perforce/twhite__16-04/code_SaaS/head/portal/WWWDocs/lib
+#1484224907
+cd ~/Perforce/twhite__16-04/code_SaaS/head/portal/WWWDocs/lib/
+#1484224907
+cd ~/app/p4v-2014.1.888424/bin/ 
+#1484224907
+cd ~/tmp
+#1484224907
+cd ~tmp
+#1484224907
+cdtmp
+#1484224907
+chmod --help
+#1484224907
+chmod -e+ ts.bash bash
+#1484224907
+chmod 600 ~/.flickr_download
+#1484224907
+chmod o+r -R ~/.config/Thunar
+#1484224907
+chmod o+r -R ~/.config/Thunar/
+#1484224907
+chmod o+r -R ~/.config/Thunar/*.*
+#1484224907
+chmod o+r -R ~/.config/menus
+#1484224907
+chmod o+r -R ~/.config/xfce4
+#1484224907
+chmod o+r -R ~/home/$LOGNAME/.config/menus
+#1484224907
+chmod o+r -R ~/home/$LOGNAME/.config/xfce4
+#1484224907
+chown --help
+#1484224907
+clacarte
+#1484224907
+clear
+#1484224907
+clrear
+#1484224907
+convert
+#1484224907
+cp /usr/share/applications/dropbox.desktop ~/.local/share/applications/
+#1484224907
+cp ~/.config/autostart/dropbox.desktop ~/.config/autostart/start_dropbox.desktop
+#1484224907
+curl -s https://syncthing.net/release-key.txt | sudo apt-key add -
+#1484224907
+curl wttr.in
+#1484224907
+curl wttr.in/?m
+#1484224907
+curl wttr.in/moon
+#1484224907
+curl wttr.in/rg129sd
+#1484224907
+data
+#1484224907
+date
+#1484224907
+date + "%T"
+#1484224907
+date+"%T"
+#1484224907
+dbupdate
+#1484224907
+ddutility
+#1484224907
+df
+#1484224907
+dfo
+#1484224907
+diffuse km-0809.ini km-0809_v1.1.ini 
+#1484224907
+dmesg
+#1484224907
+dmesg --help
+#1484224907
+dpkg --h
+#1484224907
+dpkg --help
+#1484224907
+dpkg-query -Wf '${Installed-Size}\t${Package}\n' | sort -n
+#1484224907
+dpkg-query -Wf '${Installed-Size}\t${Package}\n' | sort -n -r
+#1484224907
+dpkg-query -Wf '${Installed-Size}\t${Package}\n' | sort -n -r | head -n 20
+#1484224907
+dragondisk
+#1484224907
+dropbox autostart n
+#1484224907
+du --block-size=1m -d 1  | sort -n -r
+#1484224907
+du --block-size=1m -d 1 |  sort -rn | head -n 20
+#1484224907
+du --block-size=1m -d 1 |  sort -rn | head -n 30
+#1484224907
+du --block-size=1m -d 1 | grep ^[0-9.]* | sort -rn | head -n 20
+#1484224907
+du --block-size=1m -d 1 | grep ^[0-9]* | sort -rn | head -n 20
+#1484224907
+du --h
+#1484224907
+du --help
+#1484224907
+du -d 1
+#1484224907
+du -d 1 -k
+#1484224907
+du -d 1 /media/thomas/0846cfe2-baa1-455b-b84f-4e1ce877b1f1/thomas/  | sort -h
+#1484224907
+du -d 1 | sort -h
+#1484224907
+du -d 1 | sort -n -r
+#1484224907
+du -d 1 ~  | sort -h
+#1484224907
+du -h -d 1 | sort -n -r
+#1484224907
+du -h | grep ^[0-9.]*G | sort -rn | head -n 20
+#1484224907
+du -h | grep ^[0-9.]*M | sort -rn | head -n 20
+#1484224907
+du -k -d 1 | sort -h
+#1484224907
+du -k -d 1 | sort -n -r
+#1484224907
+du -m -d 1 
+#1484224907
+du -m -d 1 | sort -d
+#1484224907
+du -m -d 1 | sort -h
+#1484224907
+du -n -d 1 | sort -n -r
+#1484224907
+dup 20
+#1484224907
+e4defrag 
+#1484224907
+e4defrag -c  /
+#1484224907
+e4defrag /
+#1484224907
+easymp3gain-gtk
+#1484224907
+echo "deadline" | sudo tee /sys/block/sda/queue/scheduler
+#1484224907
+echo "deb http://apt.syncthing.net/ syncthing release" | sudo tee /etc/apt/sources.list.d/syncthing.list
+#1484224907
+echo "deb https://apt.syncthing.net/ syncthing release" | sudo tee /etc/apt/sources.list.d/syncthing.list
+#1484224907
+echo $(date '+%Y-%m-%d')
+#1484224907
+echo $(date '+%d-%M-%Y')
+#1484224907
+echo $(date '+%d-%b-%Y')
+#1484224907
+echo $(date '+%d-%m-%Y')
+#1484224907
+echo $BACKUP_DIR
+#1484224907
+echo $BACKUP_FILE
+#1484224907
+echo $BACKUP_file
+#1484224907
+echo $DATE
+#1484224907
+echo $HOSTNAME
+#1484224907
+echo $PATH
+#1484224907
+echo %path%
+#1484224907
+echo '====================================================='
+#1484224907
+echo 'apt aptik apturl arj atool atop build-essential bum bup byobu byzanz cabextract catfish check cheese clang cuetools curl dconf-tools debian-archive-keyring debian-keyring devscripts dh-make diffpdf digikam dspdfviewer easytag faac fakeroot feh filezilla flac flickrfs frogr g++-4.8 gdebi gedit gedit-common gedit-latex-plugin gedit-plugins gimp gimp-data gimp-data-extras gimp-plugin-registry git git-core gksu gnome-icon-theme-full gparted gpicview gthumb gthumb-data hh htop hwinfo id3tool insync inxi kiki leafpad libavcodec-extra libxml-parser-perl lightdm-gtk-greeter-settings linux-tools-generic mediainfo mediainfo-gui menulibre mp3check mp3splt multisystem mypaint mypaint-data myspell-en-gb myspell-uk nano ncdu nmap ntfs-3g openssl openvpn opera-stable oracle-java8-installer oracle-java8-set-default origami-pdf p7zip p7zip-full pavucontrol pdfchain pdfmod pdf-presenter-console pdfsam pdfshuffler pdftk perl playonlinux polari postr ppa-purge preload python-pypdf python-software-properties qemu qemu-block-extra qemu-kvm qemu-slof qemu-system qemu-system-arm qemu-system-common qemu-system-mips qemu-system-misc qemu-system-ppc qemu-system-sparc qemu-system-x86 qemu-user qemu-user-binfmt qemu-utils qpdf rar rev-plugins ruby-full s3cmd shntool shutter skype soundconverter sox spek synaptic tagtool tango-icon-theme tap-plugins thumbnailer-service thunar thunar* thunar-archive-plugin thunar-data thunar-media-tags-plugin thunar-volman thunarx-python transcode transcode-doc tree ttf-mscorefonts-installer tumbler tumbler-common ubuntu-keyring ubuntu-restricted-extras uget unattended-upgrades unrar unzip ureadahead usbutils usbview viewnior vlc wget wine winetricks xfce4-goodies xfce4-indicator-plugin xfce-keyboard-shortcuts xfce-theme-manager xpaint xpdf xrdp xterm xubuntu-community-wallpapers xubuntu-icon-theme xubuntu-restricted-addons xubuntu-restricted-extras xubuntu-wallpapers youtube-dl y-ppa-manager zip xpdf qpdf python-pypdf origami-pdf dspdfviewer diffpdf pdf-presenter-console pdfchain pdfmod pdfsam pdfshuffler pdftk  diff-pdf postr frogr flickrfs gthumb gpicview viewnior tumbler tumbler-common thumbnailer-service mypaint mypaint-data xpaint build-essential check devscripts dh-make fakeroot zip unzip rar unrar cabextract arj dconf-tools fakeroot linux-tools-generic  python-software-properties  git git-core libxml-parser-perl clang digikam gimp gimp-data gimp-plugin-registry gimp-data-extras tagtool easytag cheese
+#1484224907
+echo 'apt aptik apturl arj atool atop build-essential bup cabextract catfish check cheese clang cuetools curl dconf-tools devscripts dh-make digikam easytag faac fakeroot feh filezilla flac gdebi gedit gedit-common gedit-latex-plugin gedit-plugins gimp gimp-data gimp-data-extras gimp-plugin-registry git git-core gksu gnaural gpicview gthumb gthumb-data hh htop hwinfo id3tool insync inxi kiki leafpad libavcodec-extra libxml-parser-perl linux-tools-generic mediainfo mediainfo-gui menulibre mp3check mp3split mypaint mypaint-data myspell-en-gb myspell-uk nano ncdu nmap ntfs-3g openssl openvpn oracle-java8-set-default p7zip p7zip-full pavucontrol pfdtk playonlinux ppa-purge preload python-software-properties qemu qemu-block-extra qemu-kvm qemu-slof qemu-system qemu-system-arm qemu-system-common qemu-system-mips qemu-system-misc qemu-system-ppc qemu-system-sparc qemu-system-x86 qemu-user qemu-user-binfmt qemu-utils qpdf rar rev-plugins s3cmd shntool shutter skype soundconverter sox spek synaptic tagtool tap-plugins thumbnailer-service thunar thunar* thunar-archive-plugin thunar-data thunar-media-tags-plugin thunar-volman transcode transcode-doc tree ttf-mscorefonts-installer tumbler tumbler-common ubuntu-restricted-extras uget unattended-upgrades unrar unzip usbutils usbview viewnior vlc wget wine winetricks xfce4-goodies xfce4-indicator-plugin xfce-keyboard-shortcuts xfce-theme-manager xnview xpaint xterm xubuntu-icon-theme xubuntu-restricted-addons xubuntu-restricted-extras youtube-dl y-ppa-manager zip leafpad pavucontrol qemu qemu-block-extra qemu-kvm qemu-slof qemu-system qemu-system-arm qemu-system-common qemu-system-mips qemu-system-misc qemu-system-ppc qemu-system-sparc qemu-system-x86 qemu-user qemu-user-binfmt qemu-utils unattended-upgrades myspell-uk nano usbutils usbview wine winetricks playonlinux clang curl gedit gedit-common gedit-plugins tumbler tumbler-common thumbnailer-service thunar thunar-archive-plugin thunar-data thunar-media-tags-plugin thunar-volman gthumb gthumb-data xpaint xterm xubuntu-icon-theme  mypaint mypaint-data myspell-en-gb myspell-uk  ntfs-3g p7zip p7zip-full s3cmd shutter skype soundconverter sox transcode transcode-doc oracle-java8-set-default uget check openssl openvpn filezilla leafpad pavucontrol qemu qemu-block-extra qemu-kvm qemu-slof qemu-system qemu-system-arm qemu-system-common qemu-system-mips qemu-system-misc qemu-system-ppc qemu-system-sparc qemu-system-x86 qemu-user qemu-user-binfmt qemu-utils unattended-upgrades myspell-uk nano usbutils usbview wine winetricks playonlinux clang curl mkusb mkusb-nox gedit gedit-common gedit-plugins tumbler tumbler-common thumbnailer-service thunar thunar-archive-plugin thunar-data thunar-media-tags-plugin thunar-volman thunarx-python gthumb gthumb-data xpaint xterm xubuntu-icon-theme  mypaint mypaint-data myspell-en-gb myspell-uk  ntfs-3g p7zip p7zip-full s3cmd shutter skype soundconverter sox transcode transcode-doc oracle-java8-set-default uget check openssl openvpn filezilla  leafpad pavucontrol qemu qemu-block-extra qemu-kvm qemu-slof qemu-system qemu-system-arm qemu-system-common qemu-system-mips qemu-system-misc qemu-system-ppc qemu-system-sparc qemu-system-x86 qemu-user qemu-user-binfmt qemu-utils unattended-upgrades myspell-uk nano usbutils usbview winetricks playonlinux clang curl gedit gedit-common gedit-plugins tumbler tumbler-common thumbnailer-service thunar thunar-archive-plugin thunar-data thunar-media-tags-plugin thunar-volman gthumb gthumb-data xpaint xterm xubuntu-icon-theme  mypaint mypaint-data myspell-en-gb myspell-uk  ntfs-3g p7zip p7zip-full s3cmd shutter skype soundconverter sox transcode transcode-doc oracle-java8-set-default uget check openssl openvpn filezilla leafpad pavucontrol qemu qemu-block-extra qemu-kvm qemu-slof qemu-system qemu-system-arm qemu-system-common qemu-system-mips qemu-system-misc qemu-system-ppc qemu-system-sparc qemu-system-x86 qemu-user qemu-user-binfmt qemu-utils unattended-upgrades myspell-uk nano usbutils usbview winetricks playonlinux clang curl gedit gedit-common gedit-plugins tumbler tumbler-common thumbnailer-service thunar thunar-archive-plugin thunar-data thunar-media-tags-plugin thunar-volman gthumb gthumb-data xpaint xterm xubuntu-icon-theme  mypaint mypaint-data myspell-en-gb myspell-uk  ntfs-3g p7zip p7zip-full s3cmd shutter skype soundconverter sox transcode transcode-doc oracle-java8-set-default uget check openssl openvpn filezilla' |tr " " "\n"  | sort | uniq | tr "\n" " "
+#1484224907
+echo 'aptik apturl arj atool atop build-essential bum bup byobu byzanz cabextract catfish check cheese clang cuetools curl dconf-tools debian-archive-keyring debian-keyring devscripts dh-make diffpdf digikam dspdfviewer easytag faac fakeroot feh filezilla flac flickrfs frogr g++-4.8 gdebi gedit gedit-common gedit-latex-plugin gedit-plugins gimp gimp-data gimp-data-extras gimp-plugin-registry git git-core gksu gnome-icon-theme-full gparted gpicview gthumb gthumb-data hh htop hwinfo id3tool insync inxi kiki leafpad libavcodec-extra libxml-parser-perl lightdm-gtk-greeter-settings linux-tools-generic mediainfo mediainfo-gui menulibre mp3check mp3splt multisystem mypaint mypaint-data myspell-en-gb myspell-uk nano ncdu nmap ntfs-3g openssl openvpn opera-stable oracle-java8-installer oracle-java8-set-default origami-pdf p7zip p7zip-full pavucontrol pdfchain pdfmod pdf-presenter-console pdfsam pdfshuffler pdftk perl playonlinux polari postr ppa-purge preload python-pypdf python-software-properties qemu qemu-block-extra qemu-kvm qemu-slof qemu-system qemu-system-arm qemu-system-common qemu-system-mips qemu-system-misc qemu-system-ppc qemu-system-sparc qemu-system-x86 qemu-user qemu-user-binfmt qemu-utils qpdf rar rev-plugins ruby-full s3cmd shntool shutter skype soundconverter sox spek synaptic tagtool tango-icon-theme tap-plugins thumbnailer-service thunar thunar* thunar-archive-plugin thunar-data thunar-media-tags-plugin thunar-volman thunarx-python transcode transcode-doc tree ttf-mscorefonts-installer tumbler tumbler-common ubuntu-keyring ubuntu-restricted-extras uget unattended-upgrades unrar unzip ureadahead usbutils usbview viewnior vlc wget wine winetricks xfce4-goodies xfce4-indicator-plugin xfce-keyboard-shortcuts xfce-theme-manager xpaint xpdf xrdp xterm xubuntu-community-wallpapers xubuntu-icon-theme xubuntu-restricted-addons xubuntu-restricted-extras xubuntu-wallpapers youtube-dl y-ppa-manager zip xpdf qpdf python-pypdf origami-pdf dspdfviewer diffpdf pdf-presenter-console pdfchain pdfmod pdfsam pdfshuffler pdftk  diff-pdf postr frogr flickrfs gthumb gpicview viewnior tumbler tumbler-common thumbnailer-service mypaint mypaint-data xpaint build-essential check devscripts dh-make fakeroot zip unzip rar unrar cabextract arj dconf-tools fakeroot linux-tools-generic  python-software-properties  git git-core libxml-parser-perl clang digikam gimp gimp-data gimp-plugin-registry gimp-data-extras tagtool easytag cheese' '  |tr " " "\n"  | sort | uniq | tr "\n" " "
+#1484224907
+echo 'aptik apturl arj atool atop build-essential bum bup byobu byzanz cabextract catfish check cheese clang cuetools curl dconf-tools debian-archive-keyring debian-keyring devscripts dh-make diffpdf digikam dspdfviewer easytag faac fakeroot feh filezilla flac flickrfs frogr g++-4.8 gdebi gedit gedit-common gedit-latex-plugin gedit-plugins gimp gimp-data gimp-data-extras gimp-plugin-registry git git-core gksu gnome-icon-theme-full gparted gpicview gthumb gthumb-data hh htop hwinfo id3tool insync inxi kiki leafpad libavcodec-extra libxml-parser-perl lightdm-gtk-greeter-settings linux-tools-generic mediainfo mediainfo-gui menulibre mp3check mp3splt multisystem mypaint mypaint-data myspell-en-gb myspell-uk nano ncdu nmap ntfs-3g openssl openvpn opera-stable oracle-java8-installer oracle-java8-set-default origami-pdf p7zip p7zip-full pavucontrol pdfchain pdfmod pdf-presenter-console pdfsam pdfshuffler pdftk perl playonlinux polari postr ppa-purge preload python-pypdf python-software-properties qemu qemu-block-extra qemu-kvm qemu-slof qemu-system qemu-system-arm qemu-system-common qemu-system-mips qemu-system-misc qemu-system-ppc qemu-system-sparc qemu-system-x86 qemu-user qemu-user-binfmt qemu-utils qpdf rar rev-plugins ruby-full s3cmd shntool shutter skype soundconverter sox spek synaptic tagtool tango-icon-theme tap-plugins thumbnailer-service thunar thunar* thunar-archive-plugin thunar-data thunar-media-tags-plugin thunar-volman thunarx-python transcode transcode-doc tree ttf-mscorefonts-installer tumbler tumbler-common ubuntu-keyring ubuntu-restricted-extras uget unattended-upgrades unrar unzip ureadahead usbutils usbview viewnior vlc wget wine winetricks xfce4-goodies xfce4-indicator-plugin xfce-keyboard-shortcuts xfce-theme-manager xpaint xpdf xrdp xterm xubuntu-community-wallpapers xubuntu-icon-theme xubuntu-restricted-addons xubuntu-restricted-extras xubuntu-wallpapers youtube-dl y-ppa-manager zip xpdf qpdf python-pypdf origami-pdf dspdfviewer diffpdf pdf-presenter-console pdfchain pdfmod pdfsam pdfshuffler pdftk  diff-pdf postr frogr flickrfs gthumb gpicview viewnior tumbler tumbler-common thumbnailer-service mypaint mypaint-data xpaint build-essential check devscripts dh-make fakeroot zip unzip rar unrar cabextract arj dconf-tools fakeroot linux-tools-generic  python-software-properties  git git-core libxml-parser-perl clang digikam gimp gimp-data gimp-plugin-registry gimp-data-extras tagtool easytag cheese' |tr " " "\n"  | sort | uniq | tr "\n" " "
+#1484224907
+echo 'faac mp3check mac mp3gain shorten aacplusenc cuetools shntool soundconverter spek vlc faac mp3check faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo flac sox spek vlc faac mp3check mac faac cuetools shntool soundconverter faac mediainfo-gui  mediainfospek vlc faac mp3check mac mp3gain shorten aacplusenc faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo'|tr " " "\n"  | sort | uniq 
+#1484224907
+echo 'faac mp3check mac mp3gain shorten aacplusenc cuetools shntool soundconverter spek vlc faac mp3check faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo flac sox spek vlc faac mp3check mac faac cuetools shntool soundconverter faac mediainfo-gui  mediainfospek vlc faac mp3check mac mp3gain shorten aacplusenc faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo'|tr " " "\n"  | sort | uniq | tr "\n" " "
+#1484224907
+echo 'leafpad pavucontrol qemu qemu-block-extra qemu-kvm qemu-slof qemu-system qemu-system-arm qemu-system-common qemu-system-mips qemu-system-misc qemu-system-ppc qemu-system-sparc qemu-system-x86 qemu-user qemu-user-binfmt qemu-utils unattended-upgrades myspell-uk nano usbutils usbview winetricks playonlinux clang curl gedit gedit-common gedit-plugins tumbler tumbler-common thumbnailer-service thunar thunar-archive-plugin thunar-data thunar-media-tags-plugin thunar-volman gthumb gthumb-data xpaint xterm xubuntu-icon-theme  mypaint mypaint-data myspell-en-gb myspell-uk  ntfs-3g p7zip p7zip-full s3cmd shutter skype soundconverter sox transcode transcode-doc oracle-java8-set-default uget check openssl openvpn filezilla wine hh build-essential check devscripts dh-make fakeroot p7zip-full p7zip zip unzip rar unrar cabextract arj dconf-tools linux-tools-generic  preload python-software-properties ubuntu-restricted-extras  git git-core libxml-parser-perl check htop bup  openssl openvpn filezilla vlc cheese digikam gimp gimp-data gimp-plugin-registry gimp-data-extras fakeroot ttf-mscorefonts-installer tagtool easytag id3tool gedit tap-plugins rev-plugins  playonlinux uget gedit gedit-common gedit-latex-plugin gedit-plugins apt gdebi apturl xfce-theme-manager y-ppa-manager ppa-purge xfce4-goodies thunar* synaptic xubuntu-restricted-extras xubuntu-restricted-addons xfce-keyboard-shortcuts  qpdf  pfdtk gthumb gpicview viewnior feh xnview aptik  apt gdebi apturl xfce-theme-manager y-ppa-manager ppa-purge xfce4-goodies xfce4-indicator-plugin  thunar* synaptic xubuntu-restricted-extras xubuntu-restricted-addons gksu xfce-keyboard-shortcuts gthumb gpicview viewnior feh htop bup ncdu nmap menulibre tree uget atop wget  aptik  apt gdebi apturl xfce-theme-manager y-ppa-manager ppa-purge xfce4-goodies xfce4-indicator-plugin  thunar* synaptic xubuntu-restricted-extras xubuntu-restricted-addons gksu xfce-keyboard-shortcuts gthumb gpicview viewnior feh htop bup ncdu nmap menulibre tree uget atop wget  spek vlc faac mp3check faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo flac sox aptik  apt gdebi apturl xfce-theme-manager y-ppa-manager ppa-purge xfce4-goodies xfce4-indicator-plugin  thunar* synaptic xubuntu-restricted-extras xubuntu-restricted-addons gksu xfce-keyboard-shortcuts gthumb gpicview viewnior feh htop bup ncdu nmap menulibre tree uget atop wget  spek vlc faac mp3check faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo flac sox nano curl sox uget insync dconf-tools gksu gdebi inxi leafpad catfish pavucontrol hwinfo preload atool  youtube-dl libavcodec-extra mp3split kiki 
+#1484224907
+echo api_key: 2cc178c0be7497ef07ee32015341e600 >~/.flickr_download
+#1484224907
+echo api_secret: 6f53acfda97cc504 >>~/.flickr_download
+#1484224907
+echo faac mp3check mac mp3gain shorten aacplusenc cuetools shntool soundconverter spek vlc faac mp3check faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo flac sox spek vlc faac mp3check mac faac cuetools shntool soundconverter faac mediainfo-gui  mediainfospek vlc faac mp3check mac mp3gain shorten aacplusenc faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo | sort
+#1484224907
+echo faac mp3check mac mp3gain shorten aacplusenc cuetools shntool soundconverter spek vlc faac mp3check faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo flac sox spek vlc faac mp3check mac faac cuetools shntool soundconverter faac mediainfo-gui  mediainfospek vlc faac mp3check mac mp3gain shorten aacplusenc faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo | sort | uniq
+#1484224907
+echo xfce4-session >~/.xsession
+#1484224907
+etckeeper
+#1484224907
+exiftool
+#1484224907
+exiftool 
+#1484224907
+exiftool  2012-05-03_12-51-11_iPhone 4-002.jpg
+#1484224907
+exiftool *
+#1484224907
+exiftool *.jpg
+#1484224907
+exiftool --h
+#1484224907
+exiftool --v
+#1484224907
+exiftool -model *.jpg
+#1484224907
+exiftool -model -a  *.jpg
+#1484224907
+exiftool -model -a -G1 *.jpg
+#1484224907
+exiftool -model 2010-07-07_20-12-17.jpg
+#1484224907
+exiftool -s  2012-05-03_12-51-11_iPhone 4-002.jpg
+#1484224907
+exiftool -s 2010-07-07_20-12-17.jpg
+#1484224907
+exiftool -v
+#1484224907
+exiftool -ver
+#1484224907
+exiftool 2010-07-07_20-12-17.jpg
+#1484224907
+exit
+#1484224907
+exittool -v
+#1484224907
+export
+#1484224907
+export %PATH%
+#1484224907
+export | grep proxy
+#1484224907
+faac mp3check mac mp3gain shorten aacplusenc cuetools shntool soundconverter spek vlc faac mp3check faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo flac sox spek vlc faac mp3check mac faac cuetools shntool soundconverter faac mediainfo-gui  mediainfospek vlc faac mp3check mac mp3gain shorten aacplusenc faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo | sort
+#1484224907
+flac
+#1484224907
+flickr_download -t
+#1484224907
+flickrdownload -t
+#1484224907
+flickrfs
+#1484224907
+flickrurlget --help
+#1484224907
+for $f in *.WAV; do mv -n "$f" "$(date -r "$f" +"%Y%m%d_%H%M%S").wav"; done
+#1484224907
+for f in *.WAV; do mv -n "$f" "$(date -r "$f" +"%Y%m%d_%H%M%S").wav"; done
+#1484224907
+for f in *; do mv -- "$f" "$f-$(date +%Y%m%d -r "${f}")"; done
+#1484224907
+free
+#1484224907
+free --help
+#1484224907
+free -m
+#1484224907
+free -t
+#1484224907
+gamin
+#1484224907
+gedit  ~/.bashrc 
+#1484224907
+gedit ./tmp/sound.txt
+#1484224907
+gedit hardeware.txt
+#1484224907
+gedit install.txt 
+#1484224907
+gedit merge_history.bash 
+#1484224907
+gedit plugins-info.txt
+#1484224907
+gedit ~/.config/Thunar/uca.xml
+#1484224907
+gedit ~/.config/menus/xfce-applications.menu
+#1484224907
+gksu
+#1484224907
+gksudo aptik
+#1484224907
+gksudo gedit /etc/default/keyboard
+#1484224907
+gksudo leafpad /etc/default/keyboard
+#1484224907
+gksudo thumar
+#1484224907
+gnaural spek vlc' |tr " " "\n"  | sort | uniq | tr "\n" " "
+#1484224907
+gnome-disk-utility
+#1484224907
+gparted
+#1484224907
+gsettings set org.gnome.system.proxy mode 'manual' 
+#1484224907
+gsettings set org.gnome.system.proxy mode 'manual' && gsettings set org.gnome.system.proxy.http host 'lotg-new.odd.blackspider.com' && gsettings set org.gnome.system.proxy.http port 3128
+#1484224907
+gsettings set org.gnome.system.proxy.http host 'lotg-new.odd.blackspider.com'
+#1484224907
+gsettings set org.gnome.system.proxy.http port 3128
+#1484224907
+gtkdialog
+#1484224907
+hdparm
+#1484224907
+hdparm -A 1
+#1484224907
+hdparm -I /dev/sda | more
+#1484224907
+hdparm -a
+#1484224907
+hdparm -i
+#1484224907
+hdparm /dev/sde
+#1484224907
+hdparm /dev/sde 
+#1484224907
+history
+#1484224907
+history 
+#1484224907
+history -d 914
+#1484224907
+history >  /home/thomas/thomas.0007@gmail.com/aptik-backup/2017-01-06_work/history.txt
+#1484224907
+history > grep scp
+#1484224907
+history | grep " du "
+#1484224907
+history | grep "du " 
+#1484224907
+history | grep "du"
+#1484224907
+history | grep aptik
+#1484224907
+history | grep cat
+#1484224907
+history | grep du
+#1484224907
+history | grep echo
+#1484224907
+history | grep find
+#1484224907
+history | grep git
+#1484224907
+history | grep install
+#1484224907
+history | grep install > install.txt
+#1484224907
+history | grep install >history-install.txt
+#1484224907
+history | grep net
+#1484224907
+history | grep network
+#1484224907
+history | grep openvpn
+#1484224907
+history | grep restart
+#1484224907
+history | grep rsync
+#1484224907
+history | grep scp
+#1484224907
+history | grep sort
+#1484224907
+history | grep sudo
+#1484224907
+history | grep sync
+#1484224907
+history | grep sys*
+#1484224907
+history | grep systemctl
+#1484224907
+history | grep vpn
+#1484224907
+history | sed 's/^[ ]*[0-9]*[ ]*//g' > h.txt
+#1484224907
+history | systemctl
+#1484224907
+history#
+#1484224907
+history]
+#1484224907
+histoty
+#1484224907
+histoty | grep echo
+#1484224907
+histroy | grep du
+#1484224907
+hostname -I
+#1484224907
+hwinfo
+#1484224907
+hwinfo --all
+#1484224907
+hwinfo --disk
+#1484224907
+hwinfo --gfxcard
+#1484224907
+hwinfo --h
+#1484224907
+hwinfo --listmd
+#1484224907
+hwinfo --map
+#1484224907
+hwinfo --map --verbose
+#1484224907
+hwinfo --monitor
+#1484224907
+hwinfo --monitor 
+#1484224907
+hwinfo --short
+#1484224907
+hwinfo --show-config
+#1484224907
+hwinfo --show-config disk
+#1484224907
+hwinfo --show-config monitor
+#1484224907
+hwinfo --sound
+#1484224907
+hwinfo > hardeware.txt
+#1484224907
+hwinfo | grep video
+#1484224907
+ifconfig
+#1484224907
+ii
+#1484224907
+impressive
+#1484224907
+insync
+#1484224907
+insync get_account_information
+#1484224907
+insync get_status
+#1484224907
+insync start
+#1484224907
+inxi
+#1484224907
+ip addr
+#1484224907
+java
+#1484224907
+java --ver
+#1484224907
+java -ver
+#1484224907
+java -version
+#1484224907
+jhead
+#1484224907
+kiki
+#1484224907
+killall java
+#1484224907
+lightdm-gtk-greeter-settings
+#1484224907
+ll
+#1484224907
+ll *.bash
+#1484224907
+ll *.sh
+#1484224907
+ll aa
+#1484224907
+ll bb
+#1484224907
+ll ccc
+#1484224907
+ll insync*
+#1484224907
+ll scss*
+#1484224907
+ll scss*.bash
+#1484224907
+ll scss*.sh
+#1484224907
+locate "Expect Wonderfull"
+#1484224907
+locate *.dab
+#1484224907
+locate *.deb
+#1484224907
+locate *.flac
+#1484224907
+locate *.iso
+#1484224907
+locate *grub*
+#1484224907
+locate / x???
+#1484224907
+locate 10-*
+#1484224907
+locate 10-little-things.sh
+#1484224907
+locate Images*
+#1484224907
+locate aptik
+#1484224907
+locate exiftool
+#1484224907
+locate gksudo
+#1484224907
+locate insync
+#1484224907
+locate mp3splt-gtk
+#1484224907
+locate settings.txzt
+#1484224907
+locate settings.txzt ~
+#1484224907
+locate uget
+#1484224907
+locate x???
+#1484224907
+locate xf*
+#1484224907
+ls 
+#1484224907
+ls -s1 /bin /usr/bin /usr/bin/X11 |  sort -n | tail
+#1484224907
+ls /proc/sys/
+#1484224907
+ls /proc/sys/net
+#1484224907
+ls /proc/sys/net/ip4
+#1484224907
+ls 123
+#1484224907
+ls aa
+#1484224907
+ls insync*
+#1484224907
+ls zzz
+#1484224907
+ls | wc
+#1484224907
+make
+#1484224907
+make install
+#1484224907
+make test
+#1484224907
+man Image::ExifTool::TagNames
+#1484224907
+man apt
+#1484224907
+man exiftool
+#1484224907
+man hdparm 
+#1484224907
+man reboot
+#1484224907
+man restart
+#1484224907
+man sort
+#1484224907
+man sysctl
+#1484224907
+man wc
+#1484224907
+man xfce4-terminal 
+#1484224907
+man xmount
+#1484224907
+mas restart
+#1484224907
+mkdir --help
+#1484224907
+mkdir -?
+#1484224907
+mkdir -help
+#1484224907
+mkdir -p /etc/xdg/xfce4/kiosk/kioskrc
+#1484224907
+mkdir -p ~/.local/share/applications/
+#1484224907
+mkdir /etc/xdg/xfce4/kiosk/kioskrc
+#1484224907
+mkdir tom
+#1484224907
+mp3gain
+#1484224907
+mp3gain --use
+#1484224907
+mp3gain -?
+#1484224907
+mp3split
+#1484224907
+mp3splt
+#1484224907
+mp3splt-gtk
+#1484224907
+mps-youtube
+#1484224907
+mpsyt
+#1484224907
+mv ~/.config/menus ~/.config/menus.backup
+#1484224907
+mv ~/.local/share/desktop-directories ~/.local/share/desktop-directories.backup
+#1484224907
+my_ps
+#1484224907
+mydf
+#1484224907
+mydf .
+#1484224907
+mydf /
+#1484224907
+mydf ~
+#1484224907
+netstat -ran 
+#1484224907
+ninjahelper
+#1484224907
+nslookup
+#1484224907
+nslookup bbc.com
+#1484224907
+nslookup www01o
+#1484224907
+nslookup www01o 10.5.133.10
+#1484224907
+ntpq --numeric --peers
+#1484224907
+ntpq -c lpeer
+#1484224907
+ntpq -p
+#1484224907
+p4 sync ...
+#1484224907
+pacman -Qi | awk '/Name/ { name=$3 } /Size/ { printf "%.3fMBt%sn", $4/1024, name }' | sort -rh | head -n $1
+#1484224907
+pass
+#1484224907
+pass  test/webupd8.org
+#1484224907
+pass init
+#1484224907
+pass init GPG_ID_OR_EMAIL
+#1484224907
+pass insert test/webupd8.org
+#1484224907
+perl
+#1484224907
+perl -v
+#1484224907
+perl Makefile.PL
+#1484224907
+perl ~/eclipse-workspace/sync-www.pl 
+#1484224907
+ping 10.5.10.11
+#1484224907
+ping 10.5.10.20
+#1484224907
+ping 10.5.133.4
+#1484224907
+ping 10.5.150.9
+#1484224907
+ping bbc.com
+#1484224907
+ping bbv.com
+#1484224907
+ping www01o
+#1484224907
+pkexec
+#1484224907
+pkexec aptik
+#1484224907
+pkexec ll
+#1484224907
+pkexec ls
+#1484224907
+pkill -x chrome
+#1484224907
+polari
+#1484224907
+pp
+#1484224907
+pragha
+#1484224907
+prelink --h
+#1484224907
+ps
+#1484224907
+ps -e | grep "ntp" 
+#1484224907
+pt list *keyring
+#1484224907
+pt-cache policy | grep backports
+#1484224907
+pwd | zenity --text-info
+#1484224907
+python
+#1484224907
+reboot
+#1484224907
+resilio
+#1484224907
+rm -r -v ~/.cache/sessions/*
+#1484224907
+rm insync.postinst 
+#1484224907
+rm ~/.ssh/known_hosts
+#1484224907
+route 
+#1484224907
+route -n
+#1484224907
+rsync
+#1484224907
+rsync 
+#1484224907
+rsync --help
+#1484224907
+rsync --help | grep ionice
+#1484224907
+rsync -aPW  /media/thomas/0846cfe2-baa1-455b-b84f-4e1ce877b1f1/thomas/Sound_Adventures/ /media/thomas/128GB/Google Pictures/Sound_Adventures/
+#1484224907
+rsync -aPW  /media/thomas/0846cfe2-baa1-455b-b84f-4e1ce877b1f1/thomas/Sound_Adventures/ /media/thomas/128GB/Sound_Adventures/
+#1484224907
+rsync -aPW --remove-source-files  /home/thomas/Sound_Adventures /media/thomas/0846cfe2-baa1-455b-b84f-4e1ce877b1f1/tom/
+#1484224907
+rsync -aPW -info=progress2 -h 
+#1484224907
+rsync -aPW -info=progress2 -h --remove-source-files /home/thomas_2016-11-21/Sound_Adventures/ /media/thomas/0846cfe2-baa1-455b-b84f-4e1ce877b1f1/tom/Sound_Adventures/
+#1484224907
+rsync -aPW /home/thomas/Sound_Adventures /media/thomas/0846cfe2-baa1-455b-b84f-4e1ce877b1f1/tom/
+#1484224907
+rsync -aPW /media/thomas/0846cfe2-baa1-455b-b84f-4e1ce877b1f1/thomas/thomas.0007@gmail.com/Sound Adventures/ /media/thomas/128GB/Sound_Adventures/
+#1484224907
+rsync -aPW /media/thomas/0846cfe2-baa1-455b-b84f-4e1ce877b1f1/thomas/thomas.0007@gmail.com/Sound_Adventures/ /media/thomas/128GB/Sound_Adventures/
+#1484224907
+rsync -aPWh --info=progress2  --remove-source-files /home/thomas_2016-11-21/Sound_Adventures/ /media/thomas/0846cfe2-baa1-455b-b84f-4e1ce877b1f1/tom/Sound_Adventures/
+#1484224907
+rsync -aPWh -info=progress2  --remove-source-files /home/thomas_2016-11-21/Sound_Adventures/ /media/thomas/0846cfe2-baa1-455b-b84f-4e1ce877b1f1/tom/Sound_Adventures/
+#1484224907
+rsync -aWh --info=progress2  --remove-source-files /home/thomas/Music/recordings/ /media/thomas/0846cfe2-baa1-455b-b84f-4e1ce877b1f1/tom/recordings/
+#1484224907
+rsync -aWh --info=progress2  --remove-source-files /home/thomas_2016-11-21/Sound_Adventures/ /media/thomas/0846cfe2-baa1-455b-b84f-4e1ce877b1f1/tom/Sound_Adventures/
+#1484224907
+rsysnc --help
+#1484224907
+run_in_terminal "test-aaa-a- a" "ll *.txt"
+#1484224907
+run_in_terminal "test-aaa-a- a" "ls *.txt"
+#1484224907
+run_in_terminal test ll
+#1484224907
+run_in_terminal test ls
+#1484224907
+sadfasdfasdfd
+#1484224907
+scp   Perforce/twhite-16.04/code_SaaS/head/portal/WWWDocs/lib/add_tooltips.js t16:/tmp
+#1484224907
+scp   Perforce/twhite-16.04/code_SaaS/head/portal/WWWDocs/lib/css/pages/web-setup-wizard/*.css  t16:/tmp
+#1484224907
+scp   Perforce/twhite-16.04/code_SaaS/head/portal/WWWDocs/lib/ui1/ui1.js  t16:/tmp
+#1484224907
+scp   Perforce/twhite-16.04/code_SaaS/head/portal/WWWDocs/lib/ui1/ui1.js  t21:/tmp
+#1484224907
+scp   Perforce/twhite-16.04/code_SaaS/head/portal/WWWDocs/lib/wsw_step4.js t16:/tmp
+#1484224907
+scp   Perforce/twhite-16.04/code_SaaS/head/portal/WWWDocs/portal/web_setup_wizard/index.mhtml   t16:/tmp
+#1484224907
+scp   Perforce/twhite-16.04/code_SaaS/head/portal/WWWDocs/portal/web_setup_wizard/index.mhtml   t16:/tmp/index2.mhtml
+#1484224907
+scp   Perforce/twhite-16.04/code_SaaS/head/portal/WWWDocs/portal/web_setup_wizard/step6_sync-results.mas  t16:/tmp
+#1484224907
+scp   Perforce/twhite-16.04/code_SaaS/head/portal/WWWDocs/portal/web_setup_wizard/step6_sync-results.mas  t16:/tmp/step6_sync-results.mas2 
+#1484224907
+scp /home/thomas/Downloads/Logic.py cluster6-02:/tmp
+#1484224907
+scp /home/thomas/Downloads/Logic.py prx60o:/opt/webdefence/lib
+#1484224907
+scp /home/thomas/Downloads/Logic.py prx60o:/opt/webdefence/lib/
+#1484224907
+scp /home/thomas/Downloads/Logic.py prx60o:/opt/webdefence/lib/Logic.py
+#1484224907
+scp /home/thomas/Downloads/Logic.py prx60o:/tmp
+#1484224907
+scp /home/thomas/Downloads/UserAdminServer.py  prx60o:/opt/webdefence/lib
+#1484224907
+scp /home/thomas/Downloads/UserAdminServer.py  prx60o:/opt/webdefence/lib/
+#1484224907
+scp Perforce/twhite-16.04/code_SaaS/head/portal/WWWDocs/portal/web_setup_wizard/step2* t16:/tmp/step2_firewall_setup.mas
+#1484224907
+screen ll
+#1484224907
+screen ls
+#1484224907
+sed -i 's/^Exec=.*/Exec=dbus-launch dropbox start -i/' ~/.config/autostart/start_dropbox.desktop
+#1484224907
+sed -i 's/^Exec=.*/Exec=dbus-launch dropbox start -i/' ~/.local/share/applications/dropbox.desktop
+#1484224907
+server nist1-dc.WiTime.net iburst
+#1484224907
+sh ./1.prepare.sh 
+#1484224907
+sh ./21.intall_local.sh 
+#1484224907
+sh ./22\ install_wps_office._dic_and_fonts.sh 
+#1484224907
+sh ./23.\ install_vistafonts-installer-modified.sh 
+#1484224907
+sh ./30.add_repositories.sh 
+#1484224907
+sh ./31.intall_from_repositories.sh 
+#1484224907
+sh ./replace_local_custom_actions.sh 
+#1484224907
+sh ./scss-watch.bash
+#1484224907
+sh ./scss-watch.bash 
+#1484224907
+shh cfg01o
+#1484224907
+shopt
+#1484224907
+shopt -s checkwinsize
+#1484224907
+shudo killall chrome
+#1484224907
+sodo chown thomas ./tom
+#1484224907
+soundconverter
+#1484224907
+source "$HOME"/merge_history.bash
+#1484224907
+soxi
+#1484224907
+speedtest-cli
+#1484224907
+ssh  -vvv  mailcontrol@cluster6-02.odd.blackspider.com
+#1484224907
+ssh  cluster6-02
+#1484224907
+ssh  cluster6-02.odd.blackspider.com
+#1484224907
+ssh  www01o
+#1484224907
+ssh -vvv  www01o
+#1484224907
+ssh 10.250.1.11
+#1484224907
+ssh @prx60o service webdefence restart
+#1484224907
+ssh cfg01o
+#1484224907
+ssh cfg01o -a
+#1484224907
+ssh cluster6-02
+#1484224907
+ssh cluster6-02.odd.blackspider.com
+#1484224907
+ssh cluster6-02.odd.blackspider.com@mailcontrol
+#1484224907
+ssh devblade5-01
+#1484224907
+ssh fwl01-head-int.dev-rd.websense.net
+#1484224907
+ssh hss02lgw
+#1484224907
+ssh mailcontrol  cluster6-02.odd.blackspider.com
+#1484224907
+ssh mailcontrol@cluster6-02.odd.blackspider.com
+#1484224907
+ssh prx01o
+#1484224907
+ssh prx60o
+#1484224907
+ssh prx60o service webdefence restart
+#1484224907
+ssh root@prx60o service webdefence restart
+#1484224907
+ssh t10
+#1484224907
+ssh t16
+#1484224907
+ssh t21
+#1484224907
+ssh www01
+#1484224907
+ssh www01o
+#1484224907
+ssh www01o "date && hostname"
+#1484224907
+ssh www01o "sudo date"
+#1484224907
+ssh-a
+#1484224907
+ssh-add
+#1484224907
+ssh-add -l
+#1484224907
+ssh-add ./.ssh/mailcontrol-14-July-05 
+#1484224907
+ssh-add ./ssh/mailcontrol-14-July-05
+#1484224907
+ssh-add ~/.ssh/mailcontrol-14-July-05
+#1484224907
+ssh-add ~/.ssh/mailcontrol-14-July-05 
+#1484224907
+ssh-add ~/ssh/mailcontrol-14-July-05
+#1484224907
+su -
+#1484224907
+sudo  /usr/local/share/multisystem/gui_multisystem.sh
+#1484224907
+sudo  apt-get -y install ntp
+#1484224907
+sudo  apt-get -y purge ntp
+#1484224907
+sudo  jobs-admin
+#1484224907
+sudo  launchpad-getkeys
+#1484224907
+sudo  launchpad-getkeys --help
+#1484224907
+sudo  launchpad-getkeys -p http://lotg-new.odd.blackspider.com:3128
+#1484224907
+sudo  make install
+#1484224907
+sudo  make uninstall
+#1484224907
+sudo ./install-depot-multisystem.sh
+#1484224907
+sudo aapt-fast install calibre
+#1484224907
+sudo add-apt-repository "deb http://mp3splt.sourceforge.net/repository trusty main"
+#1484224907
+sudo add-apt-repository ppa:nemh/systemback
+#1484224907
+sudo add-apt-repository ppa:nilarimogard/webupd8
+#1484224907
+sudo add-apt-repository ppa:xubuntu-dev/xfce4-gtk3
+#1484224907
+sudo apt autoremove
+#1484224907
+sudo apt full-upgrade
+#1484224907
+sudo apt info wdar
+#1484224907
+sudo apt install  selene
+#1484224907
+sudo apt install advancecomp
+#1484224907
+sudo apt install apt-xapian-index 
+#1484224907
+sudo apt install aptik
+#1484224907
+sudo apt install aria2
+#1484224907
+sudo apt install caffeine
+#1484224907
+sudo apt install mps-youtube
+#1484224907
+sudo apt install prelink
+#1484224907
+sudo apt install rsplib-legacy-wrappers
+#1484224907
+sudo apt install rspserver
+#1484224907
+sudo apt install smartctl
+#1484224907
+sudo apt install synaptic gdebi
+#1484224907
+sudo apt remove aptik
+#1484224907
+sudo apt remove devscripts dh-make digikam dspdfviewer myspell-en-gb myspell-uk polari 
+#1484224907
+sudo apt remove libmp3splt*
+#1484224907
+sudo apt remove ntpdate
+#1484224907
+sudo apt show libmp3splt*
+#1484224907
+sudo apt-add-repository 'deb http://liveusb.info/multisystem/depot all main'
+#1484224907
+sudo apt-add-repository -y ppa:teejee2008/ppa; sudo add-apt-repository -y ppa:saiarcot895/myppa; sudo add-apt-repository -y ppa:rebuntu16/other-stuff; sudo add-apt-repository -y  ppa:webupd8team/y-ppa-manager; sudo add-apt-repository -y  ppa:videolan/stable-daily; sudo add-apt-repository -y ppa:webupd8team/java; sudo apt-get update; sudo apt-get install -y apt-fast; 
+#1484224907
+sudo apt-fast -f
+#1484224907
+sudo apt-fast -f install
+#1484224907
+sudo apt-fast -y update ; sudo apt-fast -y upgrade ; sudo apt-fast -y dist-upgrade ; sudo apt-fast -y autoclean ; sudo apt autoremove
+#1484224907
+sudo apt-fast -y upgrade; sudo apt-fast -y dist-upgrade;sudo apt-get -y autoremove
+#1484224907
+sudo apt-fast gimp*
+#1484224907
+sudo apt-fast install  gimp
+#1484224907
+sudo apt-fast install  gimp*
+#1484224907
+sudo apt-fast install  input-wacom
+#1484224907
+sudo apt-fast install  xfce4-notifyd 
+#1484224907
+sudo apt-fast install -y  faac
+#1484224907
+sudo apt-fast install -y  faac cuetools shntool
+#1484224907
+sudo apt-fast install -y  faac mp3check
+#1484224907
+sudo apt-fast install -y  faac mp3check mac mp3gain shorten aacplusenc
+#1484224907
+sudo apt-fast install -y  soundconverter
+#1484224907
+sudo apt-fast install -y  spek vlc 
+#1484224907
+sudo apt-fast install -y  spek vlc faac mp3check faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo flac sox
+#1484224907
+sudo apt-fast install -y  spek vlc faac mp3check mac faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo
+#1484224907
+sudo apt-fast install -y  spek vlc faac mp3check mac mp3gain shorten aacplusenc faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo
+#1484224907
+sudo apt-fast install -y  spek vlc mp3check faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo flac sox faac mp3check  cuetools shntool soundconverter faac mediainfo-gui  mediainfo
+#1484224907
+sudo apt-fast install -y  spek vlc mp3check faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo flac sox faac mp3check mac cuetools shntool soundconverter faac mediainfo-gui  mediainfo
+#1484224907
+sudo apt-fast install -y libc6:i386 libncurses5:i386 libstdc++6:i386
+#1484224907
+sudo apt-fast install -y spek vlc faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo flac sox nano curl sox soundconverter transcode transcode-doc mp3check install libav-tools
+#1484224907
+sudo apt-fast install -y spek vlc faac cuetools shntool soundconverter faac mediainfo-gui  mediainfo flac sox nano curl sox soundconverter transcode transcode-doc mp3check libav-tools ffmpeg
+#1484224907
+sudo apt-fast install aclacarte
+#1484224907
+sudo apt-fast install advancecomp pngnq jpegoptim
+#1484224907
+sudo apt-fast install alacarte
+#1484224907
+sudo apt-fast install atom
+#1484224907
+sudo apt-fast install audiotool
+#1484224907
+sudo apt-fast install auditool
+#1484224907
+sudo apt-fast install bsdtar bsdcpio
+#1484224907
+sudo apt-fast install calibre
+#1484224907
+sudo apt-fast install clacarte
+#1484224907
+sudo apt-fast install debian-keyring
+#1484224907
+sudo apt-fast install dfo
+#1484224907
+sudo apt-fast install diffuse
+#1484224907
+sudo apt-fast install dispalgui displaycal
+#1484224907
+sudo apt-fast install easymp3gain-gtk
+#1484224907
+sudo apt-fast install easytag
+#1484224907
+sudo apt-fast install etckeeper
+#1484224907
+sudo apt-fast install gnome-icon-theme-full
+#1484224907
+sudo apt-fast install gparted
+#1484224907
+sudo apt-fast install hdparm
+#1484224907
+sudo apt-fast install hipchat4
+#1484224907
+sudo apt-fast install ia32-libs
+#1484224907
+sudo apt-fast install insync
+#1484224907
+sudo apt-fast install insync --reinstall
+#1484224907
+sudo apt-fast install insync-thunar --reinstall
+#1484224907
+sudo apt-fast install libvirt-bin
+#1484224907
+sudo apt-fast install lightdm-gtk-greeter-settings
+#1484224907
+sudo apt-fast install lxde
+#1484224907
+sudo apt-fast install lxde 
+#1484224907
+sudo apt-fast install meld
+#1484224907
+sudo apt-fast install multiboot
+#1484224907
+sudo apt-fast install openvpn
+#1484224907
+sudo apt-fast install opera
+#1484224907
+sudo apt-fast install pip
+#1484224907
+sudo apt-fast install polari
+#1484224907
+sudo apt-fast install postr
+#1484224907
+sudo apt-fast install postr frogr
+#1484224907
+sudo apt-fast install postr frogr flickrfs
+#1484224907
+sudo apt-fast install program:i386
+#1484224907
+sudo apt-fast install readahead
+#1484224907
+sudo apt-fast install resilio
+#1484224907
+sudo apt-fast install systemback
+#1484224907
+sudo apt-fast install tiptop iotop wmforkplop
+#1484224907
+sudo apt-fast install tiptop iotop wmforkplop systemd-ui simple-image-reducer mapivi lxtask
+#1484224907
+sudo apt-fast install udisks
+#1484224907
+sudo apt-fast install udisks2
+#1484224907
+sudo apt-fast install uget
+#1484224907
+sudo apt-fast install unp
+#1484224907
+sudo apt-fast install xfe xfwm4-themes 
+#1484224907
+sudo apt-fast install xfe xfwm4-themes wbar 
+#1484224907
+sudo apt-fast install xfe xfwm4-themes wbar shiki-colors-xfwm-theme kdocker gxmessage gtk3-engines-xfce gamin alltray
+#1484224907
+sudo apt-fast install xfe xfwm4-themes wdar shiki-colors-xfwm-theme kdocker gxmessage gtk3-engines-xfce gamin alltray
+#1484224907
+sudo apt-fast install youtube-viewer 
+#1484224907
+sudo apt-fast install yumi
+#1484224907
+sudo apt-fast purge bsdtar bsdcpio
+#1484224907
+sudo apt-fast purge insync
+#1484224907
+sudo apt-fast purge insync*
+#1484224907
+sudo apt-fast purge insync-thunar
+#1484224907
+sudo apt-fast purge libimage-exiftool-perl
+#1484224907
+sudo apt-fast remove exiftools
+#1484224907
+sudo apt-fast remove insync
+#1484224907
+sudo apt-fast remove libimage-exiftool-perl
+#1484224907
+sudo apt-fast remove wbar
+#1484224907
+sudo apt-fast udisks
+#1484224907
+sudo apt-fast udisks2
+#1484224907
+sudo apt-fast update
+#1484224907
+sudo apt-fast upgrade
+#1484224907
+sudo apt-fast upgrade; sudo apt-fast -y dist-upgrade;sudo apt-get -y autoremove
+#1484224907
+sudo apt-fast upgrade; sudo apt-fast dist-upgrade;sudo apt-get -y autoremove
+#1484224907
+sudo apt-get -f install
+#1484224907
+sudo apt-get autoremove deja-dup
+#1484224907
+sudo apt-get build-dep libwacom
+#1484224907
+sudo apt-get dist-upgrade
+#1484224907
+sudo apt-get install  hwinfo kiki xfce-theme-manager xrdp xubuntu-restricted-extras  youtube-dl libavcodec-extra 
+#1484224907
+sudo apt-get install  hwinfo kiki xfce-theme-manager xrdp xubuntu-restricted-extras  youtube-dl libavcodec-extra  libav-tools-links 
+#1484224907
+sudo apt-get install --reinstall gksudo
+#1484224907
+sudo apt-get install -f
+#1484224907
+sudo apt-get install -y apt-fast
+#1484224907
+sudo apt-get install -y build-essential check devscripts dh-make fakeroot p7zip-full p7zip zip unzip rar unrar cabextract arj dconf-tools linux-tools-generic  preload python-software-properties ubuntu-restricted-extras  git git-core libxml-parser-perl check htop bup  openssl openvpn filezilla vlc cheese digikam gimp gimp-data gimp-plugin-registry gimp-data-extras fakeroot ttf-mscorefonts-installer tagtool easytag id3tool gedit tap-plugins rev-plugins  playonlinux uget gedit gedit-common gedit-latex-plugin gedit-plugins
+#1484224907
+sudo apt-get install apt-transport-https
+#1484224907
+sudo apt-get install atool
+#1484224907
+sudo apt-get install bum
+#1484224907
+sudo apt-get install bun
+#1484224907
+sudo apt-get install byobu
+#1484224907
+sudo apt-get install byzanz
+#1484224907
+sudo apt-get install console-common
+#1484224907
+sudo apt-get install g++
+#1484224907
+sudo apt-get install g++-4.8
+#1484224907
+sudo apt-get install gcc-multilib
+#1484224907
+sudo apt-get install gedit
+#1484224907
+sudo apt-get install gnome-icon-theme-full tango-icon-theme
+#1484224907
+sudo apt-get install hipchat4
+#1484224907
+sudo apt-get install hwinfo
+#1484224907
+sudo apt-get install impressive
+#1484224907
+sudo apt-get install jobs-admin
+#1484224907
+sudo apt-get install kiki
+#1484224907
+sudo apt-get install libmp3splt0-mp3 libmp3splt0-ogg libmp3splt0-flac libmp3splt-doc libmp3splt-dev mp3splt mp3splt-gtk
+#1484224907
+sudo apt-get install libwacom
+#1484224907
+sudo apt-get install libwacom --help
+#1484224907
+sudo apt-get install lives
+#1484224907
+sudo apt-get install mediainfo-gui  mediainfo
+#1484224907
+sudo apt-get install mp3gain
+#1484224907
+sudo apt-get install mp3split
+#1484224907
+sudo apt-get install mp3splt
+#1484224907
+sudo apt-get install mpv
+#1484224907
+sudo apt-get install msr-tools
+#1484224907
+sudo apt-get install multisystem
+#1484224907
+sudo apt-get install oracle-java6-installer
+#1484224907
+sudo apt-get install oracle-java8-installer
+#1484224907
+sudo apt-get install pass
+#1484224907
+sudo apt-get install pragha
+#1484224907
+sudo apt-get install preload
+#1484224907
+sudo apt-get install python-pip
+#1484224907
+sudo apt-get install ruby-full
+#1484224907
+sudo apt-get install synaptic dconf-tools gksu gdebi inxi leafpad catfish pavucontrol
+#1484224907
+sudo apt-get install syncthing
+#1484224907
+sudo apt-get install ubproxy
+#1484224907
+sudo apt-get install xdotool
+#1484224907
+sudo apt-get install xfce-theme-manager
+#1484224907
+sudo apt-get install xrdp
+#1484224907
+sudo apt-get install xubuntu-restricted-extras
+#1484224907
+sudo apt-get install youtube-dl libavcodec-extra  
+#1484224907
+sudo apt-get install youtube-dl libavcodec-extra libav-tools-links mp3gain
+#1484224907
+sudo apt-get install youtube-viewer
+#1484224907
+sudo apt-get install zeroinstall-injector
+#1484224907
+sudo apt-get purge easytag
+#1484224907
+sudo apt-get purge libmp3splt0-mp3 libmp3splt0-ogg libmp3splt0-flac libmp3splt-doc libmp3splt-dev mp3splt mp3splt-gtk
+#1484224907
+sudo apt-get purge lxde 
+#1484224907
+sudo apt-get purge modemmanager
+#1484224907
+sudo apt-get purge parole
+#1484224907
+sudo apt-get purge viber
+#1484224907
+sudo apt-get purge virtualbox-ext-pack
+#1484224907
+sudo apt-get reinstall gksudo
+#1484224907
+sudo apt-get remove devscripts dh-make digikam dspdfviewer myspell-en-gb myspell-uk polari 
+#1484224907
+sudo apt-get remove libimage-exiftool-perl-doc
+#1484224907
+sudo apt-get remove lxde
+#1484224907
+sudo apt-get remove lxde -purge
+#1484224907
+sudo apt-get remove minidlna
+#1484224907
+sudo apt-get update
+#1484224907
+sudo aptic
+#1484224907
+sudo aptik
+#1484224907
+sudo aptik   --list-available  --desc
+#1484224907
+sudo aptik   --list-extra 
+#1484224907
+sudo aptik   --list-extra  --desc
+#1484224907
+sudo aptik   --list-extra >  /home/thomas/thomas.0007@gmail.com/aptik-backup/2017-01-06_work/packages-extra.txt
+#1484224907
+sudo aptik   --list-manual >  /home/thomas/thomas.0007@gmail.com/aptik-backup/2017-01-06_work/packages-manual.txt
+#1484224907
+sudo aptik --backup-dir /home/thomas/thomas.0007@gmail.com/aptik-backup/2017-01-06_work    --list-manual
+#1484224907
+sudo aptik --backup-dir /home/thomas/thomas.0007@gmail.com/aptik-backup/2017-01-06_work    --list-{manual|extra} 
+#1484224907
+sudo aptik --backup-dir /home/thomas/thomas.0007@gmail.com/aptik-backup/2017-01-06_work   --backup-packages 
+#1484224907
+sudo aptik --backup-dir /home/thomas/thomas.0007@gmail.com/aptik-backup/2017-01-06_work  --backup-cache   --backup-packages 
+#1484224907
+sudo aptik --backup-dir /home/thomas/thomas.0007@gmail.com/aptik-backup/2017-01-06_work --backup-ppa --backup-cache   --backup-packages 
+#1484224907
+sudo aptik --desc  --list-available >  /home/thomas/thomas.0007@gmail.com/aptik-backup/2017-01-06_work/packages-available_desc.txt
+#1484224907
+sudo aptik --desc  --list-extra >  /home/thomas/thomas.0007@gmail.com/aptik-backup/2017-01-06_work/packages-extra_desc.txt
+#1484224907
+sudo aptik --help
+#1484224907
+sudo aptik --list-ppa
+#1484224907
+sudo aresater --no-wait
+#1484224907
+sudo bash /usr/local/share/multisystem/gui_multisystem.sh
+#1484224907
+sudo bum
+#1484224907
+sudo chmod thomas:thomas tom
+#1484224907
+sudo chown root.root flickrurlget
+#1484224907
+sudo chown thomas ./tom
+#1484224907
+sudo db-update
+#1484224907
+sudo dpkg  --force-all insync -r
+#1484224907
+sudo dpkg --add-architecture i386
+#1484224907
+sudo dpkg --purge --force-all insync
+#1484224907
+sudo dpkg --purge --force-all insync 
+#1484224907
+sudo dpkg --purge --force-all insync -r
+#1484224907
+sudo dpkg --remove --force-remove-reinstreq insync
+#1484224907
+sudo dpkg --remove --force-remove-reinstreq insync-thunar
+#1484224907
+sudo dpkg -i *.deb
+#1484224907
+sudo dpkg -i mp3splt-gtk
+#1484224907
+sudo dpkg -r *.deb
+#1484224907
+sudo dpkg -r --force-all insync 
+#1484224907
+sudo dpkg -r libmp3splt*
+#1484224907
+sudo dpkg -r libmp3splt0_0.9.2.jessie_amd64.deb libmp3splt0-flac_0.9.2.jessie_amd64.deb libmp3splt0-mp3_0.9.2.jessie_amd64.deb libmp3splt0-ogg_0.9.2.jessie_amd64.deb  libmp3splt-dev_0.9.2.jessie_amd64.deb
+#1484224907
+sudo dpkg-reconfigure tzdata
+#1484224907
+sudo e4defrag   /home
+#1484224907
+sudo e4defrag   /var
+#1484224907
+sudo e4defrag -c  /
+#1484224907
+sudo etckeeper uninit
+#1484224907
+sudo fdisk -l
+#1484224907
+sudo flickrurlget --help
+#1484224907
+sudo gedit  /etc/default/grub.conf 
+#1484224907
+sudo gedit  /etc/sysctl.conf
+#1484224907
+sudo gedit /etc/apt/apt.conf
+#1484224907
+sudo gedit /etc/apt/apt.conf.d/
+#1484224907
+sudo gedit /etc/apt/apt.conf.d/95proxies
+#1484224907
+sudo gedit /etc/conf.d/prelink
+#1484224907
+sudo gedit /etc/default/grub
+#1484224907
+sudo gedit /etc/default/keyboard
+#1484224907
+sudo gedit /etc/environment
+#1484224907
+sudo gedit /etc/environment 
+#1484224907
+sudo gedit /etc/etckeeper/etckeeper.conf
+#1484224907
+sudo gedit /etc/fstab
+#1484224907
+sudo gedit /etc/init.d/rc
+#1484224907
+sudo gedit /etc/init.d/rc 
+#1484224907
+sudo gedit /etc/initramfs-tools/conf.d/resume
+#1484224907
+sudo gedit /etc/ntp.conf 
+#1484224907
+sudo gedit /etc/sysctl.conf
+#1484224907
+sudo gedit /etc/xdg/xfce4/kiosk/kioskrc
+#1484224907
+sudo gedit /etc/xrdp/startwm.sh
+#1484224907
+sudo gedit /etc/xrdp/xrdp.ini
+#1484224907
+sudo gedit /lib/systemd/system/openvpn\@.service.d/local-after-ifup.conf
+#1484224907
+sudo gedit /usr/local/bin/exiftool
+#1484224907
+sudo gedit sudo apt-add-repository -y ppa:teejee2008/ppa; sudo add-apt-repository -y ppa:saiarcot895/myppa; sudo add-apt-repository -y ppa:rebuntu16/other-stuff; sudo add-apt-repository -y  ppa:webupd8team/y-ppa-manager; sudo add-apt-repository -y  ppa:videolan/stable-daily; sudo add-apt-repository -y ppa:webupd8team/java; sudo apt-get update; sudo apt-get install -y apt-fast; 
+#1484224907
+sudo gem install sass-globbing
+#1484224907
+sudo gem install sass-globbing sass
+#1484224907
+sudo gem install scss
+#1484224907
+sudo gparted
+#1484224907
+sudo hdparm -B /dev/sda 
+#1484224907
+sudo hdparm -B /dev/sdb 
+#1484224907
+sudo hdparm -I /dev/sda 
+#1484224907
+sudo hdparm -I /dev/sda | more
+#1484224907
+sudo hdparm -M /dev/sda 
+#1484224907
+sudo hdparm -M 254 /dev/sda 
+#1484224907
+sudo hdparm -M 254 /dev/sdb 
+#1484224907
+sudo hdparm -W /dev/sdb 
+#1484224907
+sudo hdparm -a /dev/sda 
+#1484224907
+sudo hdparm -c /dev/sda 
+#1484224907
+sudo hdparm -t /dev/sda 
+#1484224907
+sudo hwinfo --disk
+#1484224907
+sudo killall  chrome
+#1484224907
+sudo killall -x chrome
+#1484224907
+sudo killall apt-fast
+#1484224907
+sudo killall chrome
+#1484224907
+sudo killall dropbox
+#1484224907
+sudo killall java
+#1484224907
+sudo killall multibootusb
+#1484224907
+sudo lightdm-gtk-greeter-settings
+#1484224907
+sudo make install
+#1484224907
+sudo make uninstall
+#1484224907
+sudo mkdir -p /etc/xdg/xfce4/kiosk/kioskrc
+#1484224907
+sudo mkdir -p /lib/systemd/system/openvpn\@.service.d
+#1484224907
+sudo mkdir tom
+#1484224907
+sudo mkfs.ext3 -F -L 32GB /dev/sdc1
+#1484224907
+sudo modprobe msr
+#1484224907
+sudo mousepad  /etc/apt/apt.conf
+#1484224907
+sudo mousepad /etc/apt/apt.conf.d/95proxies
+#1484224907
+sudo mv /var/lib/dpkg/info/insync /tmp
+#1484224907
+sudo mv flickrurlget /usr/local/bin/
+#1484224907
+sudo ninjahelper
+#1484224907
+sudo openvpn --config /etc/openvpn/client.conf
+#1484224907
+sudo openvpn --config client.conf 
+#1484224907
+sudo pip install speedtest-cli
+#1484224907
+sudo pip install speedtest-cli --upgrade
+#1484224907
+sudo prelink -a
+#1484224907
+sudo ps
+#1484224907
+sudo ps --help
+#1484224907
+sudo purge-old-kernels
+#1484224907
+sudo rdmsr 
+#1484224907
+sudo rdmsr --all
+#1484224907
+sudo rdmsr -a 0x19a
+#1484224907
+sudo restart
+#1484224907
+sudo restart --help
+#1484224907
+sudo restart --no-wait
+#1484224907
+sudo restart --no-wait --all
+#1484224907
+sudo restart --no-wait --system
+#1484224907
+sudo restart --no-wait --system now
+#1484224907
+sudo restart now
+#1484224907
+sudo rm /usr/local/bin/exiftool
+#1484224907
+sudo rm /usr/local/lib/x86_64-linux-gnu/perl/5.22.1/auto/Image/ExifTool/.packlist
+#1484224907
+sudo rm /usr/local/man/man1/exiftool.1p
+#1484224907
+sudo rm /usr/share/doc/libimage-exiftool-perl-doc
+#1484224907
+sudo rm /var/cache/apt/archives/insync_1.3.14.36131-trusty_amd64.deb
+#1484224907
+sudo rm /var/lib/dpkg/info/libimage-exiftool-perl-doc.list
+#1484224907
+sudo rm /var/lib/dpkg/info/libimage-exiftool-perl-doc.md5sums
+#1484224907
+sudo rm /var/lib/dpkg/lock
+#1484224907
+sudo rm /var/lib/dpkg/lock 
+#1484224907
+sudo rm insync.postinst 
+#1484224907
+sudo service openvpn restart
+#1484224907
+sudo service openvpn rester
+#1484224907
+sudo service openvpn stop
+#1484224907
+sudo setup-grub
+#1484224907
+sudo sh -c 'echo "deb https://atlassian.artifactoryonline.com/atlassian/hipchat-apt-client $(lsb_release -c -s) main" > /etc/apt/sources.list.d/atlassian-hipchat4.list'
+#1484224907
+sudo shutdown now
+#1484224907
+sudo smartctl -data -A /dev/sda
+#1484224907
+sudo smartctl -i /dev/sda
+#1484224907
+sudo su -
+#1484224907
+sudo synaptic
+#1484224907
+sudo sysctl -p
+#1484224907
+sudo systemctl daemon-reload
+#1484224907
+sudo systemctl disable ModemManager.service
+#1484224907
+sudo systemctl disable apt-daily.service
+#1484224907
+sudo systemctl disable speech-dispatcher.service
+#1484224907
+sudo systemctl list-dependencies multi-user.target |grep Modem
+#1484224907
+sudo systemctl start libvirtd.service
+#1484224907
+sudo thunar
+#1484224907
+sudo time --set="7 Nov 2016 15:50"
+#1484224907
+sudo update-apt-xapian-index -vf
+#1484224907
+sudo update-db
+#1484224907
+sudo update-grub
+#1484224907
+sudo updatedb
+#1484224907
+sudo vi /etc/apt/apt.conf
+#1484224907
+sudo visudo
+#1484224907
+sudo y-pkexec
+#1484224907
+sudoa apt-fast install resilio
+#1484224907
+sudoa apt-fast install yumi
+#1484224907
+synaptic
+#1484224907
+syncthing
+#1484224907
+sysctl -p
+#1484224907
+sysnc --help
+#1484224907
+systemctl
+#1484224907
+systemctl 
+#1484224907
+systemctl  preload
+#1484224907
+systemctl enable openvpn@cluster6-02.service
+#1484224907
+systemctl list-dependencies NetworkManager-wait-online.service
+#1484224907
+systemctl list-dependencies multi-user.target NetworkManager-wait-online.service
+#1484224907
+systemctl list-dependencies multi-user.target |grep Modem
+#1484224907
+systemctl ntp start
+#1484224907
+systemctl restart NetworkManager.service
+#1484224907
+systemctl restart networking
+#1484224907
+systemctl restart ntp
+#1484224907
+systemctl restart openvpn@cluster6-02.service
+#1484224907
+systemctl restart xrdp.service
+#1484224907
+systemctl start libvirtd.service
+#1484224907
+systemctl start openvpn
+#1484224907
+systemctl start openvpn@cluster6-02.service
+#1484224907
+systemctl start xrdp.service
+#1484224907
+systemctl status openvpn@cluster6-02.service
+#1484224907
+systemctl status preload
+#1484224907
+systemctl stop xrdp.service
+#1484224907
+systemctr
+#1484224907
+systemd-analyze blame
+#1484224907
+systemd-analyze blame | grep ntp
+#1484224907
+systemd-analyze time
+#1484224907
+systemstr
+#1484224907
+tar -xvf xdm-jre-64bit.tar.xz
+#1484224907
+thumar
+#1484224907
+thunar
+#1484224907
+thunar --h
+#1484224907
+thunar --help
+#1484224907
+thunar -r
+#1484224907
+time
+#1484224907
+touch ./.merged_bash_history
+#1484224907
+tracert 10.5.150.9
+#1484224907
+ufw
+#1484224907
+ufw --help
+#1484224907
+uget
+#1484224907
+uget-gtk
+#1484224907
+unp
+#1484224907
+unp --help
+#1484224907
+unp -s
+#1484224907
+updatedb
+#1484224907
+vi ~/.bashrc 
+#1484224907
+viewnior
+#1484224907
+wc
+#1484224907
+wget -O - https://atlassian.artifactoryonline.com/atlassian/api/gpg/key/public | sudo apt-key add -
+#1484224907
+wget -O ~/merge_history.bash http://raw.github.com/pts/pts-merge-history-bash/master/merge_history.bash
+#1484224907
+wget -q -O - http://liveusb.info/multisystem/depot/multisystem.asc | sudo apt-key add -
+#1484224907
+wget http://download.cdn.viber.com/cdn/desktop/Linux/viber.deb
+#1484224907
+wget http://sourceforge.net/projects/xdman/files/xdm-jre-64bit.tar.xz
+#1484224907
+which exiftool
+#1484224907
+wodim
+#1484224907
+wodim -help
+#1484224907
+x-terminal-emulator  -e  ls -hold
+#1484224907
+x-terminal-emulator --hold -e  ls
+#1484224907
+x-terminal-emulator --noclose -e  ls
+#1484224907
+x-terminal-emulator -e -hold ls
+#1484224907
+x-terminal-emulator -e ls
+#1484224907
+x-terminal-emulator -hold -e  ls
+#1484224907
+xcfa
+#1484224907
+xfce-sudo aptik
+#1484224907
+xfce4-panel -r
+#1484224907
+xfce4-terminal --geometry 120x40  --title='Copy images to Images' -H  --command ll &
+#1484224907
+xfce4-terminal --geometry 120x40  --title='Copy images to Images' -H  --command ls
+#1484224907
+xfce4-terminal --geometry 120x40  --title='Copy images to Images' -H  --command ls &
+#1484224907
+xfce4-terminal --geometry 120x40  --title='Copy images to Images' -H  --command mutt 
+#1484224907
+xfce4-terminal --geometry 120x40  --title='Copy images to Images' -H --hide-menubar --command ls 
+#1484224907
+xfce4-terminal --geometry 120x40  --title=Copy images to Images -H  --command mutt 
+#1484224907
+xfce4-terminal --geometry 120x40  -title=Copy images to Images -H  --command mutt 
+#1484224907
+xfce4-terminal --help
+#1484224907
+xfconf-query --channel thunar  --create --type bool --set true --property /misc-exec-shell-scripts-by-default
+#1484224907
+xfconf-query --channel thunar --property /misc-exec-shell-scripts-by-default --create --type bool --set true
+#1484224907
+xfconf-query --channel thunar --property /misc-full-path-in-title --create --type bool --set true
+#1484224907
+xfconf-query --channel thunar --property /misc-image-size-in-statusbar --create --type bool --set true
+#1484224907
+xfe
+#1484224907
+xfwm4
+#1484224907
+xpdf
+#1484224907
+y-pkexec
+#1484224907
+yes
+#1484224907
+zenity
+#1484224907
+zsh
+#1484224910
+history
+#1484242346
+ssh www01o
+#1484299913
+sudo killall chrome
+#1484299919
+sudo killall chrome
+#1484299920
+sudo killall chrome
+#1484299924
+sudo killall chrome
+#1484300084
+history
+#1484300111
+history
+#1484300387
+cd ~/Dropbox/1.install_me_first/
+#1484560050
+sudo logout
+#1484560061
+sudo reboot now
+#1484560421
+ssh-add ~/ssh/mailcontrol-14-July-05
+#1484560441
+cd ~/ssh/
+#1484560446
+cd ~/.ssh/
+#1484560462
+ssh-add ~/.ssh/mailcontrol-20161110 
+#1484583056
+rsync /home/thomas/.bashrc /home/thomas/Dropbox/1.install_me_first/bash/
+#1484583502
+easytag
+#1484583522
+taggrepper
+#1484583540
+tagcloud
+#1484583552
+apt show tagcloud
+#1484583573
+apt show tagtool
+#1484583585
+tagtool
+#1484583641
+tagcoll
+#1484583654
+apt show tagcoll
+#1484583686
+puddletag
+#1484583691
+apt show puddletag
+#1484583714
+sudo apt-fast install puddletag
+#1484583872
+apt show lltag
+#1484583893
+apt show btag
+#1484583914
+apt show id3tool
+#1484585471
+mediainfo-gui 
+#1484585497
+mediainfo
+#1484585502
+mediainfo --help
+#1484585525
+mediainfo --Help
+#1484585681
+apt list id3tool
+#1484585696
+apt show btag
+#1484585790
+cs ~/Perforce/twhite__16-04/code_SaaS/head/portal/WWWDocs/lib/
+#1484585793
+cd ~/Perforce/twhite__16-04/code_SaaS/head/portal/WWWDocs/lib/
+#1484585807
+./scss-watch.bash 
+#1484646048
+sudo killall chrome
+#1484646063
+sudo killall chrome
+#1484646282
+cat /etc/bashrc
+#1484646325
+echo -e "${BCyan}This is BASH ${BRed}${BASH_VERSION%.*}${BCyan} - DISPLAY on ${BRed}$DISPLAY${NC}\n"
+#1484646476
+echo -e "${BCyan}This is BASH ${BRed}${BASH_VERSION%.*}${BCyan} - DISPLAY on ${BRed}$DISPLAY${NC} ${ALERT}aaaaa\n"
+#1484647647
+echo -e "${BCyan}This is BASH ${BRed}${BASH_VERSION%.*}${BCyan} - DISPLAY on ${BRed}$DISPLAY${NC} ${ALERT}aaaaa\n"
+#1484647675
+lls
+#1484648250
+echo date +%H%M
+#1484648257
+echo $(date +%H%M)
+#1484648810
+csh
+#1484648831
+pwd
+#1484649151
+cd Dropbox/1.install_me_first/
+#1484649279
+termcapinfo
+#1484649296
+tput
+#1484649447
+bashprompt -l themename
+#1484649469
+elite
+#1484649627
+cat /proc/loadavg
+#1484649683
+ps ax | wc -l | tr -d " " 
+#1484649695
+ps ax | wc -l | awk '{print $1}'
+#1484649929
+$(hostname -s)
+#1484649934
+$(hostname -s)
+#1484649943
+$(whoami)
+#1484650103
+locate dir_colors
+#1484650271
+cd Perforce/twhite__16-04/code_SaaS/head/portal/WWWDocs/lib/
+#1484650277
+./scss-watch.bash 
+#1484650313
+echo $DATE
+#1484650322
+dattime
+#1484650328
+datetime
+#1484650370
+echo $(date +"%Y-%m-%d_%H-%M-%S")
+#1484650377
+echo $(date +"%Y-%m-%d_%H-%M-%S")
+#1484650494
+alert
+#1484650510
+sleep 10;alert
+#1484650531
+sleep 1;alert aaa
+#1484650622
+l.
+#1484650635
+l.
+#1484650640
+l.
+#1484650841
+l.echo $(uname)
+#1484650849
+luname
+#1484650851
+uname
+#1484650866
+echo $(uname)
+#1484650906
+ls --color=auto
+#1484650914
+dir
+#1484650921
+vdir
+#1484650935
+egrep
+#1484651033
+ls -alF
+#1484651052
+ls -l
+#1484651074
+la
+#1484651078
+l
+#1484651081
+l.
+#1484651083
+ll.
+#1484651187
+fastping='ping -c 100 -s.2'
+#1484651201
+ping -c 100 -s.2 bbc.com
+#1484651216
+etstat -tulanp
+#1484651222
+netstat -tulanp
+#1484651526
+cd .ssh/config
+#1484651529
+cat .ssh/config
+#1484651545
+gedit .ssh/config
+#1484651577
+ll .ssh
+#1484651735
+echo $EDITOR
+#1484651838
+ii
+#1484651960
+curl icanhazip.com
+#1484651980
+ls -At1 && echo "------Oldest--"
+#1484652006
+sudo updatedb
+#1484652138
+sips
+#1484654333
+rule() aa
+#1484654348
+echo rule('aa')
+#1484654353
+echo rule()
+#1484654360
+echo rule()
+#1484654370
+rule
+#1484654376
+rule
+#1484654399
+rule =
+#1484654404
+rule ~
+#1484654414
+rule +
+#1484654448
+rulem "[ How about that? ]"
+#1484654510
+du -sh * | sort -n
+#1484654577
+sizeup
+#1484654628
+sizeup 0
+#1484654664
+sizeup -maxdepth 1
+#1484654671
+sizeup maxdepth 1
+#1484654695
+sizeup
+#1484654712
+sizeup -0 bash
+#1484654729
+sizeup -0 
+#1484654731
+sizeup -2 
+#1484654936
+man -t dir  | open -f -a Preview
+#1484658570
+ssh www01o
+#1484658626
+ssh www01o
+#1484658677
+xs ~
+#1484658692
+gedit ~/.ssh/config 
+#1484658715
+gedit ~/.ssh/config 
+#1484658741
+ssh-add ~/.ssh/mailcontrol-20161110 
+#1484663153
+cd ../2016/
+#1484663160
+youtube-dl https://www.youtube.com/watch?v=RSonyNohq7I
+#1484663185
+youtube-dl --help
+#1484663268
+youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=RSonyNohq7I
+#1484663485
+sudo apt-fast install audiotools
+#1484663586
+apt show multimedia-audio-utilities
+#1484663636
+sudo apt-fast install  multimedia-audio-utilities
+#1484663823
+sudo apt-fast install  mpg123 
+#1484664204
+rsync ~/.bashrc ~/Dropbox/backups/$HOSTNAME/$LOGNAME/
+#1484664259
+rsync ~/.bashrc ~/Dropbox/backups/$HOSTNAME/$LOGNAME/bash-history
+#1484664284
+rsync ~/.bash_* ~/Dropbox/backups/$HOSTNAME/$LOGNAME/bash-history
+#1484664313
+cd /home/thomas/Dropbox/1.install_me_first/bash/
+#1484664394
+./sync_bash.sh 
+#1484733421
+rulem aaa
+#1484733511
+matches
+#1484733603
+matches -h
+#1484733636
+matches -c apt-fast
+#1484733649
+matches -c -r apt-fast
+#1484733797
+lno ./install_audio.sh 
+#1484733818
+lno ./install_audio.sh 
+#1484734014
+cat ~/.inputrc
+#1484734185
+ls ~/Desktop
+#1484734289
+fasd_cd -d
+#1484734350
+fsf
+#1484734355
+fzf
+#1484734427
+du -sh * | sort -n
+#1484737792
+ssh www01o
+#1484742098
+rsync --help
+#1484742195
+history | grep rsync
+#1484742538
+ping static.getclicky.com/js
+#1484742566
+ping static.getclicky.com
+#1484751894
+ifconfig
+#1484821306
+ssh-add ~/.ssh/mailcontrol-20161110 
+#1484821322
+ssh www01o
+#1484827043
+history
+#1484827059
+history | grep system
+#1484827216
+history | grep systemctl
+#1484827235
+blame
+#1484834702
+ssh t21
+#1484834793
+ssh t21
+#1484834831
+gedit /home/thomas/eclipse-workspace/sync-www.pl
+#1484835016
+gedit CENG-15883
+#1484835611
+scp /home/thomas/Perforce/twhite__16-04/code_SaaS/head/portal/WWWDocs/portal/shared/password_settings.mas t21:/tmp
+#1484835638
+ssh t21
+#1484835951
+scp /home/thomas/Perforce/twhite__16-04/code_SaaS/head/portal/WWWDocs/portal/shared/password_settings.mas t21:/tmp
+#1484836205
+scp /home/thomas/Perforce/twhite__16-04/code_SaaS/head/portal/WWWDocs/portal/shared/password_settings.mas t21:/tmp
+#1484836245
+scp /home/thomas/Perforce/twhite__16-04/code_SaaS/head/portal/WWWDocs/portal/shared/password_settings.mas t21:/tmp
+#1484903599
+sudo killall java
+#1484903604
+sudo killall java
+#1484903745
+sudo killall chrome
+#1484903746
+sudo killall chrome
+#1484903747
+sudo killall chrome
+#1484903748
+sudo killall chrome
+#1484903749
+sudo killall chrome
+#1484904250
+history
+#1484904287
+history | grep systemc
+#1484904292
+history | grep systemctl
+#1484904322
+history | grep systemctl > systemctl.txt
+#1527364213
+./1.config_apt-fast_and_ppa.sh 
+#1527365034
+./2.install_xfce.sh 
+#1527365924
+./3.install-python.sh 
+#1527365976
+sudo sh -c 'echo "deb https://atlassian.artifactoryonline.com/atlassian/hipchat-apt-client $(lsb_release -c -s) main" > /etc/apt/sources.list.d/atlassian-hipchat4.list'
+#1527365987
+wget -O - https://atlassian.artifactoryonline.com/atlassian/api/gpg/key/public | sudo apt-key add -
+#1527365999
+sudo apt-get update
+#1527366031
+sudo apt-get install hipchat4
+#1527366161
+sudoa apt-fast install gdebi
+#1527366167
+sudo apt-fast install gdebi
+#1527366405
+Upgrade
+#1527366441
+Upgrade
+#1527366481
+Upgrade
+#1527366660
+Upgrade
+#1527366677
+history
+#1527366874
+./3.install-python.sh 
+#1527366889
+./4.confugure.sh 
+#1527366909
+sudo ./4.confugure.sh 
+#1527366939
+Upgrade
+#1527366992
+./5.install-essentials.sh 

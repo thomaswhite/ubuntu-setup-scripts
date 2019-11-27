@@ -20,6 +20,9 @@ xfconf-query --channel thunar --property /misc-full-path-in-title 		        --cr
 xfconf-query --channel thunar --property /misc-exec-shell-scripts-by-default 	--create --type bool --set true
 xfconf-query --channel thunar --property /misc-image-size-in-statusbar 		    --create --type bool --set true
 
+#xdg-mime default /usr/share/applications/Zoom.desktop x-scheme-handler/zoommtg
+
+
 sudo apt-fast -qq  -y install thunar*  gthumb* gnome-*-thumbnailer tumbler*  ffmpegthumbnailer  thumbnailer* ooo-thumbnailer
 #thumbnailer-service 
 

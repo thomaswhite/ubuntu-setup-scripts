@@ -1,0 +1,259 @@
+    1  sudo apt-get update
+    2  sudo apt-get upgrage
+    3  sudo apt-get upgrade
+    4  sudo apt-get update
+    5  sudo apt-get dist-update
+    6  sudo apt-get dist-upgrade
+    7  sudo apt-get update
+    8  sudo apt-get upgrade
+    9  sudo update-grub
+   10  sudo apt-get install openvpn
+   11  sudo apt-get install openvpn*
+   12  sudo apt-get install network*openvpn*
+   13  sudo apt-get install network*openvpn
+   14  sudo apt-get install network-manager-openvpn*
+   15  sudo thunar
+   16  sudo service openvpn restart
+   17  ssh www01o
+   18  sudo service openvpn start
+   19  sudo apt-get xfce-goodies
+   20  sudo gedit /etc/environment 
+   21  ifup
+   22  ifup --help
+   23  sudo apt-get install ethtool
+   24  history
+   25  sudo apt-get install ethtool
+   26  set
+   27  history
+   28  sudo gedit /etc/environment
+   29  sudo apt-get update
+   30  sudo gedit /etc/environment
+   31  ll
+   32  ls
+   33  cd Downloads/
+   34  mv apt-fast.sh apt-fast
+   35  mv apt-fast /usr/bin/
+   36  sudo mv apt-fast /usr/bin/
+   37  chmod +x /usr/bin/apt-fast
+   38  sudo apt-fast update
+   39  sudo apt-get -f
+   40  sudo apt-get install -f
+   41  sudo apt-get remove install-info
+   42  sudo apt-get remove install-info --purge
+   43  sudo apt-get install -f
+   44  sudo apt-get update
+   45  sudo apt-fast update
+   46  sudo apt-get install axel
+   47  sudo service openvpn start
+   48  sudo service openvpn restart
+   49  sudo apt-add-repository -y ppa:teejee2008/ppa
+   50  sudo apt-get update
+   51  sudo apt-get install aptik
+   52  sudo apt-get upgrade
+   53  sudo apt-get dist-upgrade
+   54  sudo apt-add-repository -y  ppa:webupd8team/y-ppa-manager
+   55  sudo apt-get update
+   56  sudo apt-get update
+   57  cd ..
+   58  sudo service openvpn restart
+   59  sudo apt-get install openvpn
+   60  sudo service openvpn restart
+   61  sudo apt-get remove openvpn
+   62  sudo apt-get install openvpn
+   63  sudo service openvpn restart
+   64  sudo apt-fast install openvpn
+   65  apt-get install aria2
+   66  sudo apt-get install aria2
+   67  apt-get install python-apt
+   68  sudo apt-get install python-apt
+   69  history | grep ppa
+   70  sudo apt-add-repository -y ppa:tldm217/tahutek.net
+   71  sudo apt-get update
+   72  sudo apt-get install apt-proz
+   73  sudo apt-get update
+   74  sudo add-apt-repository ppa:tahutek-team/prozilla
+   75  sudo apt-get update
+   76  sudo thumar
+   77  sudo thunar
+   78  sudo service openvpn restart
+   79  sudo service httpd restart
+   80  sudo service openvpn restart
+   81  cat /etc/resolvconf/resolv.conf.d/base
+   82  sudo cat /etc/resolvconf/resolv.conf.d/base
+   83  sudo gedit /etc/resolvconf/resolv.conf.d/base
+   84  cd /etc/resolvconf/resolv.conf.d
+   85  ll
+   86  cat head 
+   87  ifconfig
+   88  ssh www01o
+   89  ssh 10.250.1.111
+   90  cd ./ssh
+   91  cd .ssh
+   92  ssh-add mailcontrol-14-July-05 
+   93  ssh 10.250.1.111
+   94  cd /etc/openvpn/
+   95  cd /etc/init.d
+   96  ll
+   97  ./openvpn 
+   98  ./openvpn start
+   99  ./openvpn restart
+  100  ifconfig -a
+  101  ping 10.5.22.81
+  102  ll
+  103  p4v
+  104  p4
+  105  history
+  106  ssh-add .ssh/mailcontrol-14-July-05 
+  107  su -
+  108  sudo curl https://raw.githubusercontent.com/hbons/Dazzle/master/dazzle.sh 
+  109  sudo curl https://raw.githubusercontent.com/hbons/Dazzle/master/dazzle.sh   --output /usr/bin/dazzle && chmod +x /usr/bin/dazzle
+  110  sudo apt-get install curl
+  111  sudo apt-get update
+  112  sudo apt-get upgrade
+  113  sudo apt-get dist-upgrade
+  114  sudo apt-get update
+  115  sudo apt-get autoremove
+  116  cd ..
+  117  cd /home/thomas/eclipse-workspace/
+  118  ll
+  119  rm -R *.lock
+  120  ssh www01o
+  121  ssh www01o.odd.blacksider.com
+  122  ssh cluster6-02
+  123  ssh-add .ssh/mailcontrol-14-July-05 
+  124  ssh cluster6-02
+  125  ssh 10.5.21.25
+  126  ssh aforshaw@10.5.21.25
+  127  ssh -A aforshaw@10.5.21.25
+  128  ssh -X aforshaw@10.5.21.25
+  129  ifconfig
+  130  cat /etc/resolv.conf
+  131  name www01o
+  132  host www01o
+  133  cd /etc/openvpn
+  134  ls
+  135  cat client.conf
+  136  ssh-add .ssh/mailcontrol-14-July-05 
+  137  cd ~
+  138  ssh-add .ssh/mailcontrol-14-July-05 
+  139  netstat -ran
+  140  ping 10.250.1.11
+  141  nslookup -q=any www01o
+  142  cat /etc/resolv.conf 
+  143  sudo su -
+  144  cat /etc/resolv
+  145  cat /etc/resolv.conf 
+  146  sudo su -
+  147  ssh www01o
+  148  host
+  149  hosthame
+  150  whoami
+  151  host localhost
+  152  ifconfig
+  153  ping 10.5.21.33
+  154  sudo killall eclipse
+  155  sudo ps
+  156  sudo ps -efl
+  157  sudo ps -efl | grep eclipse
+  158  sudo kill 32110
+  159  sudo ps -efl | grep eclipse
+  160  ssh-add .ssh/mailcontrol-14-July-05 
+  161  ssh-add ~/.ssh/mailcontrol-14-July-05
+  162  ssh www01o
+  163  host
+  164  hostname
+  165  sudo apt-get install icoutils
+  166  apt-cache show icoutils
+  167  man icotools
+  168  sudo apt-get install xpaint
+  169  sudo apt-get autoremove
+  170  sudo apt-get install pdfedit
+  171  sudo apt-get install scribus
+  172  sudo apt-get install xpm2wico
+  173  ssh-add ~/.ssh/mailcontrol-14-July-05
+  174  zenity
+  175  xfconf-query --channel thunar --property /misc-image-size-in-statusbar --create --type bool --set true
+  176  xfconf-query --channel thunar --property /misc-full-path-in-title --create --type bool --set true
+  177  sudo apt-get install jpegoptim
+  178  sudo apt-add-repository ppa:richardgv/compton
+  179  sudo apt-get update
+  180  locate compton
+  181  cd .config/
+  182  ll compton.conf
+  183  gedit
+  184  gedit compton.conf
+  185  compton
+  186  apt-get install backupninja
+  187  sudo apt-get install backupninja
+  188  sudo apt-get install curl
+  189  sudo apt-get install ruby
+  190  sudo apt-get install zenity
+  191  sudo apt-get autoremove
+  192  ssh www01o
+  193  find
+  194  find -name packages-installed.list /media/thomas/Ubuntu14.04-home/twhite/
+  195  find --?
+  196  find --help
+  197  find /media/thomas/Ubuntu14.04-home/twhite/ -name packages-installed.list
+  198  wget -O adobe-air.sh http://drive.noobslab.com/data/apps/AdobeAir/adobe-air.sh
+  199  chmod +x adobe-air.sh;sudo ./adobe-air.sh
+  200  sky
+  201  sudo killall sky
+  202  man killall
+  203  man killall -v
+  204  sudo killall sky -v
+  205  wync
+  206  ssh-add ~/.ssh/mailcontrol-14-July-05
+  207  sudo killall sky
+  208  sudo apt-get remove sky
+  209  sudo apt-get install skype viber
+  210  sudo apt-get install skype 
+  211  sudo killall wync
+  212  sudo killall wync -v
+  213  sudo apt-get remove sky
+  214  sudo apt-get install shutter
+  215  sudo apt-get install uget
+  216  sudo apt-get install playonlinux
+  217  sudo add-apt-repository ppa:atareao/atareao
+  218  sudo apt-get update
+  219  sudo apt-get install gdebi
+  220  sudo gdebi webmin_1.780_all.deb
+  221  sudo add-apt-repository ppa:deity/sid
+  222  sudo apt-get update
+  223  sudo apt-get install apt
+  224  apt update
+  225  sudo apt update
+  226  sudo apt upgrade 
+  227  sudo apt update
+  228  sudo apt-get install selene
+  229  sudo add-apt-repository ppa:mariospr/frogr
+  230  sudo apt-get update
+  231  sudo apt install frogr
+  232  sudo add-apt-repository ppa:anton+/photo-video-apps
+  233  sudo apt-get install hotshots
+  234  sudo add-apt-repository ppa:ubuntu-wine/ppa
+  235  sudo apt-get update
+  236  history
+  237  sudo apt remove hotshots
+  238  sudo restart now
+  239  ssh cfg01o
+  240  zenity
+  241  gksudo
+  242  xclip
+  243  Xdialog
+  244  xdialog
+  245  sudo apt install gksudo
+  246  pkexec
+  247  history
+  248  sudo aptitude install python-webkit python-simplejson
+  249  sudo add-apt-repository ppa:jimjimovich/starry-hope-uploader 
+  250  sudo apt-get update
+  251  sudo rm /var/lib/dpkg/lock
+  252  sudo apt-get update
+  253  sudo apt-get install clipgrab
+  254  sudo apt-get install python-facebook
+  255  sudo apt-get install skype
+  256  sudo apt-get install zenity
+  257  sudo gem install scss
+  258  history
+  259  history > history-2016-01-18.txt

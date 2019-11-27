@@ -1,0 +1,43 @@
+sudo apt-get upgrade
+sudo apt-get dist-upgrade
+ssh-copy-id  root@192.168.1.82
+ssh root@192.168.1.82
+gnome-online-account
+apt liost gnome-online-account
+apt list gnome-online-account
+sudo apt-get install gnome-control-center
+sudo apt-get install  gnome-online-account
+sudo apt-get upgrade
+sudo apt-get update
+cat .merged_bash_history | sort
+cat .merged_bash_history | sort > history.text
+cd ../tom
+cat history.text | sort -u 
+cat history.text | sort -u > history2.text 
+sudo apt-fast install gedit
+sudo apt-get install gedit
+touch ~/.merged_bash_history
+cd /home/tom/2install/ubuntu-17.10-setup/
+./000.configure_merge_history.sh 
+./000.configure_merge_history.sh 
+./001.disable-services.sh 
+./010.config_apt-fast.sh 
+sudo sh -c 'echo "Acquire::Languages { \"en\"; };" > /etc/apt/apt.conf.d/99translations'
+./020.config_add_ppa.sh 
+apt list aptik
+./020.config_add_ppa.sh 
+sudo apt-add-repository ppa:nilarimogard/webupd8
+sudo apt-get install launchpad-getkeys
+sudo launchpad-getkeys
+sudo launchpad-getkeys
+Upgarde
+sudo apt-get install gnome-disk-utility
+sudo apt-get upgrade
+ssh 192.168.1.82
+sudo apt-get install gnome-disk-utility gnome-system-tools
+sudo apt-get  -qq -y  install gnome-disk-utility gnome-system-tools
+sudo apt-get install xfce4-goodies
+apt list xubuntu-restricted*
+locate etch*
+cd Downloads/
+sudo ./balenaEtcher-1.5.24-x64.AppImage 

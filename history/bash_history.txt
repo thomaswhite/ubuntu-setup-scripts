@@ -1,0 +1,104 @@
+sudo apt-get dist-upgrade
+sudo apt-get upgrade
+sudo apt autoremove
+cat .merged_bash_history  | sort -u > history.txt
+sudo apt-get install solar
+sudo apt-get install x2goclient
+sudo apt-get install x2goclient  xbindkeys xautomation x11-utils
+sudo apt-get install resilio-sync
+sudo apt-fast install gedit
+sudo apt-get install gedit
+sudo apt-get install couchdb
+apt list  *couchdb*
+sudo apt-get install solar
+Upgrade
+Upgrade
+apt list thunar*
+./000.configure_merge_history.sh 
+./001.disable-services.sh 
+./010.config_apt-fast.sh 
+Upgrade
+./020.config_add_ppa.sh 
+./020.config_add_ppa.sh 
+sudo apt-get install solaar
+Upgrade
+./030.install_xfce.sh 
+sudo apt-get -f install
+./030.install_xfce.sh 
+sudo apt-fast -qq  -y install thunar*  gthumb* gnome-*-thumbnailer tumbler*  ffmpegthumbnailer  thumbnailer* ooo-thumbnailer
+sudo apt-fast -qq  -y install thunar*  gthumb* gnome-*-thumbnailer tumbler*  ffmpegthumbnailer  thumbnailer* 
+sudo apt-fast -qq  -y install thunar*  gthumb* gnome-*-thumbnailer tumbler*  ffmpegthumbnailer  
+sudo apt-fast -qq  -y install thunar*  gthumb* gnome-*-thumbnailer tumbler* 
+sudo apt-fast -qq  -y install thunar*  gthumb* gnome-*-thumbnailer
+sudo apt-fast -qq  -y install thunar*  gthumb* 
+sudo apt-fast -qq  -y install thunar* 
+sudo apt-fast   -y install thunar* 
+Upgrade
+sudo apt-fast -qq  -y install xfce4-*-plugin xfce4-appfinder xfce4-dict xfce4-goodies xfce4-notifyd xfce4-panel xfce4-power-* xfce4-settings xfce4-terminal
+sudo apt-fast -qq  -y install  gthumb* 
+sudo apt-fast -qq  -y install gthumb* gnome-*-thumbnailer tumbler*  ffmpegthumbnailer  thumbnailer* ooo-thumbnailer
+touch ~/.merged_bash_history
+history
+sudo apt-get dist-upgrade
+Upgrade
+Upgrade
+sudo killall chrome
+ls
+ll
+Upgrade
+sudo killall chrome
+sudo thunar
+env | grep -i DESKTOP_SESSION
+lspci | grep -i vga
+cat /etc/X11/default-display-manager
+./051.pkexec-setup.sh 
+./061.dev-git-config.sh 
+./060.dev-tools.sh 
+sudo apt-fast -qq -y install gnome-disk-utility
+sudo apt-fast -y install gnome-disk-image-mounter
+sudo apt-fast -y install youtube-dl
+sudo apt-fast -y install shutter
+history
+sudo add-apt-repository ppa:linuxuprising/shutter
+sudo apt-fast install shutter
+sudo add-apt-repository ppa:rebuntu16/other-stuff 
+sudo apt-get install xfce-theme-manager
+sudo dist-upgrade
+sudo apt-get dist-upgrade
+sudo apt-get dist-upgrade
+apt list xfce4*
+
+apt list xfce5*
+sudo apt-get install xfce4-appmenu-plugin
+apt list xfce4*plugin
+sudo apt-get install xfce4-appmenu-plugin xfce4-statusnotifier-plugin xfce4-datetime-plugin
+sudo apt-get -qq -y install etckeeper
+sudo apt-get -qq -y install git rsync wget curl gdebi
+sudo apt-get  -y install git rsync wget curl gdebi
+cd /home/tom/WebStorm2019/ubuntu-setup-scripts
+./010.config_apt-fast.sh
+./030.install_xfce.sh 
+./040.install-python.sh 
+pip install  pyPdf pyPdf
+sudo apt-fast -qq -y install network-manager-openconnect network-manager-openconnect-gnome
+ppa_add x2go/stable
+sudo apt-fast -qq -y install x2goclient
+sudo apt-fast install -y oracle-java9-installer
+sudo apt-fast install -y oracle-java8-installer
+apt list *java*
+apt list *java*
+apt list java*
+./050.install-essentials.sh 
+./050.install-essentials.sh 
+echo "deb http://linux-packages.resilio.com/resilio-sync/deb resilio-sync non-free" | sudo tee /etc/apt/sources.list.d/resilio-sync.list
+curl -LO http://linux-packages.resilio.com/resilio-sync/key.asc && sudo apt-key add ./key.asc
+sudo apt-get update
+sudo apt-get install resilio-sync
+apt list xubuntu-*-wallpapers
+sudo apt-fast dist-upgrade
+apt list gnome*disk
+sudo apt-fast  -y install gnome-disk-utility
+sudo apt-fast update
+ppa_add_from_previous_release http://ppa.launchpad.net/rebuntu16/other-stuff/ubuntu yakkety main
+sudo apt-get install xfce-theme-manager
+apt list libxfconf*

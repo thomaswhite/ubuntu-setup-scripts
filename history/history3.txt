@@ -1,0 +1,109 @@
+    1  touch ~/.merged_bash_history
+    2  apt list thunar
+    3  apt list thunar*
+    4  apt list thunar*plugin
+    5  ./030.install_xfce.sh 
+    6  sudo apt-fast -qq  -y install thunar-media-tags-plugin thunar-media-tags-plugin 
+    7  sudo apt-fast -qq  -y install gthumb* gnome-*-thumbnailer tumbler*  ffmpegthumbnailer  thumbnailer* ooo-thumbnailer
+    8  apt list *thumbnailer*
+    9  ./040.install-python.sh 
+   10  pip install youtube-dl
+   11  sudo apt-fast install gnome-disk-utility
+   12  ./051.pkexec-setup.sh 
+   13  history
+   14  app
+   15  ll *##
+   16  ll *.txt
+   17  touch ~/.merged_bash_history
+   18  cd 2install/ubuntu-17.10-setup/
+   19  ./001.disable-services.sh 
+   20  ./800.disable-services.sh 
+   21  apt-fast
+   22  history
+   23  history | sort -u
+   24  ./050.install-essentials.sh 
+   25  ./050.install-essentials.sh 
+   26  ./800.disable-services.sh 
+   27  ./800.disable-services.sh 
+   28  ./800.disable-services.sh 
+   29  sudo sed -i 's/AutoMount=true/AutoMount=false/' /usr/share/gvfs/mounts/network.mount
+   30  ./800.disable-services.sh 
+   31  ./001.disable-services.sh 
+   32  ./001.disable-services.sh 
+   33  history
+   34  cd 2install/ubuntu-17.10-setup/
+   35  ./020.config_add_ppa.sh 
+   36  ./020.config_add_ppa.sh 
+   37  Upgrade
+   38  ./061.dev-git-config.sh 
+   39  history
+   40  ./050.install-essentials.sh 
+   41  sudo restart
+   42  sudo reboot now
+   43  history
+   44  sudo add-apt-repository ppa:linuxuprising/java
+   45  sudo apt-get install oracle-java11-installer
+   46  sudo apt-get install  oracle-java11-set-default
+   47  Upgrade
+   48  ~/install_nvm.sh 
+   49  ~/install_nvm.sh 
+   50  ~/install_nvm.sh 
+   51  nvm 
+   52  nvm
+   53  nvm ls-remote
+   54  nvm i v12.2.0
+   55  systemd-analyze blame outputs
+   56  systemd-analyze blame
+   57  systemd-analyze critical-chain
+   58  systemctl list-units --type service --all
+   59  systemd-analyze blame
+   60  sudo snap install opera-developer --edge
+   61  sudo snap install tor
+   62  sudo apt-get install deluge
+   63  sudo apt-get install vuze
+   64  sudo thunar
+   65  sudo snap install tor
+   66  tor
+   67  sudo apt-get install gnome-system-tools
+   68  sudo gedit /usr/share/applications/users.desktop
+   69  sudo gedit /usr/share/applications/users.desktop
+   70  yay
+   71  sudo apt-fast install youtube-dl-gui-git
+   72  awk -F':' '$2 ~ "\$" {print $1}' /etc/shadow
+   73  cat visudo
+   74  history
+   75  history > history-2.txt
+   76  sudo apt install tasksel
+   77  sudo tasksel install kubuntu-desktop
+   78  uname
+   79  uname --help
+   80  uname -a
+   81  sudo lshw
+   82  lscpu
+   83  lsusb
+   84  echo "deb https://apache.bintray.com/couchdb-deb bionic main" | sudo tee -a /etc/apt/sources.list
+   85  curl -L https://couchdb.apache.org/repo/bintray-pubkey.asc     | sudo apt-key add -
+   86  sudo apt-get update && sudo apt-get install couchdb
+   87  adduser --system         --shell /bin/bash         --group --gecos         "CouchDB Administrator" couchdb
+   88  sudo adduser --system         --shell /bin/bash         --group --gecos         "CouchDB Administrator" couchdb
+   89  sudo systemctl status couchdb.service
+   90  find / couchdb
+   91  find / couchdb -type d
+   92  ls /home/
+   93  Upgrade
+   94  sudo add-apt-repository ppa:graphics-drivers/pp
+   95  sudo add-apt-repository ppa:graphics-drivers/ppa
+   96  sudo ubuntu-drivers autoinstall
+   97  lshw -numeric -C display
+   98  sudo lshw -numeric -C display
+   99  update-initramfs -h
+  100  ubuntu-drivers devices
+  101  sudo apt-fast install nvidia-driver-430
+  102  sudo apt-fast instal nvidia-driver-430
+  103  sudo apt-fast install nvidia-driver-430
+  104  sudo restart
+  105  sudo reboot
+  106  hhistory
+  107  history
+  108  sudo tasksel remove kubuntu-desktop
+  109  history > history3.txt

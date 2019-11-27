@@ -1,0 +1,222 @@
+#1557435924
+touch ~/.merged_bash_history
+#1557435958
+apt list thunar
+#1557435964
+apt list thunar*
+#1557436005
+apt list thunar*plugin
+#1557436149
+./030.install_xfce.sh 
+#1557436176
+sudo apt-fast -qq  -y install thunar-media-tags-plugin thunar-media-tags-plugin 
+#1557436192
+sudo apt-fast -qq  -y install gthumb* gnome-*-thumbnailer tumbler*  ffmpegthumbnailer  thumbnailer* ooo-thumbnailer
+#1557436214
+apt list *thumbnailer*
+#1557436265
+./040.install-python.sh 
+#1557436360
+pip install youtube-dl
+#1557436427
+sudo apt-fast install gnome-disk-utility
+#1557436571
+./051.pkexec-setup.sh 
+#1558031945
+history
+#1558032365
+app
+#1558032386
+ll *##
+#1558032392
+ll *.txt
+#1558032418
+touch ~/.merged_bash_history
+#1558032446
+cd 2install/ubuntu-17.10-setup/
+#1558032452
+./001.disable-services.sh 
+#1558032469
+./800.disable-services.sh 
+#1558032500
+apt-fast
+#1558032513
+history
+#1558032558
+history | sort -u
+#1558032576
+./050.install-essentials.sh 
+#1558040598
+./050.install-essentials.sh 
+#1558040720
+./800.disable-services.sh 
+#1558040788
+./800.disable-services.sh 
+#1558040805
+./800.disable-services.sh 
+#1558040897
+sudo sed -i 's/AutoMount=true/AutoMount=false/' /usr/share/gvfs/mounts/network.mount
+#1558041116
+./800.disable-services.sh 
+#1558041213
+./001.disable-services.sh 
+#1558041322
+./001.disable-services.sh 
+#1558041498
+history
+#1558041506
+cd 2install/ubuntu-17.10-setup/
+#1558041523
+./020.config_add_ppa.sh 
+#1558041801
+./020.config_add_ppa.sh 
+#1558042014
+Upgrade
+#1558042059
+./061.dev-git-config.sh 
+#1558042083
+history
+#1558042126
+./050.install-essentials.sh 
+#1558042263
+sudo restart
+#1558042268
+sudo reboot now
+#1558042571
+history
+#1558042786
+sudo add-apt-repository ppa:linuxuprising/java
+#1558042851
+sudo apt-get install oracle-java11-installer
+#1558043081
+sudo apt-get install  oracle-java11-set-default
+#1558043090
+Upgrade
+#1558043152
+~/install_nvm.sh 
+#1558043200
+~/install_nvm.sh 
+#1558043216
+~/install_nvm.sh 
+#1558043238
+nvm 
+#1558043247
+nvm
+#1558043263
+nvm ls-remote
+#1558043294
+nvm i v12.2.0
+#1558043341
+systemd-analyze blame outputs
+#1558043345
+systemd-analyze blame
+#1558043364
+systemd-analyze critical-chain
+#1558043393
+systemctl list-units --type service --all
+#1558043461
+systemd-analyze blame
+#1558372165
+sudo snap install opera-developer --edge
+#1558372432
+sudo snap install tor
+#1558372508
+sudo apt-get install deluge
+#1558372571
+sudo apt-get install vuze
+#1558372933
+sudo thunar
+#1558373310
+sudo snap install tor
+#1558373314
+tor
+#1558376604
+sudo apt-get install gnome-system-tools
+#1558385006
+sudo gedit /usr/share/applications/users.desktop
+#1558385113
+sudo gedit /usr/share/applications/users.desktop
+#1558385742
+yay
+#1558385795
+sudo apt-fast install youtube-dl-gui-git
+#1558385906
+awk -F':' '$2 ~ "\$" {print $1}' /etc/shadow
+#1558385950
+cat visudo
+#1558387622
+history
+#1558387661
+history > history-2.txt
+#1558459884
+sudo apt install tasksel
+#1558459895
+sudo tasksel install kubuntu-desktop
+#1558460223
+uname
+#1558460227
+uname --help
+#1558460231
+uname -a
+#1558460266
+sudo lshw
+#1558460339
+lscpu
+#1558460379
+lsusb
+#1558465144
+echo "deb https://apache.bintray.com/couchdb-deb bionic main" | sudo tee -a /etc/apt/sources.list
+#1558465231
+curl -L https://couchdb.apache.org/repo/bintray-pubkey.asc     | sudo apt-key add -
+#1558465245
+sudo apt-get update && sudo apt-get install couchdb
+#1558465398
+adduser --system         --shell /bin/bash         --group --gecos         "CouchDB Administrator" couchdb
+#1558465407
+sudo adduser --system         --shell /bin/bash         --group --gecos         "CouchDB Administrator" couchdb
+#1558465495
+sudo systemctl status couchdb.service
+#1558465556
+find / couchdb
+#1558465588
+find / couchdb -type d
+#1558465614
+ls /home/
+#1558467781
+Upgrade
+#1558467878
+sudo add-apt-repository ppa:graphics-drivers/pp
+#1558467889
+sudo add-apt-repository ppa:graphics-drivers/ppa
+#1558468156
+sudo ubuntu-drivers autoinstall
+#1558468179
+lshw -numeric -C display
+#1558468343
+sudo lshw -numeric -C display
+#1558468353
+update-initramfs -h
+#1558468583
+ubuntu-drivers devices
+#1558468778
+sudo apt-fast install nvidia-driver-430
+#1558468823
+sudo apt-fast instal nvidia-driver-430
+#1558468828
+sudo apt-fast install nvidia-driver-430
+#1558468976
+sudo restart
+#1558468983
+sudo reboot
+#1558469175
+hhistory
+#1558469180
+history
+#1558469203
+sudo tasksel remove kubuntu-desktop
+#1558469420
+history > history3.txt
+#1558469424
+history 
+#1558469542
+sudo reboot
