@@ -2,6 +2,11 @@
 
 source _setup.sh
 
+# thumbnailers
+sudo apt-fast -qq  -y install webp # Decodes the WebP image file to PNG format [Default]
+sudo apt-fast -qq  -y install dcraw
+sudo apt-fast -qq  -y install *thumbnailer*
+
 # Screenshot
 sudo apt install --install-recommends -shutter  # -install-suggests
 

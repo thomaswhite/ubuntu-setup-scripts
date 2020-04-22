@@ -11,9 +11,9 @@ getNames () {
    local f="$1"
    names=$(cat $f | \
            grep install 2>/dev/null  | \
+	   grep  -o  '^[^#]*'  2>/dev/null  | \
            tr ';' '\n'| \
            tr ',' '\n'| \
-           grep "^[^#]"  2>/dev/null  | \
            sed -e "s/#.*$//g" | \
            grep -vE "echo|sudo snap|add-apt-repository"  2>/dev/null   |  \
            tr '\n' ' '|   tr ' ' '\n' | \

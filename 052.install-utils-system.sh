@@ -20,6 +20,7 @@ sudo apt-fast -qq -y install udisks2
 sudo apt-fast -qq -y install exfat-fuse
 sudo apt-fast -qq -y install exfat-utils
 
+
 #ppa_add webupd8team/y-ppa-manager
 sudo apt-fast -qq -y install y-ppa-manager
 sudo apt-fast -qq -y install launchpad-getkeys
