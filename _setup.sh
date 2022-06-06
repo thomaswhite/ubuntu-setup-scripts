@@ -17,4 +17,4 @@ for f in ~/.bash_functions* ; do source $f; done
 popd
 
 # rulem " $(date +%Y-%m-%d:%H:%M:%S), running file: ${0##*/} "
-rulem " $1 " "="
+#rulem " $1 " "="

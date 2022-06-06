@@ -17,20 +17,13 @@ sudo apt-fast -qq  -y remove xserver-xorg-video-intel
 #sudo systemctl disable apt-daily-upgrade.service
 
 
-sudo systemctl disable kerneloops.service
-sudo systemctl disable ModemManager.service
-sudo systemctl disable speech-dispatcher.service 
+sudo systemctl disable kerneloops.service;          sudo systemctl disable ModemManager.service; 
+sudo systemctl disable speech-dispatcher.service;   sudo systemctl mask speech-dispatcher.service  
+sudo systemctl disable whoopsie.service;            sudo systemctl mask whoopsie.service
 
-sudo systemctl disable whoopsie.service
-sudo systemctl disable bluetooth.service
-sudo systemctl mask    bluetooth.service
-
-sudo systemctl disable brltty.service
-sudo systemctl mask    brltty.service
-
-sudo systemctl disable pppd-dns.service
-sudo systemctl mask    pppd-dns.service
-
+sudo systemctl disable brltty.service;              sudo systemctl mask    brltty.service;
+sudo systemctl disable pppd-dns.service;            sudo systemctl mask    pppd-dns.service
+ 
 sudo systemctl disable cups-browsed.service
 
 
@@ -49,12 +42,12 @@ sudo systemctl enable systemd-readahead-collect.service
 sudo systemctl enable systemd-readahead-replay.service
 
 if ! grep "Acquire::Languages" /etc/apt/apt.conf.d/00aptitude; then 
-  sudo echo 'Acquire::Languages "none";' >> /etc/apt/apt.conf.d/00aptitude
+  echo 'Acquire::Languages "none";' | sudo tee -a /etc/apt/apt.conf.d/00aptitude
 fi
 
 
 if ! grep "vm.swappiness" /etc/sysctl.d/99-sysctl.conf; then 
-  sudo echo 'vm.swappiness=5' >> /etc/sysctl.d/99-sysctl.conf
+  echo 'vm.swappiness=1' | sudo tee -a /etc/sysctl.d/99-sysctl.conf
 fi
 
 

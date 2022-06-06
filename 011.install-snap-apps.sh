@@ -8,7 +8,6 @@ sudo snap install  simplescreenrecorder-mardy tpad
 sudo snap install rclone --classic
 sudo snap install remmina --edge
 
-
 # audio
 # sudo snap install gnome-easytag
 sudo snap install spotify

@@ -7,11 +7,18 @@ sudo apt-fast -qq  -y install webp # Decodes the WebP image file to PNG format [
 sudo apt-fast -qq  -y install dcraw
 sudo apt-fast -qq  -y install *thumbnailer*
 
+ppa_add linuxuprising/shutter
 # Screenshot
-sudo apt install --install-recommends -shutter  # -install-suggests
+sudo apt-fast -qq  -y  install shutter  # -install-suggests
+
+
 
 # photo  ================================
-sudo apt-fast -qq  -y install  converseen pngnq  feh flickrfs frogr postr gpicview simple-image-reducer  viewnior xpaint jpegoptim optipng imagemagick  gimp
+sudo apt-fast -qq  -y install  imagemagick 
+sudo sed -i '/disable ghostscript format types/,+6d' /etc/ImageMagick-6/policy.xml
+
+sudo apt-fast -qq  -y install  converseen pngnq  feh flickrfs frogr postr gpicview simple-image-reducer  viewnior xpaint jpegoptim optipng gimp
+
 sudo apt-fast -qq  -y install  libnotify-bin yad gphoto2
 sudo apt-fast -qq  -y install  shutter
 sudo apt-fast -qq  -y install gnome-raw-thumbnailer ufraw-batch
