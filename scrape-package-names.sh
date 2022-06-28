@@ -3,7 +3,7 @@
 source /etc/os-release
 
 echo "$ID $VERSION_ID $UBUNTU_CODENAME"
-#echo "" > "scraped_packages_$ID$VERSION_ID$UBUNTU_CODENAME.txt"
+# echo "" > "scraped_packages_$ID$VERSION_ID$UBUNTU_CODENAME.txt"
 
 FILES=./*.sh # history.txt  #
 

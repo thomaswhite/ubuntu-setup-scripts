@@ -1,0 +1,91 @@
+history | cut -c 8-  | grep "sudo apt-" | grep install 
+history | cut -c 8-  | grep "sudo apt" | grep install | sort -u
+history | cut -c 8-  | grep "sudo apt-" | grep install | sort -u
+history | cut -c 8-  | grep "sudo apt" | grep install | sort -u > 2022-06-07_history-scraped_sorted.txt 
+sudo apt-fast install argyll
+sudo apt-fast install  build-essential 
+sudo apt-fast install dconf-editor 
+sudo apt-fast install dh-autoreconf libcurl4-gnutls-dev libexpat1-dev   gettext libz-dev libssl-dev sciidoc xmlto docbook2x install-info
+sudo apt-fast install dh-autoreconf libcurl4-gnutls-dev libexpat1-dev   gettext libz-dev libssl-dev  xmlto docbook2x install-info
+sudo apt-fast install equivs
+sudo apt-fast install *ffmpegthumbnailer *kffmegthumbnailer *kdethumbnailer
+sudo apt-fast install ffmpegthumbs
+sudo apt-fast install filezilla nomacs xournal xsane zim ghostwriter gtimelog meld
+sudo apt-fast install flatpack
+sudo apt-fast install foremost
+sudo apt-fast install fprintd
+sudo apt-fast install   fsniper
+sudo apt-fast install git-all -y
+sudo apt-fast install git-crypt
+sudo apt-fast install gnome-color-manager
+sudo apt-fast install google-chrome-stable
+sudo apt-fast install gthumb
+sudo apt-fast install inxi
+sudo apt-fast install kdegraphics-thumbnailers
+sudo apt-fast install kdegraphics-thumbnailers --reinstall
+sudo apt-fast install kdesudo
+sudo apt-fast install kio-extras
+sudo apt-fast install kubuntu-settings-desktop
+sudo apt-fast install libsecret-tools
+sudo apt-fast install micro
+sudo apt-fast install openimageio-tools
+sudo apt-fast install pfSense 
+sudo apt-fast install pixelorama
+sudo apt-fast install python
+sudo apt-fast install qcmsevents
+sudo apt-fast install  --reinstall dolphin
+sudo apt-fast install  --reinstall dolphin-plugins 
+sudo apt-fast install  --reinstall ffmpegthumbs kdegraphics-thumbnailers kdesdk-thumbnailers 
+sudo apt-fast install  --reinstall ffmpegthumbs kdegraphics-thumbnailers kdesdk-thumbnailers raw-thumbnailer
+sudo apt-fast install squashfuse -y
+sudo apt-fast install *thumbnailer
+sudo apt-fast install *thumbnailer --reinstall
+sudo apt-fast install util-linux
+sudo apt-fast install virtualbox
+sudo apt-fast install -y xscreensaver
+sudo apt-fast install -y xscreensaver*
+sudo apt-fast install zoom
+sudo apt-fast reinstall chrome
+sudo apt-fast remove dh-autoreconf libcurl4-gnutls-dev libexpat1-dev   gettext libz-dev libssl-dev  xmlto docbook2x install-info
+sudo apt-fast -y install audacity obs-studio simplescreenrecorder olive-editor kdenlive guvcview peek audacious audacious-plugins audacious-plugins-data clementine 
+sudo apt-fast -y install autoconf automake autotools-dev libtool pkg-config    libjpeg-dev
+sudo apt-fast -y install autoconf automake autotools-dev libtool pkg-config   libpng12-dev libjpeg libjpeg-dev
+sudo apt-fast -y install autoconf automake autotools-dev libtool pkg-config   libpng12 libpng12-dev libjpeg libjpeg-dev
+sudo apt-fast -y install flatpak
+sudo apt-get install android-tools-adb
+sudo apt-get install build-essential
+sudo apt-get install dupeguru
+sudo apt-get install fdupes
+sudo apt-get install fslint
+sudo apt-get install libpam-u2f
+sudo apt-get install traceroute -y
+sudo apt-get install ubuntu-release-upgrader-qt
+sudo apt-get install xscreensaver xscreensaver-data-extra xscreensaver-gl-extra
+sudo apt-get install -y boot-repair
+sudo apt-get install -y glue-sprite
+sudo apt install dolphin-plugins
+sudo apt install exif
+sudo apt install exiv2
+sudo apt install ffmpegthumbnailer
+sudo apt install ffmpegthumbs  kio-extras
+sudo apt install ffmpegthumbs mplayerthumbs kffmpegthumbnailer
+sudo apt install ffmpegthumbs mplayerthumbs kffmpegthumbnailer kio-extras
+sudo apt install ffmpegthumbs mplayerthumbs  kio-extras
+sudo apt install fslint
+sudo apt install gdebi-core wget 
+sudo apt install icoextract-thumbnailer
+sudo apt install jhead
+sudo apt  install jq 
+sudo apt install kate
+sudo apt install kate*
+sudo apt install kdesdk-thumbnailers
+sudo apt install kolor-manager
+sudo apt install libgirepository1.0-dev gcc libcairo2-dev pkg-config python3-dev gir1.2-gtk-3.0
+sudo apt install libgtk-4-dev ffmpeg
+sudo apt install libjpeg-dev
+sudo apt install libjxl-dev
+sudo apt install libpam-u2f
+sudo apt install libpng-dev
+sudo apt install mc ppa-purge screenfetch gnome-disk-utility geany kronometer treesheets gprename samba gitk
+sudo apt install micro
+sudo apt install rmlint
